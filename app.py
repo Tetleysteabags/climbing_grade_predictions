@@ -14,8 +14,8 @@ def load_pickle_from_url(url):
     return pickle.loads(response.content)
 
 # Load the saved model and scaler from GitHub
-model_url = 'https://github.com/Tetleysteabags/climbing_ml_project/raw/master/best_model_rf.pkl'
-scaler_url = 'https://github.com/Tetleysteabags/climbing_ml_project/raw/master/scaler.pkl'
+model_url = 'https://github.com/Tetleysteabags/climbing_ml_project/raw/main/best_model_rf.pkl'
+scaler_url = 'https://github.com/Tetleysteabags/climbing_ml_project/raw/main/scaler.pkl'
 
 model = load_pickle_from_url(model_url)
 scaler = load_pickle_from_url(scaler_url)
