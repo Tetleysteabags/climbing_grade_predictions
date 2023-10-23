@@ -33,7 +33,7 @@ def user_input_features():
     max_pullups = st.sidebar.number_input('Max pullups in single go', min_value=0.0, max_value=50.0, value=10.0)
     max_hang_weight = st.sidebar.number_input('Max weight added to hang for 10 seconds from a 20mm edge (kg)', min_value=0.0, max_value=100.0, value=10.0)
     max_pullup_weight = st.sidebar.number_input('Max weight added to a single pullup (kg)', min_value=0.0, max_value=100.0, value=10.0)
-    continious = st.sidebar.number_input('Continious hang from 20mm edge (seconds)', min_value=1, max_value=1000, value=30)
+    continuous = st.sidebar.number_input('Continuous hang from 20mm edge (seconds)', min_value=1, max_value=1000, value=30)
     repeaters = st.sidebar.number_input('7:3 hangs on a 20mm edge (total time in seconds)', min_value=1, max_value=1000, value=120)
     exp = st.sidebar.number_input('Climbing experience (years)', min_value=0.0, max_value=50.0, value=5.0)
     days = st.sidebar.number_input('Days climbing outside per month', min_value=1, max_value=30, value=5)
@@ -48,7 +48,7 @@ def user_input_features():
         'strength_to_weight_pullup': strength_to_weight_pullup,
         'strength_to_weight_maxhang': strength_to_weight_maxhang,
         'strength_to_weight_weightpull': strength_to_weight_weightpull,
-        'continious': continious,
+        'continuous': continuous,
         'repeaters1': repeaters,
         'exp': exp,
         'days': days
