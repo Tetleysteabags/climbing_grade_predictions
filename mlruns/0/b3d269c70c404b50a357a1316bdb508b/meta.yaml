@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/b3d269c70c404b50a357a1316bdb508b/artifacts
+end_time: 1698079554534
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b3d269c70c404b50a357a1316bdb508b
+run_name: bemused-carp-332
+run_uuid: b3d269c70c404b50a357a1316bdb508b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698079554416
+status: 3
+tags: []
+user_id: thomasgeorgiou

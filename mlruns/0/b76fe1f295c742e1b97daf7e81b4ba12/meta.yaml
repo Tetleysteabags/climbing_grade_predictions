@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/b76fe1f295c742e1b97daf7e81b4ba12/artifacts
+end_time: 1698079555082
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b76fe1f295c742e1b97daf7e81b4ba12
+run_name: beautiful-mink-155
+run_uuid: b76fe1f295c742e1b97daf7e81b4ba12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698079555020
+status: 3
+tags: []
+user_id: thomasgeorgiou

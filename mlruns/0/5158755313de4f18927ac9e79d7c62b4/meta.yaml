@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/5158755313de4f18927ac9e79d7c62b4/artifacts
+end_time: 1698079151782
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5158755313de4f18927ac9e79d7c62b4
+run_name: secretive-cow-976
+run_uuid: 5158755313de4f18927ac9e79d7c62b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698079151717
+status: 3
+tags: []
+user_id: thomasgeorgiou

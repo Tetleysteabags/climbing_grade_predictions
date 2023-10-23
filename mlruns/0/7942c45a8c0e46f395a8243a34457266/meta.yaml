@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/7942c45a8c0e46f395a8243a34457266/artifacts
+end_time: 1698079151922
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7942c45a8c0e46f395a8243a34457266
+run_name: delicate-ant-6
+run_uuid: 7942c45a8c0e46f395a8243a34457266
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698079151787
+status: 3
+tags: []
+user_id: thomasgeorgiou

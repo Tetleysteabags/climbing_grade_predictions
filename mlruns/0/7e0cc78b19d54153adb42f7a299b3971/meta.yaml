@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/7e0cc78b19d54153adb42f7a299b3971/artifacts
+end_time: 1698079557170
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7e0cc78b19d54153adb42f7a299b3971
+run_name: big-grub-533
+run_uuid: 7e0cc78b19d54153adb42f7a299b3971
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698079557099
+status: 3
+tags: []
+user_id: thomasgeorgiou

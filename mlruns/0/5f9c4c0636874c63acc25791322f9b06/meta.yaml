@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/5f9c4c0636874c63acc25791322f9b06/artifacts
+end_time: 1698079151418
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5f9c4c0636874c63acc25791322f9b06
+run_name: magnificent-foal-654
+run_uuid: 5f9c4c0636874c63acc25791322f9b06
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698079151338
+status: 3
+tags: []
+user_id: thomasgeorgiou

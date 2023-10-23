@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/03d0929e342c430683c1f460b4d44729/artifacts
+end_time: 1698079152040
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 03d0929e342c430683c1f460b4d44729
+run_name: masked-fly-909
+run_uuid: 03d0929e342c430683c1f460b4d44729
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698079151946
+status: 3
+tags: []
+user_id: thomasgeorgiou
