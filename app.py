@@ -110,7 +110,7 @@ bouldering_predicted_grade = convert_numeric_to_v_grade(float(bouldering_predict
 
 # Make sport predictions
 sport_prediction = sport_model.predict(scaled_features_sport)
-sport_predicted_grade = convert_numeric_to_v_grade(float(sport_prediction[0]))
+sport_predicted_grade = convert_numeric_to_f_grade(float(sport_prediction[0]))
 
 # Display the prediction for bouldering
 st.header(f'Predicted Max Boulder Grade: {bouldering_predicted_grade}')
