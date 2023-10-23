@@ -1,0 +1,5 @@
+{
+  "mean_absolute_error_X_test_scaled": "mean_absolute_error(y_true=y_test, y_pred=y_pred)",
+  "mean_squared_error_X_test_scaled": "mean_squared_error(y_true=y_test, y_pred=y_pred)",
+  "r2_score_X_test_scaled": "r2_score(y_true=y_test, y_pred=y_pred)"
+}

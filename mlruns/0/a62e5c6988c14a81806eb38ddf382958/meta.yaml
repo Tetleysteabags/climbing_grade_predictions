@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/a62e5c6988c14a81806eb38ddf382958/artifacts
+end_time: 1697885738623
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a62e5c6988c14a81806eb38ddf382958
+run_name: silent-grouse-504
+run_uuid: a62e5c6988c14a81806eb38ddf382958
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697885734930
+status: 3
+tags: []
+user_id: thomasgeorgiou

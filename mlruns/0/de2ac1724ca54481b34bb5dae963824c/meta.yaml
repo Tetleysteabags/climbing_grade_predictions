@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/de2ac1724ca54481b34bb5dae963824c/artifacts
+end_time: 1698002499050
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: de2ac1724ca54481b34bb5dae963824c
+run_name: silent-hog-19
+run_uuid: de2ac1724ca54481b34bb5dae963824c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698002234047
+status: 3
+tags: []
+user_id: thomasgeorgiou

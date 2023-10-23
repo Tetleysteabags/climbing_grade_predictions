@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/9aea1522b65744d4b564924770e3b524/artifacts
+end_time: 1697886433451
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9aea1522b65744d4b564924770e3b524
+run_name: monumental-koi-423
+run_uuid: 9aea1522b65744d4b564924770e3b524
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697886430290
+status: 3
+tags: []
+user_id: thomasgeorgiou

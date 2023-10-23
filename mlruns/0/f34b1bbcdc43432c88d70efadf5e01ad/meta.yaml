@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/f34b1bbcdc43432c88d70efadf5e01ad/artifacts
+end_time: 1698002696854
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f34b1bbcdc43432c88d70efadf5e01ad
+run_name: receptive-bass-864
+run_uuid: f34b1bbcdc43432c88d70efadf5e01ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698002500105
+status: 3
+tags: []
+user_id: thomasgeorgiou

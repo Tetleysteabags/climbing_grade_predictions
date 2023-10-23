@@ -1,0 +1,13 @@
+digest: 9c65e8f3
+name: dataset
+profile: '{"num_rows": 36, "num_elements": 468}'
+schema: '{"mlflow_colspec": [{"type": "double", "name": "const"}, {"type": "double",
+  "name": "strength_to_weight_pullup"}, {"type": "double", "name": "strength_to_weight_maxhang"},
+  {"type": "double", "name": "strength_to_weight_weightpull"}, {"type": "double",
+  "name": "continuous"}, {"type": "double", "name": "shortcamp"}, {"type": "double",
+  "name": "longcamp"}, {"type": "double", "name": "repeaters1"}, {"type": "double",
+  "name": "pushup"}, {"type": "double", "name": "span"}, {"type": "double", "name":
+  "exp"}, {"type": "double", "name": "days"}, {"type": "double", "name": "trainexp"}]}'
+source: '{"tags": {"mlflow.user": "thomasgeorgiou", "mlflow.source.name": "/Users/thomasgeorgiou/anaconda3/lib/python3.10/site-packages/ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/8f9336fa908d48178b655bd590a797f1/artifacts
+end_time: 1698002233350
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8f9336fa908d48178b655bd590a797f1
+run_name: bold-shark-299
+run_uuid: 8f9336fa908d48178b655bd590a797f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698002039418
+status: 3
+tags: []
+user_id: thomasgeorgiou

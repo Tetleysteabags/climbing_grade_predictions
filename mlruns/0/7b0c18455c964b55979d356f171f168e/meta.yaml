@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/7b0c18455c964b55979d356f171f168e/artifacts
+end_time: 1698002036939
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7b0c18455c964b55979d356f171f168e
+run_name: secretive-fish-686
+run_uuid: 7b0c18455c964b55979d356f171f168e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698002036754
+status: 3
+tags: []
+user_id: thomasgeorgiou

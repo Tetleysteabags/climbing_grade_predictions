@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/d1d4a892a0d5402ea98b6ce1a3a45299/artifacts
+end_time: 1698002036508
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d1d4a892a0d5402ea98b6ce1a3a45299
+run_name: youthful-snipe-118
+run_uuid: d1d4a892a0d5402ea98b6ce1a3a45299
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698002036444
+status: 3
+tags: []
+user_id: thomasgeorgiou

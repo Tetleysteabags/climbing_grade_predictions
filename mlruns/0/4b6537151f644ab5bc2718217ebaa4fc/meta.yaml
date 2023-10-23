@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/4b6537151f644ab5bc2718217ebaa4fc/artifacts
+end_time: 1698002696854
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4b6537151f644ab5bc2718217ebaa4fc
+run_name: burly-midge-995
+run_uuid: 4b6537151f644ab5bc2718217ebaa4fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698002500105
+status: 3
+tags: []
+user_id: thomasgeorgiou

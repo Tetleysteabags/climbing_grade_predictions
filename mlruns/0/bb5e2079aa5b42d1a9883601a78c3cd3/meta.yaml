@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/bb5e2079aa5b42d1a9883601a78c3cd3/artifacts
+end_time: 1697886713639
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bb5e2079aa5b42d1a9883601a78c3cd3
+run_name: colorful-gull-326
+run_uuid: bb5e2079aa5b42d1a9883601a78c3cd3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697886434513
+status: 3
+tags: []
+user_id: thomasgeorgiou

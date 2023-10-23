@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/929b2176f93242a391ca7cc68b7871cd/artifacts
+end_time: 1698002037220
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 929b2176f93242a391ca7cc68b7871cd
+run_name: mysterious-owl-419
+run_uuid: 929b2176f93242a391ca7cc68b7871cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698002037131
+status: 3
+tags: []
+user_id: thomasgeorgiou

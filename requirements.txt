@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+scikit-learn
+statsmodels
+shap
+mlflow
+pickle-mixin
+streamlit
+requests

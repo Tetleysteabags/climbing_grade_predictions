@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/790fc958f07e4ad1b11b187bf76815bd/artifacts
+end_time: 1698002038460
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 790fc958f07e4ad1b11b187bf76815bd
+run_name: bouncy-shoat-591
+run_uuid: 790fc958f07e4ad1b11b187bf76815bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698002038403
+status: 3
+tags: []
+user_id: thomasgeorgiou

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/d74755dc992d4955af7579f4f3516228/artifacts
+end_time: 1698002499050
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d74755dc992d4955af7579f4f3516228
+run_name: trusting-bat-906
+run_uuid: d74755dc992d4955af7579f4f3516228
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698002234047
+status: 3
+tags: []
+user_id: thomasgeorgiou

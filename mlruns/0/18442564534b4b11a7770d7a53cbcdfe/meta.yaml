@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/18442564534b4b11a7770d7a53cbcdfe/artifacts
+end_time: 1697886218378
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 18442564534b4b11a7770d7a53cbcdfe
+run_name: learned-owl-933
+run_uuid: 18442564534b4b11a7770d7a53cbcdfe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697885942458
+status: 3
+tags: []
+user_id: thomasgeorgiou
