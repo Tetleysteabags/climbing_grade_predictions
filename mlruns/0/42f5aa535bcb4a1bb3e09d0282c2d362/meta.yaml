@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/42f5aa535bcb4a1bb3e09d0282c2d362/artifacts
+end_time: 1698130636260
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 42f5aa535bcb4a1bb3e09d0282c2d362
+run_name: lyrical-goose-380
+run_uuid: 42f5aa535bcb4a1bb3e09d0282c2d362
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698130636186
+status: 3
+tags: []
+user_id: thomasgeorgiou

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/82e7eb91bf81419986dd5d6e53589278/artifacts
+end_time: 1698130636667
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 82e7eb91bf81419986dd5d6e53589278
+run_name: valuable-pig-225
+run_uuid: 82e7eb91bf81419986dd5d6e53589278
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698130636594
+status: 3
+tags: []
+user_id: thomasgeorgiou

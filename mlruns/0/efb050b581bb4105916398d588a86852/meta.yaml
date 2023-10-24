@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/efb050b581bb4105916398d588a86852/artifacts
+end_time: 1698133458799
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: efb050b581bb4105916398d588a86852
+run_name: adaptable-hen-902
+run_uuid: efb050b581bb4105916398d588a86852
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698133458723
+status: 3
+tags: []
+user_id: thomasgeorgiou

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/1533a61ff0b84d4ab21e1590f539f324/artifacts
+end_time: 1698133458951
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1533a61ff0b84d4ab21e1590f539f324
+run_name: bemused-whale-512
+run_uuid: 1533a61ff0b84d4ab21e1590f539f324
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698133458880
+status: 3
+tags: []
+user_id: thomasgeorgiou

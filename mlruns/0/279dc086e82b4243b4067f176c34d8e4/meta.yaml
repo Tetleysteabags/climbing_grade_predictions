@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/279dc086e82b4243b4067f176c34d8e4/artifacts
+end_time: 1698130636082
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 279dc086e82b4243b4067f176c34d8e4
+run_name: selective-bug-116
+run_uuid: 279dc086e82b4243b4067f176c34d8e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698130635946
+status: 3
+tags: []
+user_id: thomasgeorgiou

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/aa85f3275d7d4eceb8cad59d785ec13a/artifacts
+end_time: 1698133459347
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aa85f3275d7d4eceb8cad59d785ec13a
+run_name: colorful-koi-16
+run_uuid: aa85f3275d7d4eceb8cad59d785ec13a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698133459271
+status: 3
+tags: []
+user_id: thomasgeorgiou

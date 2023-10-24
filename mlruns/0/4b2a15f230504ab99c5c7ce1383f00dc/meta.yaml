@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/4b2a15f230504ab99c5c7ce1383f00dc/artifacts
+end_time: 1698130636177
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4b2a15f230504ab99c5c7ce1383f00dc
+run_name: hilarious-skunk-348
+run_uuid: 4b2a15f230504ab99c5c7ce1383f00dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698130636087
+status: 3
+tags: []
+user_id: thomasgeorgiou

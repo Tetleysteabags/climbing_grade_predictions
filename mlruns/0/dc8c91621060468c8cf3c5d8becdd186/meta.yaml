@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/dc8c91621060468c8cf3c5d8becdd186/artifacts
+end_time: 1698133458875
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dc8c91621060468c8cf3c5d8becdd186
+run_name: serious-horse-511
+run_uuid: dc8c91621060468c8cf3c5d8becdd186
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698133458804
+status: 3
+tags: []
+user_id: thomasgeorgiou

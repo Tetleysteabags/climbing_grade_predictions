@@ -1,0 +1,37 @@
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                      y   R-squared:                       0.721
+Model:                            OLS   Adj. R-squared:                  0.715
+Method:                 Least Squares   F-statistic:                     113.1
+Date:                Tue, 24 Oct 2023   Prob (F-statistic):          1.01e-125
+Time:                        10:44:18   Log-Likelihood:                -143.07
+No. Observations:                 493   AIC:                             310.1
+Df Residuals:                     481   BIC:                             360.6
+Df Model:                          11                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const          0.0950      0.258      0.368      0.713      -0.413       0.603
+x1            -0.0524      0.080     -0.653      0.514      -0.210       0.105
+x2             0.4200      0.039     10.709      0.000       0.343       0.497
+x3             0.0150      0.001     13.716      0.000       0.013       0.017
+x4            -0.0002      0.000     -0.915      0.361      -0.001       0.000
+x5            -0.0010      0.001     -1.722      0.086      -0.002       0.000
+x6             0.0014      0.000      4.797      0.000       0.001       0.002
+x7            -0.0008      0.002     -0.531      0.596      -0.004       0.002
+x8             0.0023      0.001      1.563      0.119      -0.001       0.005
+x9             0.0052      0.011      0.472      0.637      -0.017       0.027
+x10           -0.0007      0.003     -0.219      0.827      -0.007       0.006
+x11            0.0070      0.011      0.607      0.544      -0.016       0.029
+==============================================================================
+Omnibus:                       47.622   Durbin-Watson:                   2.067
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):              147.529
+Skew:                           0.418   Prob(JB):                     9.22e-33
+Kurtosis:                       5.546   Cond. No.                     5.25e+03
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The condition number is large, 5.25e+03. This might indicate that there are
+strong multicollinearity or other numerical problems.

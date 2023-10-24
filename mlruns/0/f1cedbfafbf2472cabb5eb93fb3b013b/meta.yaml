@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/f1cedbfafbf2472cabb5eb93fb3b013b/artifacts
+end_time: 1698133433176
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f1cedbfafbf2472cabb5eb93fb3b013b
+run_name: abrasive-zebra-903
+run_uuid: f1cedbfafbf2472cabb5eb93fb3b013b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698133433092
+status: 3
+tags: []
+user_id: thomasgeorgiou

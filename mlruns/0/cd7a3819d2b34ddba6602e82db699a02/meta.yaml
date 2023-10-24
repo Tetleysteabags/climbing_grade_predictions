@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/cd7a3819d2b34ddba6602e82db699a02/artifacts
+end_time: 1698133432341
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cd7a3819d2b34ddba6602e82db699a02
+run_name: fun-swan-364
+run_uuid: cd7a3819d2b34ddba6602e82db699a02
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698133432156
+status: 3
+tags: []
+user_id: thomasgeorgiou

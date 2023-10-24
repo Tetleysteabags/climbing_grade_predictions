@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/206b9ed863ee473a9446c7e424891b7d/artifacts
+end_time: 1698133458718
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 206b9ed863ee473a9446c7e424891b7d
+run_name: wistful-snipe-57
+run_uuid: 206b9ed863ee473a9446c7e424891b7d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698133458640
+status: 3
+tags: []
+user_id: thomasgeorgiou

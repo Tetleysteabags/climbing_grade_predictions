@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/f16849989c94418e898416941d35e13d/artifacts
+end_time: 1698130636903
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f16849989c94418e898416941d35e13d
+run_name: burly-lynx-298
+run_uuid: f16849989c94418e898416941d35e13d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698130636827
+status: 3
+tags: []
+user_id: thomasgeorgiou

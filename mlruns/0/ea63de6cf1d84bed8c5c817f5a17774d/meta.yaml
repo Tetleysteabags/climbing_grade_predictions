@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/ea63de6cf1d84bed8c5c817f5a17774d/artifacts
+end_time: 1698130672050
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ea63de6cf1d84bed8c5c817f5a17774d
+run_name: big-whale-71
+run_uuid: ea63de6cf1d84bed8c5c817f5a17774d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698130671966
+status: 3
+tags: []
+user_id: thomasgeorgiou

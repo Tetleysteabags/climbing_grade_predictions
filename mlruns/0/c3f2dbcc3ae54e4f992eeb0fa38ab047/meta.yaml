@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/c3f2dbcc3ae54e4f992eeb0fa38ab047/artifacts
+end_time: 1698133432728
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c3f2dbcc3ae54e4f992eeb0fa38ab047
+run_name: able-stoat-216
+run_uuid: c3f2dbcc3ae54e4f992eeb0fa38ab047
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698133432662
+status: 3
+tags: []
+user_id: thomasgeorgiou

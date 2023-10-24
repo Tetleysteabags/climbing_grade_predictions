@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/28c7f4fd88ce41c1a85c68fcf8b0c397/artifacts
+end_time: 1698130672302
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 28c7f4fd88ce41c1a85c68fcf8b0c397
+run_name: nervous-finch-711
+run_uuid: 28c7f4fd88ce41c1a85c68fcf8b0c397
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698130672220
+status: 3
+tags: []
+user_id: thomasgeorgiou

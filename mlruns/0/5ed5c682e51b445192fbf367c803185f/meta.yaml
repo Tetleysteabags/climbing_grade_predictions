@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/5ed5c682e51b445192fbf367c803185f/artifacts
+end_time: 1698130672416
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5ed5c682e51b445192fbf367c803185f
+run_name: trusting-deer-784
+run_uuid: 5ed5c682e51b445192fbf367c803185f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698130672308
+status: 3
+tags: []
+user_id: thomasgeorgiou
