@@ -56,14 +56,45 @@ def user_input_features():
     }
 
     features = pd.DataFrame(data, index=[0])
-    return features
+    return strength_to_weight_pullup, strength_to_weight_maxhang, strength_to_weight_weightpull, continuous, repeaters, exp, trainexp, days
 
-input_df = user_input_features()
+# Create separate functions for bouldering and sport features
+# Collect bouldering-specific features here
+def bouldering_input_features(strength_to_weight_pullup, strength_to_weight_maxhang, strength_to_weight_weightpull,repeaters, trainexp, days):
+    data_bouldering = {
+        'strength_to_weight_pullup': strength_to_weight_pullup,
+        'strength_to_weight_maxhang': strength_to_weight_maxhang,
+        'strength_to_weight_weightpull': strength_to_weight_weightpull,
+        'repeaters1': repeaters,
+        'trainexp': trainexp,
+        'days': days
+    }
+    return pd.DataFrame(data_bouldering, index=[0])
+
+# Collect sport-specific features here                       
+def sport_input_features(strength_to_weight_pullup, strength_to_weight_maxhang, strength_to_weight_weightpull, continuous, repeaters, exp, trainexp, days):
+    data_sport = {
+        'strength_to_weight_pullup': strength_to_weight_pullup,
+        'strength_to_weight_maxhang': strength_to_weight_maxhang,
+        'strength_to_weight_weightpull': strength_to_weight_weightpull,
+        'continuous': continuous,
+        'repeaters1': repeaters,
+        'exp': exp,
+        'trainexp': trainexp,
+        'days': days
+    }
+    return pd.DataFrame(data_sport, index=[0])
+
+# Get the calculated variables from user_input_features
+strength_to_weight_pullup, strength_to_weight_maxhang, strength_to_weight_weightpull, continuous, repeaters, exp, trainexp, days = user_input_features()
+
+# Pass them to bouldering_input_features and sport_input_features
+input_df_bouldering = bouldering_input_features(strength_to_weight_pullup, strength_to_weight_maxhang, strength_to_weight_weightpull, repeaters, trainexp, days)
+input_df_sport = sport_input_features(strength_to_weight_pullup, strength_to_weight_maxhang, strength_to_weight_weightpull, continuous, repeaters, exp, trainexp, days)
 
 # Apply the same preprocessing used during model training
-scaled_features = bouldering_scaler.transform(input_df)
-scaled_features_sport = sport_scaler.transform(input_df)
-
+scaled_features_bouldering = bouldering_scaler.transform(input_df_bouldering)
+scaled_features_sport = sport_scaler.transform(input_df_sport)
 
 # Mapping functions to produce output in the correct value (e.g. V grade for bouldering and French for sport)
 # Bouldering
@@ -112,7 +143,7 @@ def convert_numeric_to_f_grade(numeric_grade):
 
 # Modeling and predictions to display as output
 # Make bouldering predictions
-bouldering_prediction = bouldering_model.predict(scaled_features)
+bouldering_prediction = bouldering_model.predict(scaled_features_bouldering)
 bouldering_predicted_grade = convert_numeric_to_v_grade(float(bouldering_prediction[0]))
 
 # Make sport predictions
