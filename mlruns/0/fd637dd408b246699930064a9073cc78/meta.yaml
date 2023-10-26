@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/fd637dd408b246699930064a9073cc78/artifacts
+deleted_time: 1698218509614
 end_time: 1698002233350
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: fd637dd408b246699930064a9073cc78
 run_name: indecisive-goat-231
 run_uuid: fd637dd408b246699930064a9073cc78

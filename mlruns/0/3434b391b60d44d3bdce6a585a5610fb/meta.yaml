@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/3434b391b60d44d3bdce6a585a5610fb/artifacts
+deleted_time: 1698214921549
 end_time: 1698002036018
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 3434b391b60d44d3bdce6a585a5610fb
 run_name: overjoyed-auk-48
 run_uuid: 3434b391b60d44d3bdce6a585a5610fb

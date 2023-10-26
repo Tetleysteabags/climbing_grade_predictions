@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/7bfb285eaac94a24aa318c50adc81909/artifacts
+deleted_time: 1698167428879
+end_time: 1698141486796
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 7bfb285eaac94a24aa318c50adc81909
+run_name: peaceful-dolphin-103
+run_uuid: 7bfb285eaac94a24aa318c50adc81909
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141486203
+status: 3
+tags: []
+user_id: thomasgeorgiou

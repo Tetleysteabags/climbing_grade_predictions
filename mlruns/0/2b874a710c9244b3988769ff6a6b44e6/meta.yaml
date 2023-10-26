@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/2b874a710c9244b3988769ff6a6b44e6/artifacts
+deleted_time: 1698168415515
+end_time: 1698141400331
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 2b874a710c9244b3988769ff6a6b44e6
+run_name: resilient-dog-726
+run_uuid: 2b874a710c9244b3988769ff6a6b44e6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141399951
+status: 3
+tags: []
+user_id: thomasgeorgiou

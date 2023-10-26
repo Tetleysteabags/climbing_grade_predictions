@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/185911bba3de4e918232716f1838ab70/artifacts
+deleted_time: 1698168619353
+end_time: 1698141336767
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 185911bba3de4e918232716f1838ab70
+run_name: dashing-crow-763
+run_uuid: 185911bba3de4e918232716f1838ab70
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141336108
+status: 3
+tags: []
+user_id: thomasgeorgiou

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/230c171c54a74cfda2c5de2c14e4d0da/artifacts
+deleted_time: 1698218537700
+end_time: 1698218095097
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 230c171c54a74cfda2c5de2c14e4d0da
+run_name: handsome-deer-785
+run_uuid: 230c171c54a74cfda2c5de2c14e4d0da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698218095020
+status: 3
+tags: []
+user_id: thomasgeorgiou

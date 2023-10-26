@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/e2d44d0a8cc14fab9bc7abab3230d88e/artifacts
+deleted_time: 1698214921216
+end_time: 1698141263771
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: e2d44d0a8cc14fab9bc7abab3230d88e
+run_name: clean-rook-705
+run_uuid: e2d44d0a8cc14fab9bc7abab3230d88e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141263006
+status: 3
+tags: []
+user_id: thomasgeorgiou

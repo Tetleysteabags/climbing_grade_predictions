@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/3aef788e29d041a38d04a2292953edbb/artifacts
+deleted_time: 1698168680252
+end_time: 1698141133726
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 3aef788e29d041a38d04a2292953edbb
+run_name: ambitious-snail-497
+run_uuid: 3aef788e29d041a38d04a2292953edbb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141133237
+status: 3
+tags: []
+user_id: thomasgeorgiou

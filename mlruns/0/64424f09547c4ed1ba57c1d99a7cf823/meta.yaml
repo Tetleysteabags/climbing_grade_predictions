@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/64424f09547c4ed1ba57c1d99a7cf823/artifacts
+deleted_time: 1698168490807
+end_time: 1698141192601
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 64424f09547c4ed1ba57c1d99a7cf823
+run_name: magnificent-kit-646
+run_uuid: 64424f09547c4ed1ba57c1d99a7cf823
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141191961
+status: 3
+tags: []
+user_id: thomasgeorgiou

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/6675185678254e528502ea9d6fc5b8e8/artifacts
+deleted_time: 1698214921355
+end_time: 1698141233223
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 6675185678254e528502ea9d6fc5b8e8
+run_name: sassy-seal-843
+run_uuid: 6675185678254e528502ea9d6fc5b8e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141232772
+status: 3
+tags: []
+user_id: thomasgeorgiou

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/6414fea3281e4d5daf0d0795918675c4/artifacts
+deleted_time: 1698168490920
+end_time: 1698141154376
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 6414fea3281e4d5daf0d0795918675c4
+run_name: serious-crab-489
+run_uuid: 6414fea3281e4d5daf0d0795918675c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141153924
+status: 3
+tags: []
+user_id: thomasgeorgiou

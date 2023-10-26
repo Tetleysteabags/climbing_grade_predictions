@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/01d3031db266474983b129ed257d0734/artifacts
+deleted_time: 1698168680265
+end_time: 1698141131365
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 01d3031db266474983b129ed257d0734
+run_name: able-worm-528
+run_uuid: 01d3031db266474983b129ed257d0734
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141131023
+status: 3
+tags: []
+user_id: thomasgeorgiou

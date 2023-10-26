@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/4ec961e1eb3045c190d85343afe67018/artifacts
+deleted_time: 1698168415532
+end_time: 1698141396292
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 4ec961e1eb3045c190d85343afe67018
+run_name: treasured-wasp-736
+run_uuid: 4ec961e1eb3045c190d85343afe67018
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141395732
+status: 3
+tags: []
+user_id: thomasgeorgiou

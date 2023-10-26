@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/c6f6d2470da54d6c8345578ced5b8326/artifacts
+deleted_time: 1698168524506
 end_time: 1698079557094
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: c6f6d2470da54d6c8345578ced5b8326
 run_name: handsome-horse-445
 run_uuid: c6f6d2470da54d6c8345578ced5b8326

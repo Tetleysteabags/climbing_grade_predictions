@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/922a4ba7315946d886cd79aacd0d7e9e/artifacts
+deleted_time: 1698214921365
+end_time: 1698141229256
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 922a4ba7315946d886cd79aacd0d7e9e
+run_name: rumbling-wasp-718
+run_uuid: 922a4ba7315946d886cd79aacd0d7e9e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141228565
+status: 3
+tags: []
+user_id: thomasgeorgiou

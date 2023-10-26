@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/d784ec627c0c464d97610ce2f8023426/artifacts
+deleted_time: 1698168619232
+end_time: 1698141372689
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: d784ec627c0c464d97610ce2f8023426
+run_name: delightful-colt-959
+run_uuid: d784ec627c0c464d97610ce2f8023426
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141372124
+status: 3
+tags: []
+user_id: thomasgeorgiou

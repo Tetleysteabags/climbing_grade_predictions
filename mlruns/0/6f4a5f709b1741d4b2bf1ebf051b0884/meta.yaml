@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/6f4a5f709b1741d4b2bf1ebf051b0884/artifacts
+deleted_time: 1698167429077
+end_time: 1698141451673
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 6f4a5f709b1741d4b2bf1ebf051b0884
+run_name: fun-flea-437
+run_uuid: 6f4a5f709b1741d4b2bf1ebf051b0884
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141451183
+status: 3
+tags: []
+user_id: thomasgeorgiou

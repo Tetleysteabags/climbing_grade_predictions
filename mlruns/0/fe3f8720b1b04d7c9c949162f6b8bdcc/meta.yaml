@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/fe3f8720b1b04d7c9c949162f6b8bdcc/artifacts
+deleted_time: 1698168415529
+end_time: 1698141397071
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: fe3f8720b1b04d7c9c949162f6b8bdcc
+run_name: omniscient-asp-533
+run_uuid: fe3f8720b1b04d7c9c949162f6b8bdcc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141396326
+status: 3
+tags: []
+user_id: thomasgeorgiou

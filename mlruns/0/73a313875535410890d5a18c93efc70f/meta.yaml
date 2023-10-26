@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/73a313875535410890d5a18c93efc70f/artifacts
+deleted_time: 1698168490851
+end_time: 1698141179087
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 73a313875535410890d5a18c93efc70f
+run_name: intelligent-lynx-658
+run_uuid: 73a313875535410890d5a18c93efc70f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141178608
+status: 3
+tags: []
+user_id: thomasgeorgiou

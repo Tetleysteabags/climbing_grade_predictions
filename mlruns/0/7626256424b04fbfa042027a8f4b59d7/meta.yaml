@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/7626256424b04fbfa042027a8f4b59d7/artifacts
+deleted_time: 1698168524504
 end_time: 1698079557247
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 7626256424b04fbfa042027a8f4b59d7
 run_name: placid-hawk-86
 run_uuid: 7626256424b04fbfa042027a8f4b59d7

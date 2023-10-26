@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/d199ba83cef04f40993d5176a7b74467/artifacts
+deleted_time: 1698168490863
+end_time: 1698141176182
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: d199ba83cef04f40993d5176a7b74467
+run_name: trusting-snake-931
+run_uuid: d199ba83cef04f40993d5176a7b74467
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141175550
+status: 3
+tags: []
+user_id: thomasgeorgiou

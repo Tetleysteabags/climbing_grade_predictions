@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/3a785fa26602454c88e48d216f7da937/artifacts
+deleted_time: 1698168490878
+end_time: 1698141170846
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 3a785fa26602454c88e48d216f7da937
+run_name: sassy-skink-922
+run_uuid: 3a785fa26602454c88e48d216f7da937
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141170217
+status: 3
+tags: []
+user_id: thomasgeorgiou

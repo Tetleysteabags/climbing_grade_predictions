@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/d3436821ae354d62a8e183d89968cc42/artifacts
+end_time: 1698241621990
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d3436821ae354d62a8e183d89968cc42
+run_name: awesome-auk-97
+run_uuid: d3436821ae354d62a8e183d89968cc42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698241380265
+status: 3
+tags: []
+user_id: thomasgeorgiou

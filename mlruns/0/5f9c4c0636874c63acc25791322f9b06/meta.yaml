@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/5f9c4c0636874c63acc25791322f9b06/artifacts
+deleted_time: 1698214921483
 end_time: 1698079151418
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 5f9c4c0636874c63acc25791322f9b06
 run_name: magnificent-foal-654
 run_uuid: 5f9c4c0636874c63acc25791322f9b06

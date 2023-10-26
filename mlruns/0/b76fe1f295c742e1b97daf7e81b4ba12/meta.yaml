@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/b76fe1f295c742e1b97daf7e81b4ba12/artifacts
+deleted_time: 1698168524533
 end_time: 1698079555082
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: b76fe1f295c742e1b97daf7e81b4ba12
 run_name: beautiful-mink-155
 run_uuid: b76fe1f295c742e1b97daf7e81b4ba12

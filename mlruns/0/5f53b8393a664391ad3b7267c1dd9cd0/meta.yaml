@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/5f53b8393a664391ad3b7267c1dd9cd0/artifacts
+deleted_time: 1698168490789
+end_time: 1698141199187
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 5f53b8393a664391ad3b7267c1dd9cd0
+run_name: peaceful-wasp-827
+run_uuid: 5f53b8393a664391ad3b7267c1dd9cd0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141198305
+status: 3
+tags: []
+user_id: thomasgeorgiou

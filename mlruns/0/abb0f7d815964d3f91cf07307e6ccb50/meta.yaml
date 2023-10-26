@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/abb0f7d815964d3f91cf07307e6ccb50/artifacts
+deleted_time: 1698168490787
+end_time: 1698141199849
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: abb0f7d815964d3f91cf07307e6ccb50
+run_name: auspicious-ant-536
+run_uuid: abb0f7d815964d3f91cf07307e6ccb50
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141199222
+status: 3
+tags: []
+user_id: thomasgeorgiou

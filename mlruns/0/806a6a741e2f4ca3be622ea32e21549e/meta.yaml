@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/806a6a741e2f4ca3be622ea32e21549e/artifacts
+deleted_time: 1698168490745
+end_time: 1698141212462
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 806a6a741e2f4ca3be622ea32e21549e
+run_name: wise-sheep-865
+run_uuid: 806a6a741e2f4ca3be622ea32e21549e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141211989
+status: 3
+tags: []
+user_id: thomasgeorgiou

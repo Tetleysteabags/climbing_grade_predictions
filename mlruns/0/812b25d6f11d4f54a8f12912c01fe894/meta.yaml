@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/812b25d6f11d4f54a8f12912c01fe894/artifacts
+deleted_time: 1698168490759
+end_time: 1698141208996
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 812b25d6f11d4f54a8f12912c01fe894
+run_name: languid-hen-782
+run_uuid: 812b25d6f11d4f54a8f12912c01fe894
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141208055
+status: 3
+tags: []
+user_id: thomasgeorgiou

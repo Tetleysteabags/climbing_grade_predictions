@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/d373800c4cb945d8b59eee226b135356/artifacts
+deleted_time: 1698168524413
 end_time: 1698133459844
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: d373800c4cb945d8b59eee226b135356
 run_name: aged-crane-921
 run_uuid: d373800c4cb945d8b59eee226b135356

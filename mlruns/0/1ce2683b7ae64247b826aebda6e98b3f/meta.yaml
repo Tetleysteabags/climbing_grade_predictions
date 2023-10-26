@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/1ce2683b7ae64247b826aebda6e98b3f/artifacts
+deleted_time: 1698168619244
+end_time: 1698141369706
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 1ce2683b7ae64247b826aebda6e98b3f
+run_name: delicate-snake-233
+run_uuid: 1ce2683b7ae64247b826aebda6e98b3f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141369311
+status: 3
+tags: []
+user_id: thomasgeorgiou

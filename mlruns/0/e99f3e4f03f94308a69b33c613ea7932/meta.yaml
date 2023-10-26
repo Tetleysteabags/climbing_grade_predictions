@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/e99f3e4f03f94308a69b33c613ea7932/artifacts
+deleted_time: 1698168415574
+end_time: 1698141381710
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: e99f3e4f03f94308a69b33c613ea7932
+run_name: bright-koi-651
+run_uuid: e99f3e4f03f94308a69b33c613ea7932
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141381264
+status: 3
+tags: []
+user_id: thomasgeorgiou

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/0559b4f16f214367bc18980af85d2cda/artifacts
+deleted_time: 1698167428875
+end_time: 1698141487386
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 0559b4f16f214367bc18980af85d2cda
+run_name: unique-tern-267
+run_uuid: 0559b4f16f214367bc18980af85d2cda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141486811
+status: 3
+tags: []
+user_id: thomasgeorgiou

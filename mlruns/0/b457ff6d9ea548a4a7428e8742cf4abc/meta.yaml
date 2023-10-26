@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/b457ff6d9ea548a4a7428e8742cf4abc/artifacts
+deleted_time: 1698168619346
+end_time: 1698141338360
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: b457ff6d9ea548a4a7428e8742cf4abc
+run_name: treasured-mule-118
+run_uuid: b457ff6d9ea548a4a7428e8742cf4abc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141337842
+status: 3
+tags: []
+user_id: thomasgeorgiou

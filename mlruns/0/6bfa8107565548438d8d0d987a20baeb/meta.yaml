@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/6bfa8107565548438d8d0d987a20baeb/artifacts
+deleted_time: 1698168680225
+end_time: 1698141141958
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 6bfa8107565548438d8d0d987a20baeb
+run_name: receptive-elk-610
+run_uuid: 6bfa8107565548438d8d0d987a20baeb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141141558
+status: 3
+tags: []
+user_id: thomasgeorgiou

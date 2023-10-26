@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/2362eaeb74504ffb864dc167f0c50b91/artifacts
+deleted_time: 1698168450424
+end_time: 1698141288642
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 2362eaeb74504ffb864dc167f0c50b91
+run_name: defiant-gnat-422
+run_uuid: 2362eaeb74504ffb864dc167f0c50b91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141288211
+status: 3
+tags: []
+user_id: thomasgeorgiou

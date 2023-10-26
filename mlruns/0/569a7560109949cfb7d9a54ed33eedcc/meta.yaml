@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/569a7560109949cfb7d9a54ed33eedcc/artifacts
+deleted_time: 1698214921314
+end_time: 1698141240315
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 569a7560109949cfb7d9a54ed33eedcc
+run_name: legendary-lynx-704
+run_uuid: 569a7560109949cfb7d9a54ed33eedcc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141239811
+status: 3
+tags: []
+user_id: thomasgeorgiou

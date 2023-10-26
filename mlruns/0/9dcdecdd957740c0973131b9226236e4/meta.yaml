@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/9dcdecdd957740c0973131b9226236e4/artifacts
+deleted_time: 1698168680303
+end_time: 1698141118015
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 9dcdecdd957740c0973131b9226236e4
+run_name: caring-deer-750
+run_uuid: 9dcdecdd957740c0973131b9226236e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141117686
+status: 3
+tags: []
+user_id: thomasgeorgiou

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/ca8156487cc44174b058c0cfff20d1db/artifacts
+deleted_time: 1698168415432
+end_time: 1698141421628
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: ca8156487cc44174b058c0cfff20d1db
+run_name: industrious-pug-728
+run_uuid: ca8156487cc44174b058c0cfff20d1db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141421175
+status: 3
+tags: []
+user_id: thomasgeorgiou

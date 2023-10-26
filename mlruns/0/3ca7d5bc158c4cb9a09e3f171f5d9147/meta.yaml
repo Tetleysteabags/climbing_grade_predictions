@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/3ca7d5bc158c4cb9a09e3f171f5d9147/artifacts
+deleted_time: 1698168680326
+end_time: 1698141111651
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 3ca7d5bc158c4cb9a09e3f171f5d9147
+run_name: rebellious-moth-786
+run_uuid: 3ca7d5bc158c4cb9a09e3f171f5d9147
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141111066
+status: 3
+tags: []
+user_id: thomasgeorgiou

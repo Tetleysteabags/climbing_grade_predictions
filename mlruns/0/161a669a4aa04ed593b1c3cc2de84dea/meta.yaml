@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/161a669a4aa04ed593b1c3cc2de84dea/artifacts
+deleted_time: 1698168415568
+end_time: 1698141383265
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 161a669a4aa04ed593b1c3cc2de84dea
+run_name: welcoming-grouse-303
+run_uuid: 161a669a4aa04ed593b1c3cc2de84dea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141382899
+status: 3
+tags: []
+user_id: thomasgeorgiou

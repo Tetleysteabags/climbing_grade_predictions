@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/defc2d038f6b4883ad46ac951c3c979c/artifacts
+deleted_time: 1698167429154
+end_time: 1698141433635
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: defc2d038f6b4883ad46ac951c3c979c
+run_name: fortunate-cat-353
+run_uuid: defc2d038f6b4883ad46ac951c3c979c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141433279
+status: 3
+tags: []
+user_id: thomasgeorgiou

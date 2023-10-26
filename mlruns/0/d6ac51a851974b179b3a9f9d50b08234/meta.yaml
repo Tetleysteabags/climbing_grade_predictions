@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/d6ac51a851974b179b3a9f9d50b08234/artifacts
+deleted_time: 1698168680206
+end_time: 1698141148015
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: d6ac51a851974b179b3a9f9d50b08234
+run_name: respected-jay-872
+run_uuid: d6ac51a851974b179b3a9f9d50b08234
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141147184
+status: 3
+tags: []
+user_id: thomasgeorgiou

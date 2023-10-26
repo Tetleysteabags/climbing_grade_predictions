@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/c02744e9ae4f493e8d1532e0e58e7d3d/artifacts
+deleted_time: 1698168415471
+end_time: 1698141412111
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: c02744e9ae4f493e8d1532e0e58e7d3d
+run_name: adorable-sow-459
+run_uuid: c02744e9ae4f493e8d1532e0e58e7d3d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141411771
+status: 3
+tags: []
+user_id: thomasgeorgiou

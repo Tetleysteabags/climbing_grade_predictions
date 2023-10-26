@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/52bcbd2eb82f4069b465fa088f9df7e5/artifacts
+deleted_time: 1698214921410
+end_time: 1698141215508
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 52bcbd2eb82f4069b465fa088f9df7e5
+run_name: judicious-gull-476
+run_uuid: 52bcbd2eb82f4069b465fa088f9df7e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141215115
+status: 3
+tags: []
+user_id: thomasgeorgiou

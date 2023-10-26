@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/200d1c9c836e4ccaadb02e405cd839f5/artifacts
+deleted_time: 1698214921382
+end_time: 1698141224395
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 200d1c9c836e4ccaadb02e405cd839f5
+run_name: big-crab-543
+run_uuid: 200d1c9c836e4ccaadb02e405cd839f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141223773
+status: 3
+tags: []
+user_id: thomasgeorgiou

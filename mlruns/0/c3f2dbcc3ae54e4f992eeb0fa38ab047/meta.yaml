@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/c3f2dbcc3ae54e4f992eeb0fa38ab047/artifacts
+deleted_time: 1698168524448
 end_time: 1698133432728
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: c3f2dbcc3ae54e4f992eeb0fa38ab047
 run_name: able-stoat-216
 run_uuid: c3f2dbcc3ae54e4f992eeb0fa38ab047

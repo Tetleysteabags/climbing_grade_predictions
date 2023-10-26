@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/ff3810e8d8a946de813f33ee2f730c89/artifacts
+deleted_time: 1698168619305
+end_time: 1698141352842
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: ff3810e8d8a946de813f33ee2f730c89
+run_name: thoughtful-mole-644
+run_uuid: ff3810e8d8a946de813f33ee2f730c89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141352201
+status: 3
+tags: []
+user_id: thomasgeorgiou

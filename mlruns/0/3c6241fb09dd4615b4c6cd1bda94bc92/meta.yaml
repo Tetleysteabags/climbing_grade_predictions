@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/3c6241fb09dd4615b4c6cd1bda94bc92/artifacts
+deleted_time: 1698168619279
+end_time: 1698141362586
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 3c6241fb09dd4615b4c6cd1bda94bc92
+run_name: puzzled-gull-324
+run_uuid: 3c6241fb09dd4615b4c6cd1bda94bc92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141362260
+status: 3
+tags: []
+user_id: thomasgeorgiou

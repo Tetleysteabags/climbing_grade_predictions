@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/ea832afd327f43d2abad6631c2f3b4ab/artifacts
+deleted_time: 1698168524435
 end_time: 1698133433341
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: ea832afd327f43d2abad6631c2f3b4ab
 run_name: amusing-zebra-890
 run_uuid: ea832afd327f43d2abad6631c2f3b4ab

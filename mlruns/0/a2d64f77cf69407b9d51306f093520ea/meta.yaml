@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/a2d64f77cf69407b9d51306f093520ea/artifacts
+deleted_time: 1698167428905
+end_time: 1698141482653
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: a2d64f77cf69407b9d51306f093520ea
+run_name: calm-wasp-164
+run_uuid: a2d64f77cf69407b9d51306f093520ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141482177
+status: 3
+tags: []
+user_id: thomasgeorgiou

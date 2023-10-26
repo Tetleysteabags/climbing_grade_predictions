@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/c60e2e952a5d49d2aa319be1937efb08/artifacts
+deleted_time: 1698167429108
+end_time: 1698141442698
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: c60e2e952a5d49d2aa319be1937efb08
+run_name: tasteful-panda-120
+run_uuid: c60e2e952a5d49d2aa319be1937efb08
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141442132
+status: 3
+tags: []
+user_id: thomasgeorgiou

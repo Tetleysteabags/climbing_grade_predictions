@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/18442564534b4b11a7770d7a53cbcdfe/artifacts
+deleted_time: 1698168720419
 end_time: 1697886218378
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 18442564534b4b11a7770d7a53cbcdfe
 run_name: learned-owl-933
 run_uuid: 18442564534b4b11a7770d7a53cbcdfe

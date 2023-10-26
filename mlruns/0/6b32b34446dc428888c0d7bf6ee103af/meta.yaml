@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/6b32b34446dc428888c0d7bf6ee103af/artifacts
+deleted_time: 1698214921255
+end_time: 1698141256224
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 6b32b34446dc428888c0d7bf6ee103af
+run_name: chill-bee-647
+run_uuid: 6b32b34446dc428888c0d7bf6ee103af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141256036
+status: 3
+tags: []
+user_id: thomasgeorgiou

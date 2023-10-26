@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/dbf5bc91b8bb4760aae5fa4279430945/artifacts
+deleted_time: 1698168450456
+end_time: 1698141281302
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: dbf5bc91b8bb4760aae5fa4279430945
+run_name: skillful-roo-454
+run_uuid: dbf5bc91b8bb4760aae5fa4279430945
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141280849
+status: 3
+tags: []
+user_id: thomasgeorgiou

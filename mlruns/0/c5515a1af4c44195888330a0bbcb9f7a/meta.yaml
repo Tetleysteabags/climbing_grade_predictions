@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/c5515a1af4c44195888330a0bbcb9f7a/artifacts
+deleted_time: 1698168680272
+end_time: 1698141127989
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: c5515a1af4c44195888330a0bbcb9f7a
+run_name: caring-skink-327
+run_uuid: c5515a1af4c44195888330a0bbcb9f7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141127317
+status: 3
+tags: []
+user_id: thomasgeorgiou

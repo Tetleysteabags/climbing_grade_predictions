@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/b53fcc6a8c624caf8be7181a74c98d80/artifacts
+deleted_time: 1698214921451
 end_time: 1698079152975
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: b53fcc6a8c624caf8be7181a74c98d80
 run_name: marvelous-shoat-964
 run_uuid: b53fcc6a8c624caf8be7181a74c98d80

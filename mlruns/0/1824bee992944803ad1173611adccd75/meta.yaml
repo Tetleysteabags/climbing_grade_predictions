@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/1824bee992944803ad1173611adccd75/artifacts
+deleted_time: 1698168680266
+end_time: 1698141131011
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 1824bee992944803ad1173611adccd75
+run_name: languid-mare-363
+run_uuid: 1824bee992944803ad1173611adccd75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141130682
+status: 3
+tags: []
+user_id: thomasgeorgiou

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/c82649b4b7554647acf2091d60299a25/artifacts
+deleted_time: 1698167429089
+end_time: 1698141448072
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: c82649b4b7554647acf2091d60299a25
+run_name: trusting-sloth-275
+run_uuid: c82649b4b7554647acf2091d60299a25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141447583
+status: 3
+tags: []
+user_id: thomasgeorgiou

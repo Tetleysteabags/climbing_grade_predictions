@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/f26acdde747944a5b6e9821c80c5564e/artifacts
+deleted_time: 1698214921237
+end_time: 1698141261429
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: f26acdde747944a5b6e9821c80c5564e
+run_name: fearless-mole-945
+run_uuid: f26acdde747944a5b6e9821c80c5564e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141260853
+status: 3
+tags: []
+user_id: thomasgeorgiou

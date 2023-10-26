@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/929b2176f93242a391ca7cc68b7871cd/artifacts
+deleted_time: 1698214921526
 end_time: 1698002037220
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 929b2176f93242a391ca7cc68b7871cd
 run_name: mysterious-owl-419
 run_uuid: 929b2176f93242a391ca7cc68b7871cd

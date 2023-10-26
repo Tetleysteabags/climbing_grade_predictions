@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/9c7b110106d54ba4809b6ae0ab8f8ec7/artifacts
+deleted_time: 1698167429150
+end_time: 1698141434637
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 9c7b110106d54ba4809b6ae0ab8f8ec7
+run_name: youthful-ape-448
+run_uuid: 9c7b110106d54ba4809b6ae0ab8f8ec7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141434241
+status: 3
+tags: []
+user_id: thomasgeorgiou

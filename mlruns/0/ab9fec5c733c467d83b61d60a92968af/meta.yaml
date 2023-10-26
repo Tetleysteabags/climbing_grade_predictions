@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/ab9fec5c733c467d83b61d60a92968af/artifacts
+deleted_time: 1698168680277
+end_time: 1698141124264
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: ab9fec5c733c467d83b61d60a92968af
+run_name: learned-sheep-404
+run_uuid: ab9fec5c733c467d83b61d60a92968af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141123753
+status: 3
+tags: []
+user_id: thomasgeorgiou

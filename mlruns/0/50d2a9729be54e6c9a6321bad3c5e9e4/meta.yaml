@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/50d2a9729be54e6c9a6321bad3c5e9e4/artifacts
+deleted_time: 1698167428956
+end_time: 1698141470844
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 50d2a9729be54e6c9a6321bad3c5e9e4
+run_name: peaceful-foal-769
+run_uuid: 50d2a9729be54e6c9a6321bad3c5e9e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141470425
+status: 3
+tags: []
+user_id: thomasgeorgiou

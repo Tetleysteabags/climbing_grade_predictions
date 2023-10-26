@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/f3985d2212994b89aa4de212e623637a/artifacts
+deleted_time: 1698168415583
+end_time: 1698141379534
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: f3985d2212994b89aa4de212e623637a
+run_name: melodic-flea-36
+run_uuid: f3985d2212994b89aa4de212e623637a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141379219
+status: 3
+tags: []
+user_id: thomasgeorgiou

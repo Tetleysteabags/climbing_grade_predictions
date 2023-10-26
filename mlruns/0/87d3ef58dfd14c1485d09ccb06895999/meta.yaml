@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/87d3ef58dfd14c1485d09ccb06895999/artifacts
+deleted_time: 1698168524388
+end_time: 1698141094519
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 87d3ef58dfd14c1485d09ccb06895999
+run_name: bold-bug-242
+run_uuid: 87d3ef58dfd14c1485d09ccb06895999
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141094174
+status: 3
+tags: []
+user_id: thomasgeorgiou

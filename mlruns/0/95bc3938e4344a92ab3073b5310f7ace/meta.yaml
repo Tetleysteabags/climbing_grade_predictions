@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/95bc3938e4344a92ab3073b5310f7ace/artifacts
+deleted_time: 1698168490846
+end_time: 1698141180594
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 95bc3938e4344a92ab3073b5310f7ace
+run_name: omniscient-carp-0
+run_uuid: 95bc3938e4344a92ab3073b5310f7ace
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141180370
+status: 3
+tags: []
+user_id: thomasgeorgiou

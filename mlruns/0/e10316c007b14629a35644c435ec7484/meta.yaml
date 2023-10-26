@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/e10316c007b14629a35644c435ec7484/artifacts
+deleted_time: 1698214921426
 end_time: 1698079554385
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: e10316c007b14629a35644c435ec7484
 run_name: rumbling-hound-461
 run_uuid: e10316c007b14629a35644c435ec7484

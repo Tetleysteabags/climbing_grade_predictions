@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/9af0d56c5ea14751ba05dd6c44ad2e29/artifacts
+deleted_time: 1698168450347
+end_time: 1698141306984
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 9af0d56c5ea14751ba05dd6c44ad2e29
+run_name: peaceful-penguin-811
+run_uuid: 9af0d56c5ea14751ba05dd6c44ad2e29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141306391
+status: 3
+tags: []
+user_id: thomasgeorgiou

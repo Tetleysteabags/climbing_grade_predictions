@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/85086ca072834e3c8bc8c126c0f9cbf7/artifacts
+deleted_time: 1698168524481
 end_time: 1698130637302
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 85086ca072834e3c8bc8c126c0f9cbf7
 run_name: upbeat-wasp-920
 run_uuid: 85086ca072834e3c8bc8c126c0f9cbf7

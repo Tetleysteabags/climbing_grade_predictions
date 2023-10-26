@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/e6a874e617fd4900afdf6b1027fb44cb/artifacts
+deleted_time: 1698168619309
+end_time: 1698141351547
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: e6a874e617fd4900afdf6b1027fb44cb
+run_name: capable-shoat-77
+run_uuid: e6a874e617fd4900afdf6b1027fb44cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141351147
+status: 3
+tags: []
+user_id: thomasgeorgiou

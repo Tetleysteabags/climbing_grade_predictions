@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/e91513486ee84628a1eb8ec6412d31f0/artifacts
+deleted_time: 1698168415396
+end_time: 1698141427704
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: e91513486ee84628a1eb8ec6412d31f0
+run_name: merciful-crab-512
+run_uuid: e91513486ee84628a1eb8ec6412d31f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141427256
+status: 3
+tags: []
+user_id: thomasgeorgiou

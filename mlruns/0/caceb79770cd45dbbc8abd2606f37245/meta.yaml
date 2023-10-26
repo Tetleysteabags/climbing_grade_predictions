@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/caceb79770cd45dbbc8abd2606f37245/artifacts
+deleted_time: 1698168490746
+end_time: 1698141211976
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: caceb79770cd45dbbc8abd2606f37245
+run_name: awesome-dog-610
+run_uuid: caceb79770cd45dbbc8abd2606f37245
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141211538
+status: 3
+tags: []
+user_id: thomasgeorgiou

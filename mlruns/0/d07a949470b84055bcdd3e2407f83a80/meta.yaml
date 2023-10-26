@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/d07a949470b84055bcdd3e2407f83a80/artifacts
+deleted_time: 1698167429077
+end_time: 1698141451166
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: d07a949470b84055bcdd3e2407f83a80
+run_name: valuable-tern-780
+run_uuid: d07a949470b84055bcdd3e2407f83a80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141450677
+status: 3
+tags: []
+user_id: thomasgeorgiou

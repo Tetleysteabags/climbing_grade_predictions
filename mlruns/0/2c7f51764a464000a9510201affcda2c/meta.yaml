@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/2c7f51764a464000a9510201affcda2c/artifacts
+end_time: 1698310626574
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2c7f51764a464000a9510201affcda2c
+run_name: dashing-asp-199
+run_uuid: 2c7f51764a464000a9510201affcda2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698310620492
+status: 3
+tags: []
+user_id: thomasgeorgiou

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/1a6553abfc384a54a0e2ff8a5cf82ff7/artifacts
+deleted_time: 1698168619338
+end_time: 1698141341038
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 1a6553abfc384a54a0e2ff8a5cf82ff7
+run_name: fearless-crane-811
+run_uuid: 1a6553abfc384a54a0e2ff8a5cf82ff7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141340431
+status: 3
+tags: []
+user_id: thomasgeorgiou

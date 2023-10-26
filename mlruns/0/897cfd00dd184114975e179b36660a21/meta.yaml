@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/897cfd00dd184114975e179b36660a21/artifacts
+deleted_time: 1698214921262
+end_time: 1698141253804
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 897cfd00dd184114975e179b36660a21
+run_name: rebellious-shrew-250
+run_uuid: 897cfd00dd184114975e179b36660a21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141253287
+status: 3
+tags: []
+user_id: thomasgeorgiou

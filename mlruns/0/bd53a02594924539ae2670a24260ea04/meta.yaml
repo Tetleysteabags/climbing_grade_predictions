@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/bd53a02594924539ae2670a24260ea04/artifacts
+deleted_time: 1698168726741
 end_time: 1697886218235
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: bd53a02594924539ae2670a24260ea04
 run_name: worried-gnat-875
 run_uuid: bd53a02594924539ae2670a24260ea04

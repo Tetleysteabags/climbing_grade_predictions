@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/3458fa8b548a4ad2bb9aefe9049c4778/artifacts
+deleted_time: 1698168619326
+end_time: 1698141346171
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 3458fa8b548a4ad2bb9aefe9049c4778
+run_name: loud-shad-349
+run_uuid: 3458fa8b548a4ad2bb9aefe9049c4778
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141345538
+status: 3
+tags: []
+user_id: thomasgeorgiou

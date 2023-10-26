@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/a63687d673394f3d82e7eb36f6a30482/artifacts
+deleted_time: 1698168490750
+end_time: 1698141210767
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: a63687d673394f3d82e7eb36f6a30482
+run_name: unequaled-doe-916
+run_uuid: a63687d673394f3d82e7eb36f6a30482
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141210182
+status: 3
+tags: []
+user_id: thomasgeorgiou

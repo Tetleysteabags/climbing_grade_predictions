@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/56e63363d78742958906283cd9952829/artifacts
+deleted_time: 1698168450382
+end_time: 1698141298273
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 56e63363d78742958906283cd9952829
+run_name: unequaled-perch-727
+run_uuid: 56e63363d78742958906283cd9952829
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141297570
+status: 3
+tags: []
+user_id: thomasgeorgiou

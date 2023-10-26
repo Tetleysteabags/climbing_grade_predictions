@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/8c214cc1ca3b463493723d8c4bfa07e4/artifacts
+deleted_time: 1698168619331
+end_time: 1698141344797
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 8c214cc1ca3b463493723d8c4bfa07e4
+run_name: gentle-cat-545
+run_uuid: 8c214cc1ca3b463493723d8c4bfa07e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141344171
+status: 3
+tags: []
+user_id: thomasgeorgiou

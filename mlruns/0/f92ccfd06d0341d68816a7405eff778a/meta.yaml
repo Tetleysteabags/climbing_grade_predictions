@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/f92ccfd06d0341d68816a7405eff778a/artifacts
+deleted_time: 1698218537724
+end_time: 1698218093740
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: f92ccfd06d0341d68816a7405eff778a
+run_name: masked-dog-61
+run_uuid: f92ccfd06d0341d68816a7405eff778a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698218093653
+status: 3
+tags: []
+user_id: thomasgeorgiou

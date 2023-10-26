@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/30dc5a386f694169b35ec84720957c92/artifacts
+deleted_time: 1698168680190
+end_time: 1698141152503
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 30dc5a386f694169b35ec84720957c92
+run_name: powerful-steed-647
+run_uuid: 30dc5a386f694169b35ec84720957c92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141151648
+status: 3
+tags: []
+user_id: thomasgeorgiou

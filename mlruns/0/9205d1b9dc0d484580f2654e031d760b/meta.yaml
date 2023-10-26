@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/9205d1b9dc0d484580f2654e031d760b/artifacts
+deleted_time: 1698214921290
+end_time: 1698141245847
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 9205d1b9dc0d484580f2654e031d760b
+run_name: useful-crane-663
+run_uuid: 9205d1b9dc0d484580f2654e031d760b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141245516
+status: 3
+tags: []
+user_id: thomasgeorgiou

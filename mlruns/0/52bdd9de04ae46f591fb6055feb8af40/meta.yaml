@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/52bdd9de04ae46f591fb6055feb8af40/artifacts
+deleted_time: 1698168524534
 end_time: 1698079555175
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 52bdd9de04ae46f591fb6055feb8af40
 run_name: clean-mink-911
 run_uuid: 52bdd9de04ae46f591fb6055feb8af40

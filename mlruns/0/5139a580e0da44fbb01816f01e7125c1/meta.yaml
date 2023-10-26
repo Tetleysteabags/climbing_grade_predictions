@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/5139a580e0da44fbb01816f01e7125c1/artifacts
+deleted_time: 1698214921345
+end_time: 1698141235196
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 5139a580e0da44fbb01816f01e7125c1
+run_name: upbeat-conch-579
+run_uuid: 5139a580e0da44fbb01816f01e7125c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141234802
+status: 3
+tags: []
+user_id: thomasgeorgiou

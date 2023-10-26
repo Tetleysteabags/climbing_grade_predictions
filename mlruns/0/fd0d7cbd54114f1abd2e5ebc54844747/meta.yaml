@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/fd0d7cbd54114f1abd2e5ebc54844747/artifacts
+deleted_time: 1698168450491
+end_time: 1698141268364
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: fd0d7cbd54114f1abd2e5ebc54844747
+run_name: orderly-pig-696
+run_uuid: fd0d7cbd54114f1abd2e5ebc54844747
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141267784
+status: 3
+tags: []
+user_id: thomasgeorgiou

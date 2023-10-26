@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/49653f1e3546478e8e97ab81ca27eb5d/artifacts
+deleted_time: 1698168490835
+end_time: 1698141184419
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 49653f1e3546478e8e97ab81ca27eb5d
+run_name: upbeat-elk-376
+run_uuid: 49653f1e3546478e8e97ab81ca27eb5d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141183914
+status: 3
+tags: []
+user_id: thomasgeorgiou

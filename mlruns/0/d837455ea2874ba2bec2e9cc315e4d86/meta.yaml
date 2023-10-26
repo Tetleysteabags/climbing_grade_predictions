@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/d837455ea2874ba2bec2e9cc315e4d86/artifacts
+deleted_time: 1698168415474
+end_time: 1698141409200
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: d837455ea2874ba2bec2e9cc315e4d86
+run_name: luminous-goose-346
+run_uuid: d837455ea2874ba2bec2e9cc315e4d86
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141408552
+status: 3
+tags: []
+user_id: thomasgeorgiou

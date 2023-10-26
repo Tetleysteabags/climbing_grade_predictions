@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/f70a3aed7eac4f9d99b8723341cd9154/artifacts
+deleted_time: 1698214921272
+end_time: 1698141250553
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: f70a3aed7eac4f9d99b8723341cd9154
+run_name: invincible-kite-502
+run_uuid: f70a3aed7eac4f9d99b8723341cd9154
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141249911
+status: 3
+tags: []
+user_id: thomasgeorgiou

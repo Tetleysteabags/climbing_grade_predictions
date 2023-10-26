@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/6e99e6118d7b4ad3806ba29d3fae48b0/artifacts
+deleted_time: 1698168450305
+end_time: 1698141320733
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 6e99e6118d7b4ad3806ba29d3fae48b0
+run_name: puzzled-snail-175
+run_uuid: 6e99e6118d7b4ad3806ba29d3fae48b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141320096
+status: 3
+tags: []
+user_id: thomasgeorgiou

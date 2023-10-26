@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/bd3d1f35d2db4f7db6cc7efb991df7d7/artifacts
+deleted_time: 1698218509612
 end_time: 1698002233350
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: bd3d1f35d2db4f7db6cc7efb991df7d7
 run_name: enchanting-slug-427
 run_uuid: bd3d1f35d2db4f7db6cc7efb991df7d7

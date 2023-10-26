@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/95789406bba444989806e90f186def92/artifacts
+deleted_time: 1698214921271
+end_time: 1698141251054
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 95789406bba444989806e90f186def92
+run_name: handsome-gnat-151
+run_uuid: 95789406bba444989806e90f186def92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141250586
+status: 3
+tags: []
+user_id: thomasgeorgiou

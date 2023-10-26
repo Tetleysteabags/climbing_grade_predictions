@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/5b6e3acd030e4976b5a4f149177dfc35/artifacts
+deleted_time: 1698168680219
+end_time: 1698141143961
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 5b6e3acd030e4976b5a4f149177dfc35
+run_name: painted-koi-231
+run_uuid: 5b6e3acd030e4976b5a4f149177dfc35
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141143493
+status: 3
+tags: []
+user_id: thomasgeorgiou

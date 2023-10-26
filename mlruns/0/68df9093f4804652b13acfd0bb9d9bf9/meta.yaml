@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/68df9093f4804652b13acfd0bb9d9bf9/artifacts
+deleted_time: 1698214921392
+end_time: 1698141221855
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 68df9093f4804652b13acfd0bb9d9bf9
+run_name: auspicious-fish-569
+run_uuid: 68df9093f4804652b13acfd0bb9d9bf9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141221269
+status: 3
+tags: []
+user_id: thomasgeorgiou

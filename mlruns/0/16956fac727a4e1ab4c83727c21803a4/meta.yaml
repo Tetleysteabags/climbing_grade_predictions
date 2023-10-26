@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/16956fac727a4e1ab4c83727c21803a4/artifacts
+deleted_time: 1698168524416
 end_time: 1698133459611
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 16956fac727a4e1ab4c83727c21803a4
 run_name: zealous-skunk-3
 run_uuid: 16956fac727a4e1ab4c83727c21803a4

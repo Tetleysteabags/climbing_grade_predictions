@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/52028a77630b4650a408fb999d3f524f/artifacts
+deleted_time: 1698168619246
+end_time: 1698141369279
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 52028a77630b4650a408fb999d3f524f
+run_name: omniscient-duck-317
+run_uuid: 52028a77630b4650a408fb999d3f524f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141368967
+status: 3
+tags: []
+user_id: thomasgeorgiou

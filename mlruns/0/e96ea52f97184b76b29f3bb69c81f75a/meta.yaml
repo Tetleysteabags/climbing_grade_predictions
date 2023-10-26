@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/e96ea52f97184b76b29f3bb69c81f75a/artifacts
+deleted_time: 1698168680303
+end_time: 1698141117662
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: e96ea52f97184b76b29f3bb69c81f75a
+run_name: whimsical-swan-896
+run_uuid: e96ea52f97184b76b29f3bb69c81f75a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141117346
+status: 3
+tags: []
+user_id: thomasgeorgiou

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/dded316054c24cf78a7970ba1a072efd/artifacts
+deleted_time: 1698167429051
+end_time: 1698141456601
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: dded316054c24cf78a7970ba1a072efd
+run_name: receptive-cow-619
+run_uuid: dded316054c24cf78a7970ba1a072efd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141455895
+status: 3
+tags: []
+user_id: thomasgeorgiou

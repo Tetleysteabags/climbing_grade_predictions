@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/ad2d8f08da8c4d25898d559e2171db4d/artifacts
+deleted_time: 1698168619324
+end_time: 1698141347287
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: ad2d8f08da8c4d25898d559e2171db4d
+run_name: polite-sheep-444
+run_uuid: ad2d8f08da8c4d25898d559e2171db4d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141346912
+status: 3
+tags: []
+user_id: thomasgeorgiou

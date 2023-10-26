@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/a23aa6e290e14ac7a473fae32c0ad181/artifacts
+deleted_time: 1698168490902
+end_time: 1698141161941
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: a23aa6e290e14ac7a473fae32c0ad181
+run_name: aged-doe-336
+run_uuid: a23aa6e290e14ac7a473fae32c0ad181
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141161320
+status: 3
+tags: []
+user_id: thomasgeorgiou

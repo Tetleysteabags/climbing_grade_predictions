@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/683614a9a3344ab4b21e87fd9396d0f7/artifacts
+deleted_time: 1698168450356
+end_time: 1698141304697
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 683614a9a3344ab4b21e87fd9396d0f7
+run_name: unequaled-jay-763
+run_uuid: 683614a9a3344ab4b21e87fd9396d0f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141304115
+status: 3
+tags: []
+user_id: thomasgeorgiou

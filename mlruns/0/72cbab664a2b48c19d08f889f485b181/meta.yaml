@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/72cbab664a2b48c19d08f889f485b181/artifacts
+deleted_time: 1698168450391
+end_time: 1698141294898
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 72cbab664a2b48c19d08f889f485b181
+run_name: efficient-boar-353
+run_uuid: 72cbab664a2b48c19d08f889f485b181
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141294154
+status: 3
+tags: []
+user_id: thomasgeorgiou

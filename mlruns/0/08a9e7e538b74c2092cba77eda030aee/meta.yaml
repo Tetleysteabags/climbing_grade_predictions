@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/08a9e7e538b74c2092cba77eda030aee/artifacts
+deleted_time: 1698167429044
+end_time: 1698141458589
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 08a9e7e538b74c2092cba77eda030aee
+run_name: useful-trout-247
+run_uuid: 08a9e7e538b74c2092cba77eda030aee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141458140
+status: 3
+tags: []
+user_id: thomasgeorgiou

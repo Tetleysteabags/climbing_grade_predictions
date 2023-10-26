@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/a1c4e681c1df4737828c08988d586326/artifacts
+deleted_time: 1698168490836
+end_time: 1698141183888
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: a1c4e681c1df4737828c08988d586326
+run_name: unleashed-hare-680
+run_uuid: a1c4e681c1df4737828c08988d586326
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141183159
+status: 3
+tags: []
+user_id: thomasgeorgiou

@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/aa85f3275d7d4eceb8cad59d785ec13a/artifacts
+deleted_time: 1698168524419
 end_time: 1698133459347
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: aa85f3275d7d4eceb8cad59d785ec13a
 run_name: colorful-koi-16
 run_uuid: aa85f3275d7d4eceb8cad59d785ec13a

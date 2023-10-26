@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/b3c4c8c145314ba2a9e54fb872f95d1e/artifacts
+deleted_time: 1698168450487
+end_time: 1698141269369
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: b3c4c8c145314ba2a9e54fb872f95d1e
+run_name: welcoming-bee-451
+run_uuid: b3c4c8c145314ba2a9e54fb872f95d1e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141268919
+status: 3
+tags: []
+user_id: thomasgeorgiou

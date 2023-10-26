@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/b2566c38e96b4de686d7aaacc693c579/artifacts
+deleted_time: 1698168415389
+end_time: 1698141428251
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: b2566c38e96b4de686d7aaacc693c579
+run_name: valuable-hare-765
+run_uuid: b2566c38e96b4de686d7aaacc693c579
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141427738
+status: 3
+tags: []
+user_id: thomasgeorgiou

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/30517524a4b04bf6a35182153e317d63/artifacts
+deleted_time: 1698214921354
+end_time: 1698141232203
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 30517524a4b04bf6a35182153e317d63
+run_name: wistful-rat-70
+run_uuid: 30517524a4b04bf6a35182153e317d63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141231660
+status: 3
+tags: []
+user_id: thomasgeorgiou

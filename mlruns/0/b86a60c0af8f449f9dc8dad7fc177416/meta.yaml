@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/b86a60c0af8f449f9dc8dad7fc177416/artifacts
+deleted_time: 1698214921262
+end_time: 1698141255460
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: b86a60c0af8f449f9dc8dad7fc177416
+run_name: exultant-lynx-979
+run_uuid: b86a60c0af8f449f9dc8dad7fc177416
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141255006
+status: 3
+tags: []
+user_id: thomasgeorgiou

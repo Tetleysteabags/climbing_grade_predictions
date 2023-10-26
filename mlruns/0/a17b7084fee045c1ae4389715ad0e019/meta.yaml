@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/a17b7084fee045c1ae4389715ad0e019/artifacts
+deleted_time: 1698168490779
+end_time: 1698141201441
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: a17b7084fee045c1ae4389715ad0e019
+run_name: monumental-crane-934
+run_uuid: a17b7084fee045c1ae4389715ad0e019
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141201002
+status: 3
+tags: []
+user_id: thomasgeorgiou

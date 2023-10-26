@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/21104426174a48b98eab8551fc9f4ae3/artifacts
+deleted_time: 1698168524393
+end_time: 1698141093636
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 21104426174a48b98eab8551fc9f4ae3
+run_name: worried-lark-967
+run_uuid: 21104426174a48b98eab8551fc9f4ae3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141093165
+status: 3
+tags: []
+user_id: thomasgeorgiou

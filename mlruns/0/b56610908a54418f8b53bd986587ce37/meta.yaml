@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/b56610908a54418f8b53bd986587ce37/artifacts
+deleted_time: 1698168680299
+end_time: 1698141119947
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: b56610908a54418f8b53bd986587ce37
+run_name: rebellious-croc-53
+run_uuid: b56610908a54418f8b53bd986587ce37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141119640
+status: 3
+tags: []
+user_id: thomasgeorgiou

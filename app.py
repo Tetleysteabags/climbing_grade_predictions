@@ -19,8 +19,8 @@ bouldering_scaler_url = 'https://github.com/Tetleysteabags/climbing_ml_project/r
 bouldering_model = load_pickle_from_url(bouldering_model_url)
 bouldering_scaler = load_pickle_from_url(bouldering_scaler_url)
 
-sport_model_url = 'https://github.com/Tetleysteabags/climbing_ml_project/raw/main/best_model_rf_sport.pkl'
-sport_scaler_url = 'https://github.com/Tetleysteabags/climbing_ml_project/raw/main/scaler_sport.pkl'
+sport_model_url = 'https://github.com/Tetleysteabags/climbing_ml_project/raw/main/best_model_gb_sport.pkl'
+sport_scaler_url = 'https://github.com/Tetleysteabags/climbing_ml_project/raw/main/scaler_gb.pkl'
 
 sport_model = load_pickle_from_url(sport_model_url)
 sport_scaler = load_pickle_from_url(sport_scaler_url)
@@ -37,8 +37,8 @@ def user_input_features():
     repeaters = st.sidebar.number_input('7:3 hangs on a 20mm edge (total time in seconds)', min_value=1.0, max_value=1000.0, value=120.0)
     trainexp = st.sidebar.number_input('Years of specific training for climbing', min_value=1.0, max_value=50.0, value=3.0)
     exp = st.sidebar.number_input('Years of climbing experience', min_value=0.0, max_value=50.0, value=5.0)
-
-
+    days = st.sidebar.number_input('Number of days spent climbing outside per month', min_value=0.0, max_value=31.0, value=8.0)
+    
     # Calculate strength-to-weight ratios
     strength_to_weight_pullup = (max_pullups + bmi_score) / bmi_score
     strength_to_weight_maxhang = (max_hang_weight + bmi_score) / bmi_score
@@ -50,9 +50,9 @@ def user_input_features():
         'strength_to_weight_weightpull': strength_to_weight_weightpull,
         'continuous': continuous,
         'repeaters1': repeaters,
+        'exp': exp,
         'trainexp': trainexp,
-        'exp': exp
-
+        'days': days
     }
 
     features = pd.DataFrame(data, index=[0])
@@ -63,6 +63,7 @@ input_df = user_input_features()
 # Apply the same preprocessing used during model training
 scaled_features = bouldering_scaler.transform(input_df)
 scaled_features_sport = sport_scaler.transform(input_df)
+
 
 # Mapping functions to produce output in the correct value (e.g. V grade for bouldering and French for sport)
 # Bouldering
@@ -88,7 +89,7 @@ def convert_numeric_to_v_grade(numeric_grade):
     else:
         return "Unknown grade"  # or other string to indicate unknown grade
 
-# Sport climbing   
+# Sport climbing mapping
 conversion_map_french = {
     '4c': 1, '5a': 2, '5b': 3, '5c': 4, '6a': 5,
     '6a+': 6, '6b': 7, '6b+': 8, '6c': 9, '6c+': 10, '7a': 11,

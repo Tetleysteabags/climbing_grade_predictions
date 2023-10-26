@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/950b84ad54f745a291e3acf092999b91/artifacts
+deleted_time: 1698168524522
 end_time: 1698079555825
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 950b84ad54f745a291e3acf092999b91
 run_name: abrasive-wren-28
 run_uuid: 950b84ad54f745a291e3acf092999b91

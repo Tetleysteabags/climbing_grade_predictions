@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/b40fc9338c754678a2a35e51782418b5/artifacts
+deleted_time: 1698168619303
+end_time: 1698141354651
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: b40fc9338c754678a2a35e51782418b5
+run_name: adorable-shrimp-198
+run_uuid: b40fc9338c754678a2a35e51782418b5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141354045
+status: 3
+tags: []
+user_id: thomasgeorgiou

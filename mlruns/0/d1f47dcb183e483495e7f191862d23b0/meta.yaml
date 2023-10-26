@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/d1f47dcb183e483495e7f191862d23b0/artifacts
+deleted_time: 1698168680186
+end_time: 1698141153460
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: d1f47dcb183e483495e7f191862d23b0
+run_name: bouncy-bee-192
+run_uuid: d1f47dcb183e483495e7f191862d23b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141152975
+status: 3
+tags: []
+user_id: thomasgeorgiou

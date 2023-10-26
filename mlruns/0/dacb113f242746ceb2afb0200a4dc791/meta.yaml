@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/dacb113f242746ceb2afb0200a4dc791/artifacts
+deleted_time: 1698168450479
+end_time: 1698141272204
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: dacb113f242746ceb2afb0200a4dc791
+run_name: shivering-horse-209
+run_uuid: dacb113f242746ceb2afb0200a4dc791
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141271826
+status: 3
+tags: []
+user_id: thomasgeorgiou

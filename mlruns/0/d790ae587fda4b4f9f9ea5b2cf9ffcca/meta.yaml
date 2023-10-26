@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/d790ae587fda4b4f9f9ea5b2cf9ffcca/artifacts
+deleted_time: 1698214921348
+end_time: 1698141234398
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: d790ae587fda4b4f9f9ea5b2cf9ffcca
+run_name: secretive-pug-89
+run_uuid: d790ae587fda4b4f9f9ea5b2cf9ffcca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141233861
+status: 3
+tags: []
+user_id: thomasgeorgiou

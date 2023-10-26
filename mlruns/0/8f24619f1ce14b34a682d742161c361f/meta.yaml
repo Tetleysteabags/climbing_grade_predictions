@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/8f24619f1ce14b34a682d742161c361f/artifacts
+deleted_time: 1698168490754
+end_time: 1698141210168
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 8f24619f1ce14b34a682d742161c361f
+run_name: spiffy-rook-134
+run_uuid: 8f24619f1ce14b34a682d742161c361f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141209448
+status: 3
+tags: []
+user_id: thomasgeorgiou

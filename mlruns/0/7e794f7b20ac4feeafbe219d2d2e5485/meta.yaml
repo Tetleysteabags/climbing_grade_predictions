@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/7e794f7b20ac4feeafbe219d2d2e5485/artifacts
+deleted_time: 1698214921332
+end_time: 1698141236695
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 7e794f7b20ac4feeafbe219d2d2e5485
+run_name: thundering-steed-147
+run_uuid: 7e794f7b20ac4feeafbe219d2d2e5485
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141236166
+status: 3
+tags: []
+user_id: thomasgeorgiou

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/de2207cc41804229a3189121edf38ae7/artifacts
+deleted_time: 1698168619201
+end_time: 1698141378777
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: de2207cc41804229a3189121edf38ae7
+run_name: orderly-cat-284
+run_uuid: de2207cc41804229a3189121edf38ae7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141378339
+status: 3
+tags: []
+user_id: thomasgeorgiou

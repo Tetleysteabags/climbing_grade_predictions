@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/5f47421b419f407ebe5599ae6aad0727/artifacts
+deleted_time: 1698214921447
 end_time: 1698079153166
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 5f47421b419f407ebe5599ae6aad0727
 run_name: languid-loon-382
 run_uuid: 5f47421b419f407ebe5599ae6aad0727

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/7c365c780a9b4cf59e3dc73f9c115920/artifacts
+deleted_time: 1698168450440
+end_time: 1698141284904
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 7c365c780a9b4cf59e3dc73f9c115920
+run_name: rare-pug-759
+run_uuid: 7c365c780a9b4cf59e3dc73f9c115920
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141284180
+status: 3
+tags: []
+user_id: thomasgeorgiou

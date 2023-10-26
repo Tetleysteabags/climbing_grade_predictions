@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/8798f94744164fafaeacbf36930a616d/artifacts
+deleted_time: 1698168415359
+end_time: 1698141432275
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 8798f94744164fafaeacbf36930a616d
+run_name: skillful-hound-179
+run_uuid: 8798f94744164fafaeacbf36930a616d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141431621
+status: 3
+tags: []
+user_id: thomasgeorgiou

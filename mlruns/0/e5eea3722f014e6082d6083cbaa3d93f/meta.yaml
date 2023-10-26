@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/e5eea3722f014e6082d6083cbaa3d93f/artifacts
+deleted_time: 1698168680300
+end_time: 1698141119617
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: e5eea3722f014e6082d6083cbaa3d93f
+run_name: resilient-gnat-92
+run_uuid: e5eea3722f014e6082d6083cbaa3d93f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141119052
+status: 3
+tags: []
+user_id: thomasgeorgiou

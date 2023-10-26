@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/a766ed705738449bbac40e273736f87e/artifacts
+deleted_time: 1698168490812
+end_time: 1698141191179
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: a766ed705738449bbac40e273736f87e
+run_name: persistent-hog-150
+run_uuid: a766ed705738449bbac40e273736f87e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141190813
+status: 3
+tags: []
+user_id: thomasgeorgiou

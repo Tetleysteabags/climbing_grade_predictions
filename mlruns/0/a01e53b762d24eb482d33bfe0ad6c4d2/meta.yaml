@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/a01e53b762d24eb482d33bfe0ad6c4d2/artifacts
+deleted_time: 1698168619326
+end_time: 1698141346882
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: a01e53b762d24eb482d33bfe0ad6c4d2
+run_name: grandiose-wasp-452
+run_uuid: a01e53b762d24eb482d33bfe0ad6c4d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141346206
+status: 3
+tags: []
+user_id: thomasgeorgiou

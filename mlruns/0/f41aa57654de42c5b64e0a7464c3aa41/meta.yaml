@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/f41aa57654de42c5b64e0a7464c3aa41/artifacts
+deleted_time: 1698168726752
 end_time: 1697885941778
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: f41aa57654de42c5b64e0a7464c3aa41
 run_name: stylish-lark-620
 run_uuid: f41aa57654de42c5b64e0a7464c3aa41

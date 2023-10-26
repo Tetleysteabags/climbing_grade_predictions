@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/864d8fa690b24e11897cfc0f127eff06/artifacts
+deleted_time: 1698168450373
+end_time: 1698141300137
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 864d8fa690b24e11897cfc0f127eff06
+run_name: gaudy-conch-369
+run_uuid: 864d8fa690b24e11897cfc0f127eff06
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141299717
+status: 3
+tags: []
+user_id: thomasgeorgiou

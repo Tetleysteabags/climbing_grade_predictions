@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/d5b2c11f0c36436c829adabeb7f1bbc0/artifacts
+deleted_time: 1698168450463
+end_time: 1698141277512
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: d5b2c11f0c36436c829adabeb7f1bbc0
+run_name: treasured-frog-979
+run_uuid: d5b2c11f0c36436c829adabeb7f1bbc0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141277085
+status: 3
+tags: []
+user_id: thomasgeorgiou

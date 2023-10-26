@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/5f1de7a4b02f4ae4a8feb3f565ab8e29/artifacts
+deleted_time: 1698168524528
 end_time: 1698079555325
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 5f1de7a4b02f4ae4a8feb3f565ab8e29
 run_name: melodic-dove-737
 run_uuid: 5f1de7a4b02f4ae4a8feb3f565ab8e29

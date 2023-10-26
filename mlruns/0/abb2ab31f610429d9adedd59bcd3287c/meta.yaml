@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/abb2ab31f610429d9adedd59bcd3287c/artifacts
+deleted_time: 1698168524396
+end_time: 1698141093154
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: abb2ab31f610429d9adedd59bcd3287c
+run_name: debonair-hen-716
+run_uuid: abb2ab31f610429d9adedd59bcd3287c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141092659
+status: 3
+tags: []
+user_id: thomasgeorgiou

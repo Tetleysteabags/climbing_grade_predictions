@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/28c7f4fd88ce41c1a85c68fcf8b0c397/artifacts
+deleted_time: 1698168524462
 end_time: 1698130672302
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 28c7f4fd88ce41c1a85c68fcf8b0c397
 run_name: nervous-finch-711
 run_uuid: 28c7f4fd88ce41c1a85c68fcf8b0c397

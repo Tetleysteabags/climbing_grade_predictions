@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/7a06b7dea77b4a0cabbe159baf17dccb/artifacts
+deleted_time: 1698168619304
+end_time: 1698141353377
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 7a06b7dea77b4a0cabbe159baf17dccb
+run_name: honorable-shrew-503
+run_uuid: 7a06b7dea77b4a0cabbe159baf17dccb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141352872
+status: 3
+tags: []
+user_id: thomasgeorgiou

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/34f0aef4b57d4f1c8f9551bbd7252705/artifacts
+deleted_time: 1698167428964
+end_time: 1698141468364
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 34f0aef4b57d4f1c8f9551bbd7252705
+run_name: adorable-sheep-699
+run_uuid: 34f0aef4b57d4f1c8f9551bbd7252705
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141467851
+status: 3
+tags: []
+user_id: thomasgeorgiou

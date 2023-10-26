@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/5bde1ba87cd94687ae5c795c6e4404b3/artifacts
+deleted_time: 1698168680353
+end_time: 1698141103598
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 5bde1ba87cd94687ae5c795c6e4404b3
+run_name: sedate-turtle-88
+run_uuid: 5bde1ba87cd94687ae5c795c6e4404b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141103251
+status: 3
+tags: []
+user_id: thomasgeorgiou

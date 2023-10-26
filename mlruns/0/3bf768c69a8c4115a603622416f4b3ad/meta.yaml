@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/3bf768c69a8c4115a603622416f4b3ad/artifacts
+deleted_time: 1698167429046
+end_time: 1698141457715
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 3bf768c69a8c4115a603622416f4b3ad
+run_name: debonair-snail-96
+run_uuid: 3bf768c69a8c4115a603622416f4b3ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141457194
+status: 3
+tags: []
+user_id: thomasgeorgiou

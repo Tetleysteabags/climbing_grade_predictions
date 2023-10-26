@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/96aa37b4451c485181bb20d5cc8a8553/artifacts
+deleted_time: 1698214921314
+end_time: 1698141240730
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 96aa37b4451c485181bb20d5cc8a8553
+run_name: spiffy-loon-74
+run_uuid: 96aa37b4451c485181bb20d5cc8a8553
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141240350
+status: 3
+tags: []
+user_id: thomasgeorgiou

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/8ce520d0409045d5b5a55f7c6c1dd0ed/artifacts
+end_time: 1698250209637
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8ce520d0409045d5b5a55f7c6c1dd0ed
+run_name: Sport Grade Forecasting - Random Forest
+run_uuid: 8ce520d0409045d5b5a55f7c6c1dd0ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698250209593
+status: 3
+tags: []
+user_id: thomasgeorgiou

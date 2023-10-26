@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/3c3fc5afb0bd490291bab90932f9ed8f/artifacts
+end_time: 1698252010436
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3c3fc5afb0bd490291bab90932f9ed8f
+run_name: skillful-fish-461
+run_uuid: 3c3fc5afb0bd490291bab90932f9ed8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698252005111
+status: 3
+tags: []
+user_id: thomasgeorgiou

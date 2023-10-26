@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/60ed78a65078433b8b6986c731ab3cd9/artifacts
+deleted_time: 1698168680213
+end_time: 1698141145957
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 60ed78a65078433b8b6986c731ab3cd9
+run_name: hilarious-conch-213
+run_uuid: 60ed78a65078433b8b6986c731ab3cd9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141145440
+status: 3
+tags: []
+user_id: thomasgeorgiou

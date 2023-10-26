@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/66349e0424bb4af6b493eef110b9f8bf/artifacts
+deleted_time: 1698168619199
+end_time: 1698141378324
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 66349e0424bb4af6b493eef110b9f8bf
+run_name: magnificent-ray-805
+run_uuid: 66349e0424bb4af6b493eef110b9f8bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141377789
+status: 3
+tags: []
+user_id: thomasgeorgiou

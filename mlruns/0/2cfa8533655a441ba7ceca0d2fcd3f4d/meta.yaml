@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/2cfa8533655a441ba7ceca0d2fcd3f4d/artifacts
+deleted_time: 1698168524465
 end_time: 1698130672130
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 2cfa8533655a441ba7ceca0d2fcd3f4d
 run_name: marvelous-ox-811
 run_uuid: 2cfa8533655a441ba7ceca0d2fcd3f4d

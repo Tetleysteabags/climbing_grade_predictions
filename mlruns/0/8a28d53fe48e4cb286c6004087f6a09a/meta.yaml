@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/8a28d53fe48e4cb286c6004087f6a09a/artifacts
+deleted_time: 1698168415550
+end_time: 1698141389831
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 8a28d53fe48e4cb286c6004087f6a09a
+run_name: calm-lark-626
+run_uuid: 8a28d53fe48e4cb286c6004087f6a09a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141389453
+status: 3
+tags: []
+user_id: thomasgeorgiou

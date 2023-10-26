@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/03d0929e342c430683c1f460b4d44729/artifacts
+deleted_time: 1698214921470
 end_time: 1698079152040
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 03d0929e342c430683c1f460b4d44729
 run_name: masked-fly-909
 run_uuid: 03d0929e342c430683c1f460b4d44729

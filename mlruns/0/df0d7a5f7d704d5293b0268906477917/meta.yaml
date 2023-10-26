@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/df0d7a5f7d704d5293b0268906477917/artifacts
+deleted_time: 1698168619290
+end_time: 1698141359747
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: df0d7a5f7d704d5293b0268906477917
+run_name: bouncy-newt-402
+run_uuid: df0d7a5f7d704d5293b0268906477917
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141359536
+status: 3
+tags: []
+user_id: thomasgeorgiou

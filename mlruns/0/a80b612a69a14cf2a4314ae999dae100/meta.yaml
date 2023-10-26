@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/a80b612a69a14cf2a4314ae999dae100/artifacts
+deleted_time: 1698167428942
+end_time: 1698141474625
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: a80b612a69a14cf2a4314ae999dae100
+run_name: blushing-dove-768
+run_uuid: a80b612a69a14cf2a4314ae999dae100
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141474121
+status: 3
+tags: []
+user_id: thomasgeorgiou

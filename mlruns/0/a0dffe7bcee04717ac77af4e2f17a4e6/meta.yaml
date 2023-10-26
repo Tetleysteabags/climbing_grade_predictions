@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/a0dffe7bcee04717ac77af4e2f17a4e6/artifacts
+end_time: 1698234427372
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a0dffe7bcee04717ac77af4e2f17a4e6
+run_name: nervous-shad-531
+run_uuid: a0dffe7bcee04717ac77af4e2f17a4e6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698234402950
+status: 3
+tags: []
+user_id: thomasgeorgiou

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/c56429828a864875bd683c0f73b51bc0/artifacts
+deleted_time: 1698168619339
+end_time: 1698141340404
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: c56429828a864875bd683c0f73b51bc0
+run_name: zealous-conch-667
+run_uuid: c56429828a864875bd683c0f73b51bc0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141340011
+status: 3
+tags: []
+user_id: thomasgeorgiou

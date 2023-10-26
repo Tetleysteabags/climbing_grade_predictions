@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/706da18c91104497a17a1bc4baf8569e/artifacts
+deleted_time: 1698168726738
 end_time: 1697886218235
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 706da18c91104497a17a1bc4baf8569e
 run_name: dazzling-slug-103
 run_uuid: 706da18c91104497a17a1bc4baf8569e

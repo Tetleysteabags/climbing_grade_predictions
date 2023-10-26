@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/413debbe2a534cbeaa5c051e77174daf/artifacts
+deleted_time: 1698218509617
 end_time: 1697886713639
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 413debbe2a534cbeaa5c051e77174daf
 run_name: blushing-trout-178
 run_uuid: 413debbe2a534cbeaa5c051e77174daf

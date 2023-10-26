@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/9b4514879eca42259dbdd1ad8ea04279/artifacts
+deleted_time: 1698168524527
 end_time: 1698079555464
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 9b4514879eca42259dbdd1ad8ea04279
 run_name: aged-cod-126
 run_uuid: 9b4514879eca42259dbdd1ad8ea04279

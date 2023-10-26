@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/1f22b14449b34644839350adf5d39a66/artifacts
+deleted_time: 1698168619290
+end_time: 1698141360383
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 1f22b14449b34644839350adf5d39a66
+run_name: luminous-crane-945
+run_uuid: 1f22b14449b34644839350adf5d39a66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141359780
+status: 3
+tags: []
+user_id: thomasgeorgiou

@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/ddd91b9f67e54935b4aaeb7523423d43/artifacts
+deleted_time: 1698168524493
 end_time: 1698130636338
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: ddd91b9f67e54935b4aaeb7523423d43
 run_name: adaptable-hog-930
 run_uuid: ddd91b9f67e54935b4aaeb7523423d43

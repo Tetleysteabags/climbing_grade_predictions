@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/d1144ddf8c774c86a64ef22d7617182c/artifacts
+deleted_time: 1698168619355
+end_time: 1698141335100
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: d1144ddf8c774c86a64ef22d7617182c
+run_name: indecisive-gnu-99
+run_uuid: d1144ddf8c774c86a64ef22d7617182c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141334396
+status: 3
+tags: []
+user_id: thomasgeorgiou

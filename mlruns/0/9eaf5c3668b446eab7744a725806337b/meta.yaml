@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/9eaf5c3668b446eab7744a725806337b/artifacts
+deleted_time: 1698214921448
 end_time: 1698079153100
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 9eaf5c3668b446eab7744a725806337b
 run_name: handsome-ox-424
 run_uuid: 9eaf5c3668b446eab7744a725806337b

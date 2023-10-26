@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/206b9ed863ee473a9446c7e424891b7d/artifacts
+deleted_time: 1698168524435
 end_time: 1698133458718
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 206b9ed863ee473a9446c7e424891b7d
 run_name: wistful-snipe-57
 run_uuid: 206b9ed863ee473a9446c7e424891b7d

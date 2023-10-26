@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/7a2e8ea2ff6f48b886b13d1f4d95f714/artifacts
+deleted_time: 1698167428881
+end_time: 1698141486179
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 7a2e8ea2ff6f48b886b13d1f4d95f714
+run_name: bouncy-snake-265
+run_uuid: 7a2e8ea2ff6f48b886b13d1f4d95f714
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141485545
+status: 3
+tags: []
+user_id: thomasgeorgiou

@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/07df59efacd7432ea5524f99a6464f45/artifacts
+deleted_time: 1698214921508
 end_time: 1698002038399
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 07df59efacd7432ea5524f99a6464f45
 run_name: luxuriant-frog-113
 run_uuid: 07df59efacd7432ea5524f99a6464f45

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/b434f008fd1942669b1df2252196674d/artifacts
+deleted_time: 1698214921402
+end_time: 1698141219015
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: b434f008fd1942669b1df2252196674d
+run_name: honorable-fowl-361
+run_uuid: b434f008fd1942669b1df2252196674d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141218394
+status: 3
+tags: []
+user_id: thomasgeorgiou

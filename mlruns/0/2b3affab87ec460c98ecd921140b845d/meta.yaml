@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/2b3affab87ec460c98ecd921140b845d/artifacts
+deleted_time: 1698168680344
+end_time: 1698141106908
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 2b3affab87ec460c98ecd921140b845d
+run_name: welcoming-lark-28
+run_uuid: 2b3affab87ec460c98ecd921140b845d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141106351
+status: 3
+tags: []
+user_id: thomasgeorgiou

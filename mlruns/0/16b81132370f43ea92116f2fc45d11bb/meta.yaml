@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/16b81132370f43ea92116f2fc45d11bb/artifacts
+deleted_time: 1698168524511
 end_time: 1698079556517
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 16b81132370f43ea92116f2fc45d11bb
 run_name: bald-goat-441
 run_uuid: 16b81132370f43ea92116f2fc45d11bb

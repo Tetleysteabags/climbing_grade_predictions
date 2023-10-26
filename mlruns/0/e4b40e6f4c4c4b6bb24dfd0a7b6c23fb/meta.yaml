@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/e4b40e6f4c4c4b6bb24dfd0a7b6c23fb/artifacts
+deleted_time: 1698214921279
+end_time: 1698141249889
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: e4b40e6f4c4c4b6bb24dfd0a7b6c23fb
+run_name: polite-hare-436
+run_uuid: e4b40e6f4c4c4b6bb24dfd0a7b6c23fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141249489
+status: 3
+tags: []
+user_id: thomasgeorgiou

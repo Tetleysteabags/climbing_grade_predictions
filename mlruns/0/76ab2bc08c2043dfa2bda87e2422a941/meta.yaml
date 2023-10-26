@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/76ab2bc08c2043dfa2bda87e2422a941/artifacts
+deleted_time: 1698168415377
+end_time: 1698141432721
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 76ab2bc08c2043dfa2bda87e2422a941
+run_name: gentle-skink-510
+run_uuid: 76ab2bc08c2043dfa2bda87e2422a941
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141432296
+status: 3
+tags: []
+user_id: thomasgeorgiou

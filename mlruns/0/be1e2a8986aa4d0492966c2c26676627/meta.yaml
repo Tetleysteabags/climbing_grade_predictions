@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/be1e2a8986aa4d0492966c2c26676627/artifacts
+deleted_time: 1698168726735
 end_time: 1697886430179
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: be1e2a8986aa4d0492966c2c26676627
 run_name: salty-squirrel-562
 run_uuid: be1e2a8986aa4d0492966c2c26676627

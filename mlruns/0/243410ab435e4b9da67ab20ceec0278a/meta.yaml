@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/243410ab435e4b9da67ab20ceec0278a/artifacts
+deleted_time: 1698168415539
+end_time: 1698141393409
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 243410ab435e4b9da67ab20ceec0278a
+run_name: gaudy-bee-149
+run_uuid: 243410ab435e4b9da67ab20ceec0278a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141392919
+status: 3
+tags: []
+user_id: thomasgeorgiou

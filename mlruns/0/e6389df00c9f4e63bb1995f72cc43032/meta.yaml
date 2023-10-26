@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/e6389df00c9f4e63bb1995f72cc43032/artifacts
+deleted_time: 1698168450471
+end_time: 1698141274858
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: e6389df00c9f4e63bb1995f72cc43032
+run_name: popular-dove-409
+run_uuid: e6389df00c9f4e63bb1995f72cc43032
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141274043
+status: 3
+tags: []
+user_id: thomasgeorgiou

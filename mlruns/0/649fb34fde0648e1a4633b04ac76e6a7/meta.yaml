@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/649fb34fde0648e1a4633b04ac76e6a7/artifacts
+deleted_time: 1698168524471
 end_time: 1698130671871
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 649fb34fde0648e1a4633b04ac76e6a7
 run_name: debonair-calf-735
 run_uuid: 649fb34fde0648e1a4633b04ac76e6a7

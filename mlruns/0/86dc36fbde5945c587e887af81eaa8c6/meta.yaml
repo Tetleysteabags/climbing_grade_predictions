@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/86dc36fbde5945c587e887af81eaa8c6/artifacts
+deleted_time: 1698214921522
 end_time: 1698002037458
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 86dc36fbde5945c587e887af81eaa8c6
 run_name: loud-cat-535
 run_uuid: 86dc36fbde5945c587e887af81eaa8c6

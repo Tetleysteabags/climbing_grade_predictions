@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/fdcc83c2d81e4a269f88e17a6bd90d90/artifacts
+deleted_time: 1698214921504
 end_time: 1698002233461
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: fdcc83c2d81e4a269f88e17a6bd90d90
 run_name: efficient-gnat-413
 run_uuid: fdcc83c2d81e4a269f88e17a6bd90d90

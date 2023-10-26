@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/816ea9ce3b194888a34d8da80645dd3e/artifacts
+deleted_time: 1698168490916
+end_time: 1698141155369
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 816ea9ce3b194888a34d8da80645dd3e
+run_name: kindly-rat-879
+run_uuid: 816ea9ce3b194888a34d8da80645dd3e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141154884
+status: 3
+tags: []
+user_id: thomasgeorgiou

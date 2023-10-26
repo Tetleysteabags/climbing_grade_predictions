@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/060dcfc46f454a92851a45c0f59376d8/artifacts
+deleted_time: 1698167429079
+end_time: 1698141450660
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 060dcfc46f454a92851a45c0f59376d8
+run_name: valuable-fly-862
+run_uuid: 060dcfc46f454a92851a45c0f59376d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141450270
+status: 3
+tags: []
+user_id: thomasgeorgiou

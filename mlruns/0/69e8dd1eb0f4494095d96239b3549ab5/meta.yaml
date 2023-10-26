@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/69e8dd1eb0f4494095d96239b3549ab5/artifacts
+deleted_time: 1698168619365
+end_time: 1698141332402
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 69e8dd1eb0f4494095d96239b3549ab5
+run_name: painted-skink-720
+run_uuid: 69e8dd1eb0f4494095d96239b3549ab5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141331806
+status: 3
+tags: []
+user_id: thomasgeorgiou

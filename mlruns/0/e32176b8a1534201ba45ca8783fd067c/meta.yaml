@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/e32176b8a1534201ba45ca8783fd067c/artifacts
+deleted_time: 1698168619255
+end_time: 1698141368045
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: e32176b8a1534201ba45ca8783fd067c
+run_name: clean-asp-599
+run_uuid: e32176b8a1534201ba45ca8783fd067c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141367474
+status: 3
+tags: []
+user_id: thomasgeorgiou

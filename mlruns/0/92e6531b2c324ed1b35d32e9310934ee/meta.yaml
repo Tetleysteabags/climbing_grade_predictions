@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/92e6531b2c324ed1b35d32e9310934ee/artifacts
+deleted_time: 1698168680352
+end_time: 1698141104611
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 92e6531b2c324ed1b35d32e9310934ee
+run_name: welcoming-yak-684
+run_uuid: 92e6531b2c324ed1b35d32e9310934ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141104191
+status: 3
+tags: []
+user_id: thomasgeorgiou

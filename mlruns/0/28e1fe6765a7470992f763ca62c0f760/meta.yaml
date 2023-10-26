@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/28e1fe6765a7470992f763ca62c0f760/artifacts
+deleted_time: 1698168450488
+end_time: 1698141268896
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 28e1fe6765a7470992f763ca62c0f760
+run_name: exultant-chimp-559
+run_uuid: 28e1fe6765a7470992f763ca62c0f760
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141268397
+status: 3
+tags: []
+user_id: thomasgeorgiou

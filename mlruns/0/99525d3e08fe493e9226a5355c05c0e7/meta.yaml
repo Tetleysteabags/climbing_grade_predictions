@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/99525d3e08fe493e9226a5355c05c0e7/artifacts
+deleted_time: 1698168415443
+end_time: 1698141420017
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 99525d3e08fe493e9226a5355c05c0e7
+run_name: amazing-doe-233
+run_uuid: 99525d3e08fe493e9226a5355c05c0e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141419352
+status: 3
+tags: []
+user_id: thomasgeorgiou

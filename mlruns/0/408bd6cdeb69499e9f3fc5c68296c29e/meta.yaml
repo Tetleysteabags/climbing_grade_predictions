@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/408bd6cdeb69499e9f3fc5c68296c29e/artifacts
+deleted_time: 1698214921253
+end_time: 1698141256618
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 408bd6cdeb69499e9f3fc5c68296c29e
+run_name: clumsy-vole-615
+run_uuid: 408bd6cdeb69499e9f3fc5c68296c29e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141256243
+status: 3
+tags: []
+user_id: thomasgeorgiou

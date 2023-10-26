@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/68150e7f5b9c4770bb577101eddc4206/artifacts
+deleted_time: 1698168490773
+end_time: 1698141203460
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 68150e7f5b9c4770bb577101eddc4206
+run_name: judicious-zebra-418
+run_uuid: 68150e7f5b9c4770bb577101eddc4206
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141203041
+status: 3
+tags: []
+user_id: thomasgeorgiou

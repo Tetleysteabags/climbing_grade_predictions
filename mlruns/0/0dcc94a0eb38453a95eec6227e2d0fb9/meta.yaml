@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/0dcc94a0eb38453a95eec6227e2d0fb9/artifacts
+deleted_time: 1698168490773
+end_time: 1698141203915
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 0dcc94a0eb38453a95eec6227e2d0fb9
+run_name: dapper-mole-566
+run_uuid: 0dcc94a0eb38453a95eec6227e2d0fb9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141203479
+status: 3
+tags: []
+user_id: thomasgeorgiou

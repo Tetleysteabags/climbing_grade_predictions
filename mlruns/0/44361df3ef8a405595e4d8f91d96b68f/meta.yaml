@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/44361df3ef8a405595e4d8f91d96b68f/artifacts
+deleted_time: 1698218537663
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 44361df3ef8a405595e4d8f91d96b68f
+run_name: dazzling-zebra-599
+run_uuid: 44361df3ef8a405595e4d8f91d96b68f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698218096117
+status: 1
+tags: []
+user_id: thomasgeorgiou

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/a95bdde034e547e2a7f0cd7c9542d536/artifacts
+deleted_time: 1698168415415
+end_time: 1698141424526
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: a95bdde034e547e2a7f0cd7c9542d536
+run_name: suave-yak-771
+run_uuid: a95bdde034e547e2a7f0cd7c9542d536
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141424001
+status: 3
+tags: []
+user_id: thomasgeorgiou

@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/a11d4018e20f45fba13e326e4a41b573/artifacts
+deleted_time: 1698168524478
 end_time: 1698130671624
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: a11d4018e20f45fba13e326e4a41b573
 run_name: clumsy-boar-896
 run_uuid: a11d4018e20f45fba13e326e4a41b573

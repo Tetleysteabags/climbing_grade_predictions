@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/e4dfd71967954b3e8be6348a77f9d5bf/artifacts
+deleted_time: 1698168415489
+end_time: 1698141404650
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: e4dfd71967954b3e8be6348a77f9d5bf
+run_name: sassy-pig-297
+run_uuid: e4dfd71967954b3e8be6348a77f9d5bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141404089
+status: 3
+tags: []
+user_id: thomasgeorgiou

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/6dae3b32a28b4b6f8336dfe66afac19d/artifacts
+deleted_time: 1698168680360
+end_time: 1698141101566
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 6dae3b32a28b4b6f8336dfe66afac19d
+run_name: powerful-stoat-249
+run_uuid: 6dae3b32a28b4b6f8336dfe66afac19d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141101203
+status: 3
+tags: []
+user_id: thomasgeorgiou

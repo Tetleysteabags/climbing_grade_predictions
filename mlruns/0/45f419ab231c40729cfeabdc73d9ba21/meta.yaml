@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/45f419ab231c40729cfeabdc73d9ba21/artifacts
+deleted_time: 1698167429066
+end_time: 1698141454361
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 45f419ab231c40729cfeabdc73d9ba21
+run_name: fearless-skink-12
+run_uuid: 45f419ab231c40729cfeabdc73d9ba21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141453690
+status: 3
+tags: []
+user_id: thomasgeorgiou

@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/1599cb2cec82401f863d29fb16487484/artifacts
+deleted_time: 1698214921483
 end_time: 1698079151484
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 1599cb2cec82401f863d29fb16487484
 run_name: dapper-mole-568
 run_uuid: 1599cb2cec82401f863d29fb16487484

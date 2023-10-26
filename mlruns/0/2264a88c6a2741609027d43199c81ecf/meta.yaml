@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/2264a88c6a2741609027d43199c81ecf/artifacts
+deleted_time: 1698168415416
+end_time: 1698141425058
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 2264a88c6a2741609027d43199c81ecf
+run_name: gifted-panda-650
+run_uuid: 2264a88c6a2741609027d43199c81ecf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141424560
+status: 3
+tags: []
+user_id: thomasgeorgiou

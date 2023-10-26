@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/646153f4e68546749ed1fe4ab4f7b352/artifacts
+end_time: 1698237143401
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 646153f4e68546749ed1fe4ab4f7b352
+run_name: bold-foal-295
+run_uuid: 646153f4e68546749ed1fe4ab4f7b352
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698234992328
+status: 3
+tags: []
+user_id: thomasgeorgiou

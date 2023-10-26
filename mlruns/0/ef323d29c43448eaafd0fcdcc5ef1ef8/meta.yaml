@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/ef323d29c43448eaafd0fcdcc5ef1ef8/artifacts
+deleted_time: 1698168415491
+end_time: 1698141404056
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: ef323d29c43448eaafd0fcdcc5ef1ef8
+run_name: polite-bear-981
+run_uuid: ef323d29c43448eaafd0fcdcc5ef1ef8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141403590
+status: 3
+tags: []
+user_id: thomasgeorgiou

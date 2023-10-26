@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/f1cedbfafbf2472cabb5eb93fb3b013b/artifacts
+deleted_time: 1698168524441
 end_time: 1698133433176
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: f1cedbfafbf2472cabb5eb93fb3b013b
 run_name: abrasive-zebra-903
 run_uuid: f1cedbfafbf2472cabb5eb93fb3b013b

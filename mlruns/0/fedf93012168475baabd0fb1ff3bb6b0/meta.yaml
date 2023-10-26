@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/fedf93012168475baabd0fb1ff3bb6b0/artifacts
+deleted_time: 1698168680239
+end_time: 1698141138252
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: fedf93012168475baabd0fb1ff3bb6b0
+run_name: dapper-shrike-241
+run_uuid: fedf93012168475baabd0fb1ff3bb6b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141137736
+status: 3
+tags: []
+user_id: thomasgeorgiou

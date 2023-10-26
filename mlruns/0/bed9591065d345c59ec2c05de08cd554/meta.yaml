@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/bed9591065d345c59ec2c05de08cd554/artifacts
+deleted_time: 1698214921368
+end_time: 1698141228540
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: bed9591065d345c59ec2c05de08cd554
+run_name: crawling-mouse-251
+run_uuid: bed9591065d345c59ec2c05de08cd554
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141228123
+status: 3
+tags: []
+user_id: thomasgeorgiou

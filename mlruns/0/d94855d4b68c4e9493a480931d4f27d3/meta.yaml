@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/d94855d4b68c4e9493a480931d4f27d3/artifacts
+deleted_time: 1698214921328
+end_time: 1698141237053
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: d94855d4b68c4e9493a480931d4f27d3
+run_name: adaptable-grouse-595
+run_uuid: d94855d4b68c4e9493a480931d4f27d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141236715
+status: 3
+tags: []
+user_id: thomasgeorgiou

@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/dc8c91621060468c8cf3c5d8becdd186/artifacts
+deleted_time: 1698168524431
 end_time: 1698133458875
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: dc8c91621060468c8cf3c5d8becdd186
 run_name: serious-horse-511
 run_uuid: dc8c91621060468c8cf3c5d8becdd186

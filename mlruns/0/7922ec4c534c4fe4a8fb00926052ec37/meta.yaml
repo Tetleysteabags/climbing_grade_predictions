@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/7922ec4c534c4fe4a8fb00926052ec37/artifacts
+deleted_time: 1698168680357
+end_time: 1698141102784
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 7922ec4c534c4fe4a8fb00926052ec37
+run_name: whimsical-horse-43
+run_uuid: 7922ec4c534c4fe4a8fb00926052ec37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141102273
+status: 3
+tags: []
+user_id: thomasgeorgiou

@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/19db9f890edf444585f97420a83127a4/artifacts
+deleted_time: 1698218509512
 end_time: 1698002976034
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 19db9f890edf444585f97420a83127a4
 run_name: righteous-lamb-133
 run_uuid: 19db9f890edf444585f97420a83127a4

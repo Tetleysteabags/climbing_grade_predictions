@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/da1e92f3ca9f4650a13c4eddd5d587ff/artifacts
+deleted_time: 1698167429057
+end_time: 1698141455871
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: da1e92f3ca9f4650a13c4eddd5d587ff
+run_name: trusting-carp-288
+run_uuid: da1e92f3ca9f4650a13c4eddd5d587ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141455435
+status: 3
+tags: []
+user_id: thomasgeorgiou

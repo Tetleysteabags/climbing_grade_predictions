@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/e9fed087e3ec44168b5829eedd564008/artifacts
+deleted_time: 1698168619339
+end_time: 1698141341478
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: e9fed087e3ec44168b5829eedd564008
+run_name: rumbling-snake-850
+run_uuid: e9fed087e3ec44168b5829eedd564008
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141341052
+status: 3
+tags: []
+user_id: thomasgeorgiou

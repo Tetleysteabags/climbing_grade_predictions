@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/c64dc879ce744415b360f6328249c596/artifacts
+deleted_time: 1698168415448
+end_time: 1698141417786
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: c64dc879ce744415b360f6328249c596
+run_name: secretive-grub-867
+run_uuid: c64dc879ce744415b360f6328249c596
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141417077
+status: 3
+tags: []
+user_id: thomasgeorgiou

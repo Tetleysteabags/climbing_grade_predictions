@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/c19632aee8f94ddb9c2a269f64412af0/artifacts
+deleted_time: 1698167429071
+end_time: 1698141452551
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: c19632aee8f94ddb9c2a269f64412af0
+run_name: kindly-dove-90
+run_uuid: c19632aee8f94ddb9c2a269f64412af0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141451700
+status: 3
+tags: []
+user_id: thomasgeorgiou

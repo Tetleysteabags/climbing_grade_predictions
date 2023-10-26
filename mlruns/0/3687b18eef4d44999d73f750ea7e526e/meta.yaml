@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/3687b18eef4d44999d73f750ea7e526e/artifacts
+deleted_time: 1698167429047
+end_time: 1698141458123
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 3687b18eef4d44999d73f750ea7e526e
+run_name: rebellious-swan-456
+run_uuid: 3687b18eef4d44999d73f750ea7e526e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141457728
+status: 3
+tags: []
+user_id: thomasgeorgiou

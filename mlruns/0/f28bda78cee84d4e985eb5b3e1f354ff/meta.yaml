@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/f28bda78cee84d4e985eb5b3e1f354ff/artifacts
+deleted_time: 1698168415553
+end_time: 1698141389012
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: f28bda78cee84d4e985eb5b3e1f354ff
+run_name: sedate-perch-224
+run_uuid: f28bda78cee84d4e985eb5b3e1f354ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141388561
+status: 3
+tags: []
+user_id: thomasgeorgiou

@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/cef148d616f148ed971954b79d356e5c/artifacts
+deleted_time: 1698168524482
 end_time: 1698130637046
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: cef148d616f148ed971954b79d356e5c
 run_name: judicious-panda-220
 run_uuid: cef148d616f148ed971954b79d356e5c

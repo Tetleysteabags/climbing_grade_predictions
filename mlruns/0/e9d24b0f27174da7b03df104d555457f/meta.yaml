@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/e9d24b0f27174da7b03df104d555457f/artifacts
+deleted_time: 1698214921211
+end_time: 1698141264449
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: e9d24b0f27174da7b03df104d555457f
+run_name: bustling-smelt-769
+run_uuid: e9d24b0f27174da7b03df104d555457f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141263783
+status: 3
+tags: []
+user_id: thomasgeorgiou

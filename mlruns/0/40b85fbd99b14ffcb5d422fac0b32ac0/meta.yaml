@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/40b85fbd99b14ffcb5d422fac0b32ac0/artifacts
+deleted_time: 1698168450315
+end_time: 1698141318270
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 40b85fbd99b14ffcb5d422fac0b32ac0
+run_name: dazzling-shrike-724
+run_uuid: 40b85fbd99b14ffcb5d422fac0b32ac0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141317661
+status: 3
+tags: []
+user_id: thomasgeorgiou

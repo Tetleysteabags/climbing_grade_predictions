@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/cafbd86cb617401c8db2526a43414345/artifacts
+deleted_time: 1698214921533
 end_time: 1698002036661
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: cafbd86cb617401c8db2526a43414345
 run_name: luminous-bird-563
 run_uuid: cafbd86cb617401c8db2526a43414345

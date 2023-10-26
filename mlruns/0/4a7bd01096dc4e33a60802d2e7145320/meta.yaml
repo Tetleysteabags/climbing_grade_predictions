@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/4a7bd01096dc4e33a60802d2e7145320/artifacts
+deleted_time: 1698214921223
+end_time: 1698141262645
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 4a7bd01096dc4e33a60802d2e7145320
+run_name: caring-shrike-286
+run_uuid: 4a7bd01096dc4e33a60802d2e7145320
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141262005
+status: 3
+tags: []
+user_id: thomasgeorgiou

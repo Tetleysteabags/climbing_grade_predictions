@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/95736b3ef7fe4145b1d7d1d2cc2dea86/artifacts
+deleted_time: 1698168524456
 end_time: 1698133432497
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 95736b3ef7fe4145b1d7d1d2cc2dea86
 run_name: caring-roo-770
 run_uuid: 95736b3ef7fe4145b1d7d1d2cc2dea86

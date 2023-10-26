@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/c23d4328de5747ea98fb622b7975496e/artifacts
+deleted_time: 1698168680362
+end_time: 1698141101193
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: c23d4328de5747ea98fb622b7975496e
+run_name: crawling-mole-6
+run_uuid: c23d4328de5747ea98fb622b7975496e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141100677
+status: 3
+tags: []
+user_id: thomasgeorgiou

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/52551176822546a1af1b73fed9905392/artifacts
+deleted_time: 1698167429115
+end_time: 1698141440862
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 52551176822546a1af1b73fed9905392
+run_name: resilient-kite-91
+run_uuid: 52551176822546a1af1b73fed9905392
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141440068
+status: 3
+tags: []
+user_id: thomasgeorgiou

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/e2b84c774cd34d92828122105a0d6229/artifacts
+deleted_time: 1698168619331
+end_time: 1698141345502
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: e2b84c774cd34d92828122105a0d6229
+run_name: abrasive-kit-721
+run_uuid: e2b84c774cd34d92828122105a0d6229
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141344813
+status: 3
+tags: []
+user_id: thomasgeorgiou

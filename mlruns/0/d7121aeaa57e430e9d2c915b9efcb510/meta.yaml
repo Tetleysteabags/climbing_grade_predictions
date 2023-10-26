@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/d7121aeaa57e430e9d2c915b9efcb510/artifacts
+deleted_time: 1698167428890
+end_time: 1698141484924
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: d7121aeaa57e430e9d2c915b9efcb510
+run_name: enthused-snipe-787
+run_uuid: d7121aeaa57e430e9d2c915b9efcb510
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141484333
+status: 3
+tags: []
+user_id: thomasgeorgiou

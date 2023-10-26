@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/11309137d9094bae81d12cb41d91faf0/artifacts
+deleted_time: 1698168680319
+end_time: 1698141113711
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 11309137d9094bae81d12cb41d91faf0
+run_name: enthused-sow-231
+run_uuid: 11309137d9094bae81d12cb41d91faf0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141113310
+status: 3
+tags: []
+user_id: thomasgeorgiou

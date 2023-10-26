@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/babb68a017dd47e1b4aa486e2459adc8/artifacts
+deleted_time: 1698214921555
 end_time: 1697886430179
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: babb68a017dd47e1b4aa486e2459adc8
 run_name: fearless-perch-710
 run_uuid: babb68a017dd47e1b4aa486e2459adc8

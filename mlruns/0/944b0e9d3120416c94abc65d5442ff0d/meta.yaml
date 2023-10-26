@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/944b0e9d3120416c94abc65d5442ff0d/artifacts
+deleted_time: 1698168680178
+end_time: 1698141214819
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 944b0e9d3120416c94abc65d5442ff0d
+run_name: indecisive-horse-377
+run_uuid: 944b0e9d3120416c94abc65d5442ff0d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141214305
+status: 3
+tags: []
+user_id: thomasgeorgiou

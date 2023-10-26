@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/32a0c97a66544bba8278e41fa9430da1/artifacts
+deleted_time: 1698218509615
 end_time: 1697886713639
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 32a0c97a66544bba8278e41fa9430da1
 run_name: stately-trout-176
 run_uuid: 32a0c97a66544bba8278e41fa9430da1

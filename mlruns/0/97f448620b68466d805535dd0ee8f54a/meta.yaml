@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/97f448620b68466d805535dd0ee8f54a/artifacts
+deleted_time: 1698168524408
+end_time: 1698141088203
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 97f448620b68466d805535dd0ee8f54a
+run_name: aged-calf-562
+run_uuid: 97f448620b68466d805535dd0ee8f54a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141087419
+status: 3
+tags: []
+user_id: thomasgeorgiou

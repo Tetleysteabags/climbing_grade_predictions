@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/863371b6db124479a1394bc2dd3c92e1/artifacts
+deleted_time: 1698168450303
+end_time: 1698141321321
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 863371b6db124479a1394bc2dd3c92e1
+run_name: skittish-shrew-310
+run_uuid: 863371b6db124479a1394bc2dd3c92e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141320748
+status: 3
+tags: []
+user_id: thomasgeorgiou

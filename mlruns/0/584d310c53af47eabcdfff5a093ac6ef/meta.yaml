@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/584d310c53af47eabcdfff5a093ac6ef/artifacts
+deleted_time: 1698168619356
+end_time: 1698141335617
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 584d310c53af47eabcdfff5a093ac6ef
+run_name: enchanting-fowl-736
+run_uuid: 584d310c53af47eabcdfff5a093ac6ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141335136
+status: 3
+tags: []
+user_id: thomasgeorgiou

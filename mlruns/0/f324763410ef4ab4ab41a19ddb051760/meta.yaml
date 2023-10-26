@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/f324763410ef4ab4ab41a19ddb051760/artifacts
+deleted_time: 1698167428963
+end_time: 1698141468745
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: f324763410ef4ab4ab41a19ddb051760
+run_name: rebellious-mule-85
+run_uuid: f324763410ef4ab4ab41a19ddb051760
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141468396
+status: 3
+tags: []
+user_id: thomasgeorgiou

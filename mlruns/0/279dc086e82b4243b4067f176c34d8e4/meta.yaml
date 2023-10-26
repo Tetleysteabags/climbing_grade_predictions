@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/279dc086e82b4243b4067f176c34d8e4/artifacts
+deleted_time: 1698168524501
 end_time: 1698130636082
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 279dc086e82b4243b4067f176c34d8e4
 run_name: selective-bug-116
 run_uuid: 279dc086e82b4243b4067f176c34d8e4

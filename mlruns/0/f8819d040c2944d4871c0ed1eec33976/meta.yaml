@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/f8819d040c2944d4871c0ed1eec33976/artifacts
+deleted_time: 1698214921494
 end_time: 1698079150895
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: f8819d040c2944d4871c0ed1eec33976
 run_name: stylish-croc-815
 run_uuid: f8819d040c2944d4871c0ed1eec33976

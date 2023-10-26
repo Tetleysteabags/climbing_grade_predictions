@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/e8a247d3c9274535b2695c75689e2382/artifacts
+deleted_time: 1698168450338
+end_time: 1698141310287
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: e8a247d3c9274535b2695c75689e2382
+run_name: suave-hare-333
+run_uuid: e8a247d3c9274535b2695c75689e2382
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141309562
+status: 3
+tags: []
+user_id: thomasgeorgiou

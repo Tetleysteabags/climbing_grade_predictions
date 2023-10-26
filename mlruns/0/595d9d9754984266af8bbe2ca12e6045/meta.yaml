@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/595d9d9754984266af8bbe2ca12e6045/artifacts
+deleted_time: 1698168450323
+end_time: 1698141315807
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 595d9d9754984266af8bbe2ca12e6045
+run_name: secretive-goat-110
+run_uuid: 595d9d9754984266af8bbe2ca12e6045
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141315052
+status: 3
+tags: []
+user_id: thomasgeorgiou

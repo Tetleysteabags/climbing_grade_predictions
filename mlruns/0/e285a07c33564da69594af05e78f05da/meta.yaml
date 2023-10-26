@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/e285a07c33564da69594af05e78f05da/artifacts
+deleted_time: 1698168450360
+end_time: 1698141303475
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: e285a07c33564da69594af05e78f05da
+run_name: capricious-flea-277
+run_uuid: e285a07c33564da69594af05e78f05da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141302985
+status: 3
+tags: []
+user_id: thomasgeorgiou

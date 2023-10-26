@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/95ae2a9719d7417ab88ca7c8f74637ef/artifacts
+deleted_time: 1698168619372
+end_time: 1698141330392
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 95ae2a9719d7417ab88ca7c8f74637ef
+run_name: merciful-shad-836
+run_uuid: 95ae2a9719d7417ab88ca7c8f74637ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141329788
+status: 3
+tags: []
+user_id: thomasgeorgiou

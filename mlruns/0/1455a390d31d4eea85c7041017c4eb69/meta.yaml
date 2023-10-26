@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/1455a390d31d4eea85c7041017c4eb69/artifacts
+deleted_time: 1698168619243
+end_time: 1698141370623
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 1455a390d31d4eea85c7041017c4eb69
+run_name: masked-doe-294
+run_uuid: 1455a390d31d4eea85c7041017c4eb69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141370224
+status: 3
+tags: []
+user_id: thomasgeorgiou

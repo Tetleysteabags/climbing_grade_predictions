@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/ccf04407960d41a8b3676d0dfe9d5975/artifacts
+deleted_time: 1698168415430
+end_time: 1698141422152
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: ccf04407960d41a8b3676d0dfe9d5975
+run_name: defiant-rook-58
+run_uuid: ccf04407960d41a8b3676d0dfe9d5975
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141421663
+status: 3
+tags: []
+user_id: thomasgeorgiou

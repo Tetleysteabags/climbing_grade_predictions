@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/a1ea9ab16ec34aedbe0893f6fbc7e9d9/artifacts
+deleted_time: 1698168524456
 end_time: 1698133432416
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: a1ea9ab16ec34aedbe0893f6fbc7e9d9
 run_name: gregarious-asp-767
 run_uuid: a1ea9ab16ec34aedbe0893f6fbc7e9d9

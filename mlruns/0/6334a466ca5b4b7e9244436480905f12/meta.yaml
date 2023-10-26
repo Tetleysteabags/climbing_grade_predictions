@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/6334a466ca5b4b7e9244436480905f12/artifacts
+deleted_time: 1698214921514
 end_time: 1698002038183
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 6334a466ca5b4b7e9244436480905f12
 run_name: intrigued-hawk-911
 run_uuid: 6334a466ca5b4b7e9244436480905f12

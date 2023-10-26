@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/0c9e93dc0d9244e4a09e661496792ef4/artifacts
+deleted_time: 1698168415577
+end_time: 1698141381229
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 0c9e93dc0d9244e4a09e661496792ef4
+run_name: illustrious-ram-97
+run_uuid: 0c9e93dc0d9244e4a09e661496792ef4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141380861
+status: 3
+tags: []
+user_id: thomasgeorgiou

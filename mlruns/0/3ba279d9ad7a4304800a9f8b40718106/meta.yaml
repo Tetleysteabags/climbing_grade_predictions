@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/3ba279d9ad7a4304800a9f8b40718106/artifacts
+deleted_time: 1698168524449
 end_time: 1698133432656
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 3ba279d9ad7a4304800a9f8b40718106
 run_name: angry-snipe-560
 run_uuid: 3ba279d9ad7a4304800a9f8b40718106

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/63c365d867c34eb692b87bd4d0078efb/artifacts
+deleted_time: 1698214921301
+end_time: 1698141243575
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 63c365d867c34eb692b87bd4d0078efb
+run_name: rogue-duck-370
+run_uuid: 63c365d867c34eb692b87bd4d0078efb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141243130
+status: 3
+tags: []
+user_id: thomasgeorgiou

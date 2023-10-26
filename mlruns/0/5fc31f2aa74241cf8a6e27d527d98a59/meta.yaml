@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/5fc31f2aa74241cf8a6e27d527d98a59/artifacts
+deleted_time: 1698218537723
+end_time: 1698218093835
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 5fc31f2aa74241cf8a6e27d527d98a59
+run_name: marvelous-stork-787
+run_uuid: 5fc31f2aa74241cf8a6e27d527d98a59
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698218093747
+status: 3
+tags: []
+user_id: thomasgeorgiou

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/ea7e9d6693964f0fba0dbaa027311fb2/artifacts
+deleted_time: 1698168415397
+end_time: 1698141426667
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: ea7e9d6693964f0fba0dbaa027311fb2
+run_name: overjoyed-pig-999
+run_uuid: ea7e9d6693964f0fba0dbaa027311fb2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141426037
+status: 3
+tags: []
+user_id: thomasgeorgiou

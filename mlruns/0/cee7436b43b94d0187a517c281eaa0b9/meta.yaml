@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/cee7436b43b94d0187a517c281eaa0b9/artifacts
+deleted_time: 1698218537707
+end_time: 1698218094929
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: cee7436b43b94d0187a517c281eaa0b9
+run_name: bemused-crow-650
+run_uuid: cee7436b43b94d0187a517c281eaa0b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698218094844
+status: 3
+tags: []
+user_id: thomasgeorgiou

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/ade7854ce8ce42d6ab429b2037ac30e0/artifacts
+deleted_time: 1698168450462
+end_time: 1698141278142
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: ade7854ce8ce42d6ab429b2037ac30e0
+run_name: popular-fowl-598
+run_uuid: ade7854ce8ce42d6ab429b2037ac30e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141277545
+status: 3
+tags: []
+user_id: thomasgeorgiou

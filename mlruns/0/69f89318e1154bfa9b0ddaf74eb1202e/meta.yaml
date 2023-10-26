@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/69f89318e1154bfa9b0ddaf74eb1202e/artifacts
+deleted_time: 1698168415539
+end_time: 1698141395137
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 69f89318e1154bfa9b0ddaf74eb1202e
+run_name: bright-cod-662
+run_uuid: 69f89318e1154bfa9b0ddaf74eb1202e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141394659
+status: 3
+tags: []
+user_id: thomasgeorgiou

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/15af94499cc7466cbee7f1dc848bdfdb/artifacts
+deleted_time: 1698168680333
+end_time: 1698141109073
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 15af94499cc7466cbee7f1dc848bdfdb
+run_name: flawless-croc-982
+run_uuid: 15af94499cc7466cbee7f1dc848bdfdb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141108677
+status: 3
+tags: []
+user_id: thomasgeorgiou

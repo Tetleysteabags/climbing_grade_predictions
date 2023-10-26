@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/052292d7ae8949dab23b0eb344c1e441/artifacts
+deleted_time: 1698168415470
+end_time: 1698141410575
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 052292d7ae8949dab23b0eb344c1e441
+run_name: nimble-colt-528
+run_uuid: 052292d7ae8949dab23b0eb344c1e441
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141409903
+status: 3
+tags: []
+user_id: thomasgeorgiou

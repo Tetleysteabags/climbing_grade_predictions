@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/f239411e0e1a477192dcb9330069d13f/artifacts
+deleted_time: 1698168619213
+end_time: 1698141376260
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: f239411e0e1a477192dcb9330069d13f
+run_name: chill-carp-267
+run_uuid: f239411e0e1a477192dcb9330069d13f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141375673
+status: 3
+tags: []
+user_id: thomasgeorgiou

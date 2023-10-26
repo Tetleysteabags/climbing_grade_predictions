@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/e983302ab269450eb3145c414be67675/artifacts
+deleted_time: 1698168490766
+end_time: 1698141206361
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: e983302ab269450eb3145c414be67675
+run_name: caring-rook-957
+run_uuid: e983302ab269450eb3145c414be67675
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141205940
+status: 3
+tags: []
+user_id: thomasgeorgiou

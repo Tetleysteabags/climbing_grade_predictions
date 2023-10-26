@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/e00b881a5e674dd3b6c514d63a4aae9a/artifacts
+deleted_time: 1698214921548
 end_time: 1698002035888
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: e00b881a5e674dd3b6c514d63a4aae9a
 run_name: popular-rat-387
 run_uuid: e00b881a5e674dd3b6c514d63a4aae9a

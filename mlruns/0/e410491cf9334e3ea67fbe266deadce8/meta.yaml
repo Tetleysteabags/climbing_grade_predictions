@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/e410491cf9334e3ea67fbe266deadce8/artifacts
+deleted_time: 1698168524441
 end_time: 1698133433085
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: e410491cf9334e3ea67fbe266deadce8
 run_name: shivering-cat-361
 run_uuid: e410491cf9334e3ea67fbe266deadce8

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/d7f8091e817146fea55437e3030c9353/artifacts
+deleted_time: 1698168490836
+end_time: 1698141183126
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: d7f8091e817146fea55437e3030c9353
+run_name: calm-squid-648
+run_uuid: d7f8091e817146fea55437e3030c9353
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141182566
+status: 3
+tags: []
+user_id: thomasgeorgiou

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/df72585791e84322b2524b86063f7a6c/artifacts
+deleted_time: 1698168450469
+end_time: 1698141276452
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: df72585791e84322b2524b86063f7a6c
+run_name: adorable-rat-805
+run_uuid: df72585791e84322b2524b86063f7a6c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141276091
+status: 3
+tags: []
+user_id: thomasgeorgiou

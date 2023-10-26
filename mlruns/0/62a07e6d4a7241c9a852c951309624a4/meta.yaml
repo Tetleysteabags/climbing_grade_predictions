@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/62a07e6d4a7241c9a852c951309624a4/artifacts
+deleted_time: 1698168490905
+end_time: 1698141160658
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 62a07e6d4a7241c9a852c951309624a4
+run_name: resilient-colt-636
+run_uuid: 62a07e6d4a7241c9a852c951309624a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141159943
+status: 3
+tags: []
+user_id: thomasgeorgiou

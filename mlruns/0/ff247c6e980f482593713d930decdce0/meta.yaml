@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/ff247c6e980f482593713d930decdce0/artifacts
+deleted_time: 1698168680336
+end_time: 1698141108645
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: ff247c6e980f482593713d930decdce0
+run_name: serious-shrimp-594
+run_uuid: ff247c6e980f482593713d930decdce0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141108312
+status: 3
+tags: []
+user_id: thomasgeorgiou

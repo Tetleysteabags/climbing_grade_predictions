@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/f5971631ea984b229002e5cc399d72c9/artifacts
+deleted_time: 1698168619274
+end_time: 1698141364490
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: f5971631ea984b229002e5cc399d72c9
+run_name: powerful-ram-561
+run_uuid: f5971631ea984b229002e5cc399d72c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141363898
+status: 3
+tags: []
+user_id: thomasgeorgiou

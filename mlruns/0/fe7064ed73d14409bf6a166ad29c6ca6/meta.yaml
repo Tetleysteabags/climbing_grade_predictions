@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/fe7064ed73d14409bf6a166ad29c6ca6/artifacts
+deleted_time: 1698168680266
+end_time: 1698141130670
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: fe7064ed73d14409bf6a166ad29c6ca6
+run_name: angry-snail-828
+run_uuid: fe7064ed73d14409bf6a166ad29c6ca6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141130010
+status: 3
+tags: []
+user_id: thomasgeorgiou

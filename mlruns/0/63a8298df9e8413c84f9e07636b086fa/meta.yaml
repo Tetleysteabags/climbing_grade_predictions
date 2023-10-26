@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/63a8298df9e8413c84f9e07636b086fa/artifacts
+deleted_time: 1698167429107
+end_time: 1698141443349
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 63a8298df9e8413c84f9e07636b086fa
+run_name: lyrical-swan-777
+run_uuid: 63a8298df9e8413c84f9e07636b086fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141442723
+status: 3
+tags: []
+user_id: thomasgeorgiou

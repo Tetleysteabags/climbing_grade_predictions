@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/9cdf25fb0c3d42dc817644a121eff81b/artifacts
+deleted_time: 1698168524515
 end_time: 1698079556377
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 9cdf25fb0c3d42dc817644a121eff81b
 run_name: respected-ray-166
 run_uuid: 9cdf25fb0c3d42dc817644a121eff81b

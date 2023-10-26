@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/5e0868fe3eb8472c94be3bdcee4f734a/artifacts
+deleted_time: 1698168619387
+end_time: 1698141326304
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 5e0868fe3eb8472c94be3bdcee4f734a
+run_name: calm-ant-839
+run_uuid: 5e0868fe3eb8472c94be3bdcee4f734a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141325636
+status: 3
+tags: []
+user_id: thomasgeorgiou

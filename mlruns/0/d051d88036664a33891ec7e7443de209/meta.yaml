@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/d051d88036664a33891ec7e7443de209/artifacts
+deleted_time: 1698218509622
 end_time: 1697886713639
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: d051d88036664a33891ec7e7443de209
 run_name: calm-doe-342
 run_uuid: d051d88036664a33891ec7e7443de209

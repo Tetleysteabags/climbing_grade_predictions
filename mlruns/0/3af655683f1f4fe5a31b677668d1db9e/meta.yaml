@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/3af655683f1f4fe5a31b677668d1db9e/artifacts
+deleted_time: 1698167428866
+end_time: 1698141488778
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 3af655683f1f4fe5a31b677668d1db9e
+run_name: thundering-shrew-190
+run_uuid: 3af655683f1f4fe5a31b677668d1db9e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141488035
+status: 3
+tags: []
+user_id: thomasgeorgiou

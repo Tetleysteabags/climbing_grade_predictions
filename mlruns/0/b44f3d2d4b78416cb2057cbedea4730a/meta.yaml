@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/b44f3d2d4b78416cb2057cbedea4730a/artifacts
+deleted_time: 1698168524419
 end_time: 1698133459424
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: b44f3d2d4b78416cb2057cbedea4730a
 run_name: rambunctious-fly-413
 run_uuid: b44f3d2d4b78416cb2057cbedea4730a

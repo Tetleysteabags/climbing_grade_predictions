@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/4403a21c079d4065882ba9f3c470cee2/artifacts
+deleted_time: 1698214921198
+end_time: 1698141265030
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 4403a21c079d4065882ba9f3c470cee2
+run_name: handsome-perch-961
+run_uuid: 4403a21c079d4065882ba9f3c470cee2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141264483
+status: 3
+tags: []
+user_id: thomasgeorgiou

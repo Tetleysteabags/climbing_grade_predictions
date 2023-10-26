@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/384e84a867c845f3b479b3d5e60a57fd/artifacts
+deleted_time: 1698168680331
+end_time: 1698141109380
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 384e84a867c845f3b479b3d5e60a57fd
+run_name: dazzling-dove-215
+run_uuid: 384e84a867c845f3b479b3d5e60a57fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141109085
+status: 3
+tags: []
+user_id: thomasgeorgiou

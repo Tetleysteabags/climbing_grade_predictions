@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/2befd98db6fa4bd5ab89e8ff5a4cd2f3/artifacts
+deleted_time: 1698168680233
+end_time: 1698141139424
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 2befd98db6fa4bd5ab89e8ff5a4cd2f3
+run_name: abundant-sloth-386
+run_uuid: 2befd98db6fa4bd5ab89e8ff5a4cd2f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141138845
+status: 3
+tags: []
+user_id: thomasgeorgiou

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/24d0094e2201478b8df14d1e99ab68f3/artifacts
+deleted_time: 1698214921290
+end_time: 1698141246250
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 24d0094e2201478b8df14d1e99ab68f3
+run_name: puzzled-gnu-421
+run_uuid: 24d0094e2201478b8df14d1e99ab68f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141245880
+status: 3
+tags: []
+user_id: thomasgeorgiou

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/b6054f43bd7a4a2eb93545be99657252/artifacts
+deleted_time: 1698218537714
+end_time: 1698218094179
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: b6054f43bd7a4a2eb93545be99657252
+run_name: bittersweet-calf-267
+run_uuid: b6054f43bd7a4a2eb93545be99657252
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698218094019
+status: 3
+tags: []
+user_id: thomasgeorgiou

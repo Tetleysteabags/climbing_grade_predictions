@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/f18c2052cc9848a2a416518044c98c31/artifacts
+deleted_time: 1698168619197
+end_time: 1698141377760
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: f18c2052cc9848a2a416518044c98c31
+run_name: rebellious-bug-31
+run_uuid: f18c2052cc9848a2a416518044c98c31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141377335
+status: 3
+tags: []
+user_id: thomasgeorgiou

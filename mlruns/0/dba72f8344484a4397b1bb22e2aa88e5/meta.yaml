@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/dba72f8344484a4397b1bb22e2aa88e5/artifacts
+deleted_time: 1698168680313
+end_time: 1698141115190
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: dba72f8344484a4397b1bb22e2aa88e5
+run_name: classy-snipe-164
+run_uuid: dba72f8344484a4397b1bb22e2aa88e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141114614
+status: 3
+tags: []
+user_id: thomasgeorgiou

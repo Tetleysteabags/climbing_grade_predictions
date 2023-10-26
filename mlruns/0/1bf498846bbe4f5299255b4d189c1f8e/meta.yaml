@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/1bf498846bbe4f5299255b4d189c1f8e/artifacts
+deleted_time: 1698218509559
 end_time: 1698002696854
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 1bf498846bbe4f5299255b4d189c1f8e
 run_name: peaceful-zebra-903
 run_uuid: 1bf498846bbe4f5299255b4d189c1f8e

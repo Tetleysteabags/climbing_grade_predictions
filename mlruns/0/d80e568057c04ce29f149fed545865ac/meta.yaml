@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/d80e568057c04ce29f149fed545865ac/artifacts
+deleted_time: 1698218509604
 end_time: 1698002499050
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: d80e568057c04ce29f149fed545865ac
 run_name: stately-mink-23
 run_uuid: d80e568057c04ce29f149fed545865ac

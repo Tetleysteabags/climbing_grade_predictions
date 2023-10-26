@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/255026022b6046bbb94383c56cbfce83/artifacts
+deleted_time: 1698168490820
+end_time: 1698141189019
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 255026022b6046bbb94383c56cbfce83
+run_name: kindly-bird-191
+run_uuid: 255026022b6046bbb94383c56cbfce83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141188706
+status: 3
+tags: []
+user_id: thomasgeorgiou

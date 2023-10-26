@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/71c698c1d94d40f5b566306adcfc723c/artifacts
+deleted_time: 1698168619274
+end_time: 1698141364936
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 71c698c1d94d40f5b566306adcfc723c
+run_name: treasured-wren-602
+run_uuid: 71c698c1d94d40f5b566306adcfc723c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141364519
+status: 3
+tags: []
+user_id: thomasgeorgiou

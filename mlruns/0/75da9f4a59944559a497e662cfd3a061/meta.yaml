@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/75da9f4a59944559a497e662cfd3a061/artifacts
+deleted_time: 1698168490824
+end_time: 1698141187686
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 75da9f4a59944559a497e662cfd3a061
+run_name: ambitious-bee-805
+run_uuid: 75da9f4a59944559a497e662cfd3a061
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141187061
+status: 3
+tags: []
+user_id: thomasgeorgiou

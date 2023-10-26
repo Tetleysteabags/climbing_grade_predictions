@@ -1,0 +1,13 @@
+aliases: []
+creation_timestamp: 1698311508219
+current_stage: None
+description: ''
+last_updated_timestamp: 1698311508219
+name: RF Sport
+run_id: 2c7f51764a464000a9510201affcda2c
+run_link: ''
+source: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/2c7f51764a464000a9510201affcda2c/artifacts/RandomForestModelSport
+status: READY
+status_message: null
+user_id: null
+version: 1

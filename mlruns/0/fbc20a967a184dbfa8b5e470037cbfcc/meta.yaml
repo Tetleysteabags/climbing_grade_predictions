@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/fbc20a967a184dbfa8b5e470037cbfcc/artifacts
+deleted_time: 1698168680239
+end_time: 1698141137714
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: fbc20a967a184dbfa8b5e470037cbfcc
+run_name: caring-zebra-704
+run_uuid: fbc20a967a184dbfa8b5e470037cbfcc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141137129
+status: 3
+tags: []
+user_id: thomasgeorgiou

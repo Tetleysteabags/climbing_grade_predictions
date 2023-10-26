@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/8582ca092cb348f4b19c7a859a39f27e/artifacts
+deleted_time: 1698168490820
+end_time: 1698141188691
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 8582ca092cb348f4b19c7a859a39f27e
+run_name: funny-finch-808
+run_uuid: 8582ca092cb348f4b19c7a859a39f27e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141188293
+status: 3
+tags: []
+user_id: thomasgeorgiou

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/19dcf10fe7d742c6b6877723c6457034/artifacts
+deleted_time: 1698167428962
+end_time: 1698141469241
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 19dcf10fe7d742c6b6877723c6457034
+run_name: zealous-fly-960
+run_uuid: 19dcf10fe7d742c6b6877723c6457034
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141468780
+status: 3
+tags: []
+user_id: thomasgeorgiou

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/24a6fdcb5cf34c40a57b161baf4634f8/artifacts
+deleted_time: 1698168450290
+end_time: 1698141323621
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 24a6fdcb5cf34c40a57b161baf4634f8
+run_name: incongruous-rat-454
+run_uuid: 24a6fdcb5cf34c40a57b161baf4634f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141323250
+status: 3
+tags: []
+user_id: thomasgeorgiou

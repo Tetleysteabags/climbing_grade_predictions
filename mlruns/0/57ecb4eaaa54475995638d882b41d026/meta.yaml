@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/57ecb4eaaa54475995638d882b41d026/artifacts
+deleted_time: 1698214921417
+end_time: 1698141099538
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 57ecb4eaaa54475995638d882b41d026
+run_name: unequaled-smelt-911
+run_uuid: 57ecb4eaaa54475995638d882b41d026
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141099280
+status: 3
+tags: []
+user_id: thomasgeorgiou

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/74962949736d4145927d2f8ad524ee17/artifacts
+deleted_time: 1698167428952
+end_time: 1698141471500
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 74962949736d4145927d2f8ad524ee17
+run_name: skillful-snail-473
+run_uuid: 74962949736d4145927d2f8ad524ee17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141470879
+status: 3
+tags: []
+user_id: thomasgeorgiou

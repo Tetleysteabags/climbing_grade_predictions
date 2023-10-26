@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/07f22723673742bd9a15c307909eab94/artifacts
+deleted_time: 1698218509607
 end_time: 1698002233350
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 07f22723673742bd9a15c307909eab94
 run_name: orderly-shad-537
 run_uuid: 07f22723673742bd9a15c307909eab94

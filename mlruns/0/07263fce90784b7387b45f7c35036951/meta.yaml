@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/07263fce90784b7387b45f7c35036951/artifacts
+deleted_time: 1698168415453
+end_time: 1698141416212
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 07263fce90784b7387b45f7c35036951
+run_name: amusing-shrimp-1000
+run_uuid: 07263fce90784b7387b45f7c35036951
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141415742
+status: 3
+tags: []
+user_id: thomasgeorgiou

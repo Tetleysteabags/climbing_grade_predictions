@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/69ad058638f24f1b88be1349e6bb91ce/artifacts
+deleted_time: 1698168726738
 end_time: 1697886218235
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 69ad058638f24f1b88be1349e6bb91ce
 run_name: casual-gull-298
 run_uuid: 69ad058638f24f1b88be1349e6bb91ce

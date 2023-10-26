@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/77e0b710b65e41ca91e986d0cdbcfe83/artifacts
+deleted_time: 1698168490889
+end_time: 1698141166861
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 77e0b710b65e41ca91e986d0cdbcfe83
+run_name: burly-cod-716
+run_uuid: 77e0b710b65e41ca91e986d0cdbcfe83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141166240
+status: 3
+tags: []
+user_id: thomasgeorgiou

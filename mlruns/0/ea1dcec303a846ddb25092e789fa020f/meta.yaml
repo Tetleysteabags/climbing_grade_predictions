@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/ea1dcec303a846ddb25092e789fa020f/artifacts
+deleted_time: 1698168524376
+end_time: 1698141097227
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: ea1dcec303a846ddb25092e789fa020f
+run_name: unruly-stag-673
+run_uuid: ea1dcec303a846ddb25092e789fa020f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141096722
+status: 3
+tags: []
+user_id: thomasgeorgiou

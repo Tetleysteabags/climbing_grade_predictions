@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/0c67e7d09f404022a523161cd7b55e98/artifacts
+deleted_time: 1698168415579
+end_time: 1698141380452
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 0c67e7d09f404022a523161cd7b55e98
+run_name: aged-stoat-503
+run_uuid: 0c67e7d09f404022a523161cd7b55e98
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141379909
+status: 3
+tags: []
+user_id: thomasgeorgiou

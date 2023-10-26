@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/1d0b3d7298b3468e816624bdff9deb2a/artifacts
+deleted_time: 1698214921261
+end_time: 1698141254973
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 1d0b3d7298b3468e816624bdff9deb2a
+run_name: enthused-hen-964
+run_uuid: 1d0b3d7298b3468e816624bdff9deb2a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141254289
+status: 3
+tags: []
+user_id: thomasgeorgiou

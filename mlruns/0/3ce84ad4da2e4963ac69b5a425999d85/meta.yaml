@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/3ce84ad4da2e4963ac69b5a425999d85/artifacts
+deleted_time: 1698168415371
+end_time: 1698141431602
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 3ce84ad4da2e4963ac69b5a425999d85
+run_name: defiant-hound-709
+run_uuid: 3ce84ad4da2e4963ac69b5a425999d85
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141431111
+status: 3
+tags: []
+user_id: thomasgeorgiou

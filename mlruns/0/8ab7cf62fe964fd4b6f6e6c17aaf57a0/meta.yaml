@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/8ab7cf62fe964fd4b6f6e6c17aaf57a0/artifacts
+deleted_time: 1698168415474
+end_time: 1698141409869
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 8ab7cf62fe964fd4b6f6e6c17aaf57a0
+run_name: selective-stag-952
+run_uuid: 8ab7cf62fe964fd4b6f6e6c17aaf57a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141409214
+status: 3
+tags: []
+user_id: thomasgeorgiou

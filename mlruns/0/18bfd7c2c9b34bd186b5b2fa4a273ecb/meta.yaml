@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/18bfd7c2c9b34bd186b5b2fa4a273ecb/artifacts
+deleted_time: 1698168524531
 end_time: 1698079555252
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 18bfd7c2c9b34bd186b5b2fa4a273ecb
 run_name: capricious-lamb-609
 run_uuid: 18bfd7c2c9b34bd186b5b2fa4a273ecb

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/b17b7e43a5454a8d9e428032f75f2cb3/artifacts
+deleted_time: 1698214921255
+end_time: 1698141256023
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: b17b7e43a5454a8d9e428032f75f2cb3
+run_name: honorable-mole-930
+run_uuid: b17b7e43a5454a8d9e428032f75f2cb3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141255492
+status: 3
+tags: []
+user_id: thomasgeorgiou

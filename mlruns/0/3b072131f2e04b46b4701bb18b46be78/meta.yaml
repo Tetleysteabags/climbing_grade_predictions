@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/3b072131f2e04b46b4701bb18b46be78/artifacts
+deleted_time: 1698168619299
+end_time: 1698141356220
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 3b072131f2e04b46b4701bb18b46be78
+run_name: hilarious-sloth-698
+run_uuid: 3b072131f2e04b46b4701bb18b46be78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141355264
+status: 3
+tags: []
+user_id: thomasgeorgiou

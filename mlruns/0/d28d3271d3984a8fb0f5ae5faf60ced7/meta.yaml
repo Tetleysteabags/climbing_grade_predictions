@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/d28d3271d3984a8fb0f5ae5faf60ced7/artifacts
+deleted_time: 1698168450346
+end_time: 1698141307704
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: d28d3271d3984a8fb0f5ae5faf60ced7
+run_name: upset-bird-279
+run_uuid: d28d3271d3984a8fb0f5ae5faf60ced7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141307018
+status: 3
+tags: []
+user_id: thomasgeorgiou

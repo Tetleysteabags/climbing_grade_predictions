@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/14aa4dc5f7074f62a093c486653bd962/artifacts
+deleted_time: 1698168450353
+end_time: 1698141306378
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 14aa4dc5f7074f62a093c486653bd962
+run_name: likeable-panda-618
+run_uuid: 14aa4dc5f7074f62a093c486653bd962
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141305906
+status: 3
+tags: []
+user_id: thomasgeorgiou

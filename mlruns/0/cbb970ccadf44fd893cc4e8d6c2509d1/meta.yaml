@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/cbb970ccadf44fd893cc4e8d6c2509d1/artifacts
+deleted_time: 1698168415462
+end_time: 1698141414034
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: cbb970ccadf44fd893cc4e8d6c2509d1
+run_name: bustling-foal-645
+run_uuid: cbb970ccadf44fd893cc4e8d6c2509d1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141413566
+status: 3
+tags: []
+user_id: thomasgeorgiou

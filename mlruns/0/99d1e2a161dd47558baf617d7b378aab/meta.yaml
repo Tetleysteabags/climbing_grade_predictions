@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/99d1e2a161dd47558baf617d7b378aab/artifacts
+deleted_time: 1698168619238
+end_time: 1698141371614
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 99d1e2a161dd47558baf617d7b378aab
+run_name: resilient-bird-544
+run_uuid: 99d1e2a161dd47558baf617d7b378aab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141371173
+status: 3
+tags: []
+user_id: thomasgeorgiou

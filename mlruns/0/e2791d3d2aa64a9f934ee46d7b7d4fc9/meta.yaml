@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/e2791d3d2aa64a9f934ee46d7b7d4fc9/artifacts
+deleted_time: 1698168680286
+end_time: 1698141122546
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: e2791d3d2aa64a9f934ee46d7b7d4fc9
+run_name: zealous-flea-450
+run_uuid: e2791d3d2aa64a9f934ee46d7b7d4fc9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141122124
+status: 3
+tags: []
+user_id: thomasgeorgiou

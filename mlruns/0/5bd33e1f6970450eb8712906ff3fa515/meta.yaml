@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/5bd33e1f6970450eb8712906ff3fa515/artifacts
+deleted_time: 1698214921403
+end_time: 1698141217918
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 5bd33e1f6970450eb8712906ff3fa515
+run_name: handsome-bat-554
+run_uuid: 5bd33e1f6970450eb8712906ff3fa515
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141217195
+status: 3
+tags: []
+user_id: thomasgeorgiou

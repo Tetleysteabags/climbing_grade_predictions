@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/684ca3d540524511aa6fe3be7504eb8f/artifacts
+deleted_time: 1698168415480
+end_time: 1698141408518
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 684ca3d540524511aa6fe3be7504eb8f
+run_name: mercurial-finch-605
+run_uuid: 684ca3d540524511aa6fe3be7504eb8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141407964
+status: 3
+tags: []
+user_id: thomasgeorgiou

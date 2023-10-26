@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/746c0dc301ea41c0aedf325797bc1ca7/artifacts
+deleted_time: 1698168680299
+end_time: 1698141119018
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 746c0dc301ea41c0aedf325797bc1ca7
+run_name: intrigued-vole-579
+run_uuid: 746c0dc301ea41c0aedf325797bc1ca7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141118447
+status: 3
+tags: []
+user_id: thomasgeorgiou

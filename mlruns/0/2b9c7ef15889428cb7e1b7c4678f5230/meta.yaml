@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/2b9c7ef15889428cb7e1b7c4678f5230/artifacts
+deleted_time: 1698168680226
+end_time: 1698141141531
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 2b9c7ef15889428cb7e1b7c4678f5230
+run_name: ambitious-fish-863
+run_uuid: 2b9c7ef15889428cb7e1b7c4678f5230
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141141051
+status: 3
+tags: []
+user_id: thomasgeorgiou

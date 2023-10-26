@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/7028549920b84752b6baa5689279d7c1/artifacts
+deleted_time: 1698168524538
 end_time: 1698079554891
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 7028549920b84752b6baa5689279d7c1
 run_name: flawless-crane-974
 run_uuid: 7028549920b84752b6baa5689279d7c1

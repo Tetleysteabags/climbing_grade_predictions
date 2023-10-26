@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/8cb7038f8dd943c697d248d703f53fa4/artifacts
+deleted_time: 1698168490911
+end_time: 1698141157397
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 8cb7038f8dd943c697d248d703f53fa4
+run_name: luxuriant-steed-858
+run_uuid: 8cb7038f8dd943c697d248d703f53fa4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141157000
+status: 3
+tags: []
+user_id: thomasgeorgiou

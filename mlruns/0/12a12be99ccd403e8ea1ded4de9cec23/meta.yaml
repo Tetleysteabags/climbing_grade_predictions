@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/12a12be99ccd403e8ea1ded4de9cec23/artifacts
+deleted_time: 1698168680330
+end_time: 1698141110016
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 12a12be99ccd403e8ea1ded4de9cec23
+run_name: adventurous-koi-794
+run_uuid: 12a12be99ccd403e8ea1ded4de9cec23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141109404
+status: 3
+tags: []
+user_id: thomasgeorgiou

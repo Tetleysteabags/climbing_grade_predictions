@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/1fd540c933fe44c6825d7ba2f596bf6c/artifacts
+deleted_time: 1698168524466
 end_time: 1698130671960
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 1fd540c933fe44c6825d7ba2f596bf6c
 run_name: orderly-panda-478
 run_uuid: 1fd540c933fe44c6825d7ba2f596bf6c

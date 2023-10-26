@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/2b9204bae2124b879ea4869957d39424/artifacts
+deleted_time: 1698218509601
 end_time: 1698002499050
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 2b9204bae2124b879ea4869957d39424
 run_name: sedate-penguin-47
 run_uuid: 2b9204bae2124b879ea4869957d39424

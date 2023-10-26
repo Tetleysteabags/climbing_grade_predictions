@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/6cf1e4acc4cc4c468bbf24518e4402d9/artifacts
+deleted_time: 1698214921406
+end_time: 1698141217172
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 6cf1e4acc4cc4c468bbf24518e4402d9
+run_name: skittish-foal-407
+run_uuid: 6cf1e4acc4cc4c468bbf24518e4402d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141216523
+status: 3
+tags: []
+user_id: thomasgeorgiou

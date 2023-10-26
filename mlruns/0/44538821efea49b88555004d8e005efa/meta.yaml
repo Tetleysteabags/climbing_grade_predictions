@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/44538821efea49b88555004d8e005efa/artifacts
+deleted_time: 1698168415553
+end_time: 1698141389422
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 44538821efea49b88555004d8e005efa
+run_name: rebellious-hawk-535
+run_uuid: 44538821efea49b88555004d8e005efa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141389036
+status: 3
+tags: []
+user_id: thomasgeorgiou

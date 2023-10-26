@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/0f5c111d9be340a7b5f99633412a5079/artifacts
+deleted_time: 1698168415556
+end_time: 1698141388527
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 0f5c111d9be340a7b5f99633412a5079
+run_name: intelligent-gnat-207
+run_uuid: 0f5c111d9be340a7b5f99633412a5079
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141388124
+status: 3
+tags: []
+user_id: thomasgeorgiou

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/a083f2f592a74f81961adade1ac18a6e/artifacts
+deleted_time: 1698168450431
+end_time: 1698141287277
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: a083f2f592a74f81961adade1ac18a6e
+run_name: likeable-penguin-250
+run_uuid: a083f2f592a74f81961adade1ac18a6e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141286757
+status: 3
+tags: []
+user_id: thomasgeorgiou

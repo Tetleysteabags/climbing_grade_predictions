@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/c9139fd617924c238a2507a5920c2664/artifacts
+deleted_time: 1698167429040
+end_time: 1698141459765
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: c9139fd617924c238a2507a5920c2664
+run_name: treasured-slug-702
+run_uuid: c9139fd617924c238a2507a5920c2664
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141459327
+status: 3
+tags: []
+user_id: thomasgeorgiou

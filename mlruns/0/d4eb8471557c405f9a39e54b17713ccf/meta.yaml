@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/d4eb8471557c405f9a39e54b17713ccf/artifacts
+deleted_time: 1698218537700
+end_time: 1698218095269
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: d4eb8471557c405f9a39e54b17713ccf
+run_name: crawling-loon-481
+run_uuid: d4eb8471557c405f9a39e54b17713ccf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698218095104
+status: 3
+tags: []
+user_id: thomasgeorgiou

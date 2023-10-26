@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/4718b6e1a461400d87d02ce7f304178a/artifacts
+deleted_time: 1698214921333
+end_time: 1698141236134
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 4718b6e1a461400d87d02ce7f304178a
+run_name: bald-gnu-9
+run_uuid: 4718b6e1a461400d87d02ce7f304178a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141235647
+status: 3
+tags: []
+user_id: thomasgeorgiou

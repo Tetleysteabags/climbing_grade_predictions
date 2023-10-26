@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/d05288791f464145b51ecf268fe89064/artifacts
+deleted_time: 1698218537727
+end_time: 1698218093646
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: d05288791f464145b51ecf268fe89064
+run_name: melodic-mare-327
+run_uuid: d05288791f464145b51ecf268fe89064
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698218093502
+status: 3
+tags: []
+user_id: thomasgeorgiou

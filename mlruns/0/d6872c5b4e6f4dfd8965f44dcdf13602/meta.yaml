@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/d6872c5b4e6f4dfd8965f44dcdf13602/artifacts
+deleted_time: 1698168415458
+end_time: 1698141414749
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: d6872c5b4e6f4dfd8965f44dcdf13602
+run_name: angry-jay-355
+run_uuid: d6872c5b4e6f4dfd8965f44dcdf13602
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141414379
+status: 3
+tags: []
+user_id: thomasgeorgiou

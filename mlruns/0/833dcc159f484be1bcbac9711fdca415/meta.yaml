@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/833dcc159f484be1bcbac9711fdca415/artifacts
+deleted_time: 1698168450337
+end_time: 1698141309528
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 833dcc159f484be1bcbac9711fdca415
+run_name: bemused-duck-558
+run_uuid: 833dcc159f484be1bcbac9711fdca415
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141309055
+status: 3
+tags: []
+user_id: thomasgeorgiou

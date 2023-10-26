@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/a66753f385e044618bbc3d9e8ed44c7b/artifacts
+deleted_time: 1698168490879
+end_time: 1698141170175
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: a66753f385e044618bbc3d9e8ed44c7b
+run_name: unruly-zebra-685
+run_uuid: a66753f385e044618bbc3d9e8ed44c7b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141169590
+status: 3
+tags: []
+user_id: thomasgeorgiou

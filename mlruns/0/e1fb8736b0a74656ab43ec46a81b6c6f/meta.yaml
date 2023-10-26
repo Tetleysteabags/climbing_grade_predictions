@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/e1fb8736b0a74656ab43ec46a81b6c6f/artifacts
+deleted_time: 1698168619294
+end_time: 1698141357938
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: e1fb8736b0a74656ab43ec46a81b6c6f
+run_name: polite-fly-706
+run_uuid: e1fb8736b0a74656ab43ec46a81b6c6f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141357414
+status: 3
+tags: []
+user_id: thomasgeorgiou

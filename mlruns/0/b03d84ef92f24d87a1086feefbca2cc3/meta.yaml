@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/b03d84ef92f24d87a1086feefbca2cc3/artifacts
+deleted_time: 1698168524407
+end_time: 1698141089440
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: b03d84ef92f24d87a1086feefbca2cc3
+run_name: amazing-flea-583
+run_uuid: b03d84ef92f24d87a1086feefbca2cc3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141088862
+status: 3
+tags: []
+user_id: thomasgeorgiou

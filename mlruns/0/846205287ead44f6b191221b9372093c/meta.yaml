@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/846205287ead44f6b191221b9372093c/artifacts
+deleted_time: 1698214921295
+end_time: 1698141244912
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 846205287ead44f6b191221b9372093c
+run_name: honorable-cod-218
+run_uuid: 846205287ead44f6b191221b9372093c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141244602
+status: 3
+tags: []
+user_id: thomasgeorgiou

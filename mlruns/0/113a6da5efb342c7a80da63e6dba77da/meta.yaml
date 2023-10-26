@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/113a6da5efb342c7a80da63e6dba77da/artifacts
+deleted_time: 1698218509601
 end_time: 1698002499050
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 113a6da5efb342c7a80da63e6dba77da
 run_name: carefree-eel-901
 run_uuid: 113a6da5efb342c7a80da63e6dba77da

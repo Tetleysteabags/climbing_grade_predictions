@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/7aa6296d716949d1b887ac715a33f1ba/artifacts
+deleted_time: 1698218537718
+end_time: 1698218094013
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 7aa6296d716949d1b887ac715a33f1ba
+run_name: fortunate-whale-836
+run_uuid: 7aa6296d716949d1b887ac715a33f1ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698218093933
+status: 3
+tags: []
+user_id: thomasgeorgiou

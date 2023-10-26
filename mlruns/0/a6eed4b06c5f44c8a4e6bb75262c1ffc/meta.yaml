@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/a6eed4b06c5f44c8a4e6bb75262c1ffc/artifacts
+deleted_time: 1698214921220
+end_time: 1698141262985
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: a6eed4b06c5f44c8a4e6bb75262c1ffc
+run_name: caring-calf-791
+run_uuid: a6eed4b06c5f44c8a4e6bb75262c1ffc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141262657
+status: 3
+tags: []
+user_id: thomasgeorgiou

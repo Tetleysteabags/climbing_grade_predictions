@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/ee7a892bda6845c08ce3aea9bf7983d9/artifacts
+deleted_time: 1698168490884
+end_time: 1698141168973
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: ee7a892bda6845c08ce3aea9bf7983d9
+run_name: gaudy-sow-774
+run_uuid: ee7a892bda6845c08ce3aea9bf7983d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141168481
+status: 3
+tags: []
+user_id: thomasgeorgiou

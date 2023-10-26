@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/16445587695640d79bc5d4d219e05e7d/artifacts
+deleted_time: 1698167429101
+end_time: 1698141444632
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 16445587695640d79bc5d4d219e05e7d
+run_name: victorious-ray-803
+run_uuid: 16445587695640d79bc5d4d219e05e7d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141444029
+status: 3
+tags: []
+user_id: thomasgeorgiou

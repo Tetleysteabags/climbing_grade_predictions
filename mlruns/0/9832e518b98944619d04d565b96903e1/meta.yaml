@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/9832e518b98944619d04d565b96903e1/artifacts
+deleted_time: 1698168619346
+end_time: 1698141339996
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 9832e518b98944619d04d565b96903e1
+run_name: legendary-lamb-979
+run_uuid: 9832e518b98944619d04d565b96903e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141339534
+status: 3
+tags: []
+user_id: thomasgeorgiou

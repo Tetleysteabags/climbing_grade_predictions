@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/cdce0377b6134f6a948bae6b19c4d2b8/artifacts
+deleted_time: 1698167428974
+end_time: 1698141466625
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: cdce0377b6134f6a948bae6b19c4d2b8
+run_name: clean-rat-981
+run_uuid: cdce0377b6134f6a948bae6b19c4d2b8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141466044
+status: 3
+tags: []
+user_id: thomasgeorgiou

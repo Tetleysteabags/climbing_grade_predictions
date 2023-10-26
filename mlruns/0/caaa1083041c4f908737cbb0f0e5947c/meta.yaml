@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/caaa1083041c4f908737cbb0f0e5947c/artifacts
+deleted_time: 1698168450394
+end_time: 1698141293027
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: caaa1083041c4f908737cbb0f0e5947c
+run_name: serious-mare-870
+run_uuid: caaa1083041c4f908737cbb0f0e5947c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141292464
+status: 3
+tags: []
+user_id: thomasgeorgiou

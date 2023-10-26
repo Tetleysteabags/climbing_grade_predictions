@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/dd82b34433cc40ca880da0d6926cadd4/artifacts
+deleted_time: 1698218537734
+end_time: 1698218093193
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: dd82b34433cc40ca880da0d6926cadd4
+run_name: rumbling-shrimp-698
+run_uuid: dd82b34433cc40ca880da0d6926cadd4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698218093112
+status: 3
+tags: []
+user_id: thomasgeorgiou

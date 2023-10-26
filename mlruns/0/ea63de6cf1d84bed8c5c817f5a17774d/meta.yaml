@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/ea63de6cf1d84bed8c5c817f5a17774d/artifacts
+deleted_time: 1698168524467
 end_time: 1698130672050
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: ea63de6cf1d84bed8c5c817f5a17774d
 run_name: big-whale-71
 run_uuid: ea63de6cf1d84bed8c5c817f5a17774d

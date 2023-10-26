@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/dccca99dced04f3b99523637e92de3f4/artifacts
+deleted_time: 1698168415559
+end_time: 1698141386944
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: dccca99dced04f3b99523637e92de3f4
+run_name: capable-swan-966
+run_uuid: dccca99dced04f3b99523637e92de3f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141386320
+status: 3
+tags: []
+user_id: thomasgeorgiou

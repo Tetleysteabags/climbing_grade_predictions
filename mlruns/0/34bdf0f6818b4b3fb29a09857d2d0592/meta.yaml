@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/34bdf0f6818b4b3fb29a09857d2d0592/artifacts
+deleted_time: 1698168490859
+end_time: 1698141177780
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 34bdf0f6818b4b3fb29a09857d2d0592
+run_name: industrious-seal-140
+run_uuid: 34bdf0f6818b4b3fb29a09857d2d0592
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141177150
+status: 3
+tags: []
+user_id: thomasgeorgiou

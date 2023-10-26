@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/4233d2ed39e543a4bc8f8a1c4affcf70/artifacts
+deleted_time: 1698214921396
+end_time: 1698141220855
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 4233d2ed39e543a4bc8f8a1c4affcf70
+run_name: amusing-elk-157
+run_uuid: 4233d2ed39e543a4bc8f8a1c4affcf70
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141220281
+status: 3
+tags: []
+user_id: thomasgeorgiou

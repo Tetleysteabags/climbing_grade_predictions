@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/d89488aa2d834802b5011b23b169fa49/artifacts
+deleted_time: 1698167428950
+end_time: 1698141472606
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: d89488aa2d834802b5011b23b169fa49
+run_name: bouncy-steed-47
+run_uuid: d89488aa2d834802b5011b23b169fa49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141472051
+status: 3
+tags: []
+user_id: thomasgeorgiou

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/b36cb943d4bd45678c6b85bafda95b63/artifacts
+deleted_time: 1698168415571
+end_time: 1698141382885
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: b36cb943d4bd45678c6b85bafda95b63
+run_name: zealous-moose-159
+run_uuid: b36cb943d4bd45678c6b85bafda95b63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141382268
+status: 3
+tags: []
+user_id: thomasgeorgiou

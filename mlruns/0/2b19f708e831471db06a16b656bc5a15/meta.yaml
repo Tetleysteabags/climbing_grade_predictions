@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/2b19f708e831471db06a16b656bc5a15/artifacts
+deleted_time: 1698167429115
+end_time: 1698141441359
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 2b19f708e831471db06a16b656bc5a15
+run_name: awesome-zebra-760
+run_uuid: 2b19f708e831471db06a16b656bc5a15
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141440897
+status: 3
+tags: []
+user_id: thomasgeorgiou

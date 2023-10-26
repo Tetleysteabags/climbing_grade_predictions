@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/e82421aa251448ec8a5e9863925efe19/artifacts
+deleted_time: 1698168524399
+end_time: 1698141091413
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: e82421aa251448ec8a5e9863925efe19
+run_name: skittish-finch-519
+run_uuid: e82421aa251448ec8a5e9863925efe19
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141090867
+status: 3
+tags: []
+user_id: thomasgeorgiou

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/b40ef3725498422691abdd8f1fa5a6a4/artifacts
+deleted_time: 1698168680213
+end_time: 1698141146566
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: b40ef3725498422691abdd8f1fa5a6a4
+run_name: omniscient-fish-826
+run_uuid: b40ef3725498422691abdd8f1fa5a6a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141145981
+status: 3
+tags: []
+user_id: thomasgeorgiou

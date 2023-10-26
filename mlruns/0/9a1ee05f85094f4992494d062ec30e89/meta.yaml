@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/9a1ee05f85094f4992494d062ec30e89/artifacts
+deleted_time: 1698167429099
+end_time: 1698141445982
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 9a1ee05f85094f4992494d062ec30e89
+run_name: nebulous-fly-383
+run_uuid: 9a1ee05f85094f4992494d062ec30e89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141445121
+status: 3
+tags: []
+user_id: thomasgeorgiou

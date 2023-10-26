@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/30e865b982444f64b1b056c0265c8857/artifacts
+deleted_time: 1698214921383
+end_time: 1698141224878
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 30e865b982444f64b1b056c0265c8857
+run_name: learned-pig-917
+run_uuid: 30e865b982444f64b1b056c0265c8857
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141224430
+status: 3
+tags: []
+user_id: thomasgeorgiou

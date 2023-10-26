@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/c6292d86ec3e407ca2069e9068da39f8/artifacts
+deleted_time: 1698167429144
+end_time: 1698141438842
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: c6292d86ec3e407ca2069e9068da39f8
+run_name: unleashed-croc-146
+run_uuid: c6292d86ec3e407ca2069e9068da39f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141436093
+status: 3
+tags: []
+user_id: thomasgeorgiou

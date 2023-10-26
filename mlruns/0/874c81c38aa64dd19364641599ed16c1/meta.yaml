@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/874c81c38aa64dd19364641599ed16c1/artifacts
+deleted_time: 1698214921295
+end_time: 1698141245505
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 874c81c38aa64dd19364641599ed16c1
+run_name: salty-boar-145
+run_uuid: 874c81c38aa64dd19364641599ed16c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141244945
+status: 3
+tags: []
+user_id: thomasgeorgiou

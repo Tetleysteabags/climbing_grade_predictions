@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/e7471a0c0dc046c2898400c7c375986f/artifacts
+deleted_time: 1698168490897
+end_time: 1698141164460
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: e7471a0c0dc046c2898400c7c375986f
+run_name: agreeable-bat-635
+run_uuid: e7471a0c0dc046c2898400c7c375986f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141164070
+status: 3
+tags: []
+user_id: thomasgeorgiou

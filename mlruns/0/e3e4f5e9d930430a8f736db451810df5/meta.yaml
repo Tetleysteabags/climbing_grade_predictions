@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/e3e4f5e9d930430a8f736db451810df5/artifacts
+deleted_time: 1698168490888
+end_time: 1698141167340
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: e3e4f5e9d930430a8f736db451810df5
+run_name: illustrious-kite-598
+run_uuid: e3e4f5e9d930430a8f736db451810df5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141166877
+status: 3
+tags: []
+user_id: thomasgeorgiou

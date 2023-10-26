@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/150ec94464dc4ee88358035bf2e8c3f3/artifacts
+deleted_time: 1698168490806
+end_time: 1698141193716
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 150ec94464dc4ee88358035bf2e8c3f3
+run_name: lyrical-deer-617
+run_uuid: 150ec94464dc4ee88358035bf2e8c3f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141193198
+status: 3
+tags: []
+user_id: thomasgeorgiou

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/15f69accf42e45ee97183b0ece2ff2bf/artifacts
+deleted_time: 1698168450493
+end_time: 1698141267772
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 15f69accf42e45ee97183b0ece2ff2bf
+run_name: luxuriant-grub-830
+run_uuid: 15f69accf42e45ee97183b0ece2ff2bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141267361
+status: 3
+tags: []
+user_id: thomasgeorgiou

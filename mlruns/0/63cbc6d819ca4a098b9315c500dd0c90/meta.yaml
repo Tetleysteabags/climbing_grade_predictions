@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/63cbc6d819ca4a098b9315c500dd0c90/artifacts
+deleted_time: 1698167428972
+end_time: 1698141467205
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 63cbc6d819ca4a098b9315c500dd0c90
+run_name: bold-bee-7
+run_uuid: 63cbc6d819ca4a098b9315c500dd0c90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141466642
+status: 3
+tags: []
+user_id: thomasgeorgiou

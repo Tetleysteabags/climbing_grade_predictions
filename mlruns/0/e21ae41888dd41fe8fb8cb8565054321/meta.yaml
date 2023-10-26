@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/e21ae41888dd41fe8fb8cb8565054321/artifacts
+deleted_time: 1698168524425
 end_time: 1698133459265
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: e21ae41888dd41fe8fb8cb8565054321
 run_name: upset-bee-654
 run_uuid: e21ae41888dd41fe8fb8cb8565054321

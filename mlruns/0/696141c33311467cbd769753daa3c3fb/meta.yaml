@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/696141c33311467cbd769753daa3c3fb/artifacts
+deleted_time: 1698168450310
+end_time: 1698141319512
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 696141c33311467cbd769753daa3c3fb
+run_name: unleashed-stag-947
+run_uuid: 696141c33311467cbd769753daa3c3fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141318885
+status: 3
+tags: []
+user_id: thomasgeorgiou

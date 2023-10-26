@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/cb78c70b2b204d9fa4f4f4b12e2f9f89/artifacts
+deleted_time: 1698168524449
 end_time: 1698133432581
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: cb78c70b2b204d9fa4f4f4b12e2f9f89
 run_name: blushing-vole-756
 run_uuid: cb78c70b2b204d9fa4f4f4b12e2f9f89

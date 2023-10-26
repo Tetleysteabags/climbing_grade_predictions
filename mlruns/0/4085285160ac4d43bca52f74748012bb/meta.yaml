@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/4085285160ac4d43bca52f74748012bb/artifacts
+deleted_time: 1698214921540
 end_time: 1698002036439
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 4085285160ac4d43bca52f74748012bb
 run_name: caring-rat-652
 run_uuid: 4085285160ac4d43bca52f74748012bb

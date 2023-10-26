@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/f0c0b2406da2473ebaaf064dc8e5d42a/artifacts
+deleted_time: 1698168680257
+end_time: 1698141133224
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: f0c0b2406da2473ebaaf064dc8e5d42a
+run_name: secretive-jay-828
+run_uuid: f0c0b2406da2473ebaaf064dc8e5d42a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141132713
+status: 3
+tags: []
+user_id: thomasgeorgiou

@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/fcb5b89b0b044bd49aca71203ea10552/artifacts
+deleted_time: 1698168524448
 end_time: 1698133432834
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: fcb5b89b0b044bd49aca71203ea10552
 run_name: valuable-kit-782
 run_uuid: fcb5b89b0b044bd49aca71203ea10552

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/99c0900469bb4ccf9a92bfc142f86f41/artifacts
+deleted_time: 1698167428928
+end_time: 1698141477514
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 99c0900469bb4ccf9a92bfc142f86f41
+run_name: able-sloth-254
+run_uuid: 99c0900469bb4ccf9a92bfc142f86f41
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141476832
+status: 3
+tags: []
+user_id: thomasgeorgiou

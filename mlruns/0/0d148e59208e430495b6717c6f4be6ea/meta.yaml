@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/0d148e59208e430495b6717c6f4be6ea/artifacts
+deleted_time: 1698214921247
+end_time: 1698141258779
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 0d148e59208e430495b6717c6f4be6ea
+run_name: sneaky-gnu-565
+run_uuid: 0d148e59208e430495b6717c6f4be6ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141258367
+status: 3
+tags: []
+user_id: thomasgeorgiou

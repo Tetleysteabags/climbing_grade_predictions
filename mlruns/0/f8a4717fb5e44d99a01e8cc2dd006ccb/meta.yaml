@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/f8a4717fb5e44d99a01e8cc2dd006ccb/artifacts
+deleted_time: 1698168415444
+end_time: 1698141418214
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: f8a4717fb5e44d99a01e8cc2dd006ccb
+run_name: efficient-koi-524
+run_uuid: f8a4717fb5e44d99a01e8cc2dd006ccb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141417833
+status: 3
+tags: []
+user_id: thomasgeorgiou

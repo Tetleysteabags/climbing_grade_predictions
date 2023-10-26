@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/e619a7bda0c149dcba3d02128b5c900f/artifacts
+deleted_time: 1698168490762
+end_time: 1698141207521
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: e619a7bda0c149dcba3d02128b5c900f
+run_name: exultant-elk-975
+run_uuid: e619a7bda0c149dcba3d02128b5c900f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141206995
+status: 3
+tags: []
+user_id: thomasgeorgiou

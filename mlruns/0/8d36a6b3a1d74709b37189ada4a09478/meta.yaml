@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/8d36a6b3a1d74709b37189ada4a09478/artifacts
+deleted_time: 1698214921554
 end_time: 1697886430179
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 8d36a6b3a1d74709b37189ada4a09478
 run_name: unruly-steed-115
 run_uuid: 8d36a6b3a1d74709b37189ada4a09478

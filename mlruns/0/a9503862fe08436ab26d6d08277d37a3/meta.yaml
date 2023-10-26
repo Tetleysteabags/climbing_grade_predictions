@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/a9503862fe08436ab26d6d08277d37a3/artifacts
+deleted_time: 1698168680252
+end_time: 1698141134550
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: a9503862fe08436ab26d6d08277d37a3
+run_name: defiant-duck-55
+run_uuid: a9503862fe08436ab26d6d08277d37a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141134211
+status: 3
+tags: []
+user_id: thomasgeorgiou

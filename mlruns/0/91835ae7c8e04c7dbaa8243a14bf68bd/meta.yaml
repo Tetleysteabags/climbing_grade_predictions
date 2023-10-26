@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/91835ae7c8e04c7dbaa8243a14bf68bd/artifacts
+deleted_time: 1698214921239
+end_time: 1698141260814
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 91835ae7c8e04c7dbaa8243a14bf68bd
+run_name: unequaled-moose-112
+run_uuid: 91835ae7c8e04c7dbaa8243a14bf68bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141260397
+status: 3
+tags: []
+user_id: thomasgeorgiou

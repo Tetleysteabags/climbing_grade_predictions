@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/6df62fdc0de94e7f8dddbe5074b81829/artifacts
+deleted_time: 1698168524436
 end_time: 1698133433257
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 6df62fdc0de94e7f8dddbe5074b81829
 run_name: languid-stork-91
 run_uuid: 6df62fdc0de94e7f8dddbe5074b81829

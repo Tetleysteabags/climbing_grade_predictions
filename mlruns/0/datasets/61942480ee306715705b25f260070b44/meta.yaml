@@ -1,0 +1,8 @@
+digest: 2a9b77d2
+name: dataset
+profile: '{"features_shape": [315, 7], "features_size": 2205, "features_nbytes": 8820}'
+schema: '{"mlflow_tensorspec": {"features": "[{\"type\": \"tensor\", \"tensor-spec\":
+  {\"dtype\": \"float32\", \"shape\": [-1, 7]}}]", "targets": null}}'
+source: '{"tags": {"mlflow.user": "thomasgeorgiou", "mlflow.source.name": "/Users/thomasgeorgiou/anaconda3/lib/python3.10/site-packages/ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code

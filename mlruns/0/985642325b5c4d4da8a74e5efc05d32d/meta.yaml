@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/985642325b5c4d4da8a74e5efc05d32d/artifacts
+deleted_time: 1698168720406
 end_time: 1697886221495
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 985642325b5c4d4da8a74e5efc05d32d
 run_name: unleashed-finch-53
 run_uuid: 985642325b5c4d4da8a74e5efc05d32d

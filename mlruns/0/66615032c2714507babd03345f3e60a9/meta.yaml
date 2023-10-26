@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/66615032c2714507babd03345f3e60a9/artifacts
+deleted_time: 1698168680291
+end_time: 1698141121119
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 66615032c2714507babd03345f3e60a9
+run_name: redolent-sow-623
+run_uuid: 66615032c2714507babd03345f3e60a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141120600
+status: 3
+tags: []
+user_id: thomasgeorgiou

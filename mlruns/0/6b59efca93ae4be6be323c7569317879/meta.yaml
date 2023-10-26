@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/6b59efca93ae4be6be323c7569317879/artifacts
+deleted_time: 1698168450322
+end_time: 1698141315016
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 6b59efca93ae4be6be323c7569317879
+run_name: overjoyed-vole-76
+run_uuid: 6b59efca93ae4be6be323c7569317879
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141314497
+status: 3
+tags: []
+user_id: thomasgeorgiou

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/72e2298c6105467090ce88cad3b1d15f/artifacts
+deleted_time: 1698168680245
+end_time: 1698141135549
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 72e2298c6105467090ce88cad3b1d15f
+run_name: bald-turtle-45
+run_uuid: 72e2298c6105467090ce88cad3b1d15f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141135087
+status: 3
+tags: []
+user_id: thomasgeorgiou

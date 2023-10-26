@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/b154d79a03c6476eb61e09363510c92b/artifacts
+deleted_time: 1698214921496
 end_time: 1698002976172
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: b154d79a03c6476eb61e09363510c92b
 run_name: upset-snail-862
 run_uuid: b154d79a03c6476eb61e09363510c92b

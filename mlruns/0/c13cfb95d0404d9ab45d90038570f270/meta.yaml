@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/c13cfb95d0404d9ab45d90038570f270/artifacts
+deleted_time: 1698168680243
+end_time: 1698141137105
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: c13cfb95d0404d9ab45d90038570f270
+run_name: charming-elk-116
+run_uuid: c13cfb95d0404d9ab45d90038570f270
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141136636
+status: 3
+tags: []
+user_id: thomasgeorgiou

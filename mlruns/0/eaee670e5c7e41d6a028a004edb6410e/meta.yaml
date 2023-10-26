@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/eaee670e5c7e41d6a028a004edb6410e/artifacts
+deleted_time: 1698214921471
 end_time: 1698079152107
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: eaee670e5c7e41d6a028a004edb6410e
 run_name: ambitious-koi-621
 run_uuid: eaee670e5c7e41d6a028a004edb6410e

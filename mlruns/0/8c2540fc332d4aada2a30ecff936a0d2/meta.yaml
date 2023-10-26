@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/8c2540fc332d4aada2a30ecff936a0d2/artifacts
+deleted_time: 1698168524406
+end_time: 1698141088829
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 8c2540fc332d4aada2a30ecff936a0d2
+run_name: lyrical-fox-340
+run_uuid: 8c2540fc332d4aada2a30ecff936a0d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141088238
+status: 3
+tags: []
+user_id: thomasgeorgiou

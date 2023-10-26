@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/76ae7fa896204a98a2663cec12a469e7/artifacts
+deleted_time: 1698214921203
+end_time: 1698141265915
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 76ae7fa896204a98a2663cec12a469e7
+run_name: industrious-hare-777
+run_uuid: 76ae7fa896204a98a2663cec12a469e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141265587
+status: 3
+tags: []
+user_id: thomasgeorgiou

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/b5677d3b76524ff59f0cd848fa1a3569/artifacts
+deleted_time: 1698168415507
+end_time: 1698141401396
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: b5677d3b76524ff59f0cd848fa1a3569
+run_name: salty-fox-972
+run_uuid: b5677d3b76524ff59f0cd848fa1a3569
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141400823
+status: 3
+tags: []
+user_id: thomasgeorgiou

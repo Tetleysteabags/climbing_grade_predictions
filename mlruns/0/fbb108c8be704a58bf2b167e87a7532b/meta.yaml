@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/fbb108c8be704a58bf2b167e87a7532b/artifacts
+deleted_time: 1698168524478
 end_time: 1698130671551
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: fbb108c8be704a58bf2b167e87a7532b
 run_name: rare-moose-614
 run_uuid: fbb108c8be704a58bf2b167e87a7532b

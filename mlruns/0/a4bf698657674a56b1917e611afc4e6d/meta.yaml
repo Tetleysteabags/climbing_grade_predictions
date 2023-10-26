@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/a4bf698657674a56b1917e611afc4e6d/artifacts
+deleted_time: 1698167429057
+end_time: 1698141455422
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: a4bf698657674a56b1917e611afc4e6d
+run_name: peaceful-sheep-25
+run_uuid: a4bf698657674a56b1917e611afc4e6d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141454918
+status: 3
+tags: []
+user_id: thomasgeorgiou

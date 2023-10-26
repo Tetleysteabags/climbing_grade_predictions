@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/efb050b581bb4105916398d588a86852/artifacts
+deleted_time: 1698168524436
 end_time: 1698133458799
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: efb050b581bb4105916398d588a86852
 run_name: adaptable-hen-902
 run_uuid: efb050b581bb4105916398d588a86852

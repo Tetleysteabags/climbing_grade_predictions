@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/7727267ce013499e9d8727cb790b68c6/artifacts
+deleted_time: 1698168619388
+end_time: 1698141325602
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 7727267ce013499e9d8727cb790b68c6
+run_name: able-roo-919
+run_uuid: 7727267ce013499e9d8727cb790b68c6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141325188
+status: 3
+tags: []
+user_id: thomasgeorgiou

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/91d6b62158f64babb1d9c87cbcfa3993/artifacts
+deleted_time: 1698168680224
+end_time: 1698141142938
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 91d6b62158f64babb1d9c87cbcfa3993
+run_name: efficient-robin-128
+run_uuid: 91d6b62158f64babb1d9c87cbcfa3993
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141142333
+status: 3
+tags: []
+user_id: thomasgeorgiou

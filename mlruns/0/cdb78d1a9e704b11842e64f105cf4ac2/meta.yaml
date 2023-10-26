@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/cdb78d1a9e704b11842e64f105cf4ac2/artifacts
+deleted_time: 1698168524539
 end_time: 1698079554806
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: cdb78d1a9e704b11842e64f105cf4ac2
 run_name: gregarious-cow-109
 run_uuid: cdb78d1a9e704b11842e64f105cf4ac2

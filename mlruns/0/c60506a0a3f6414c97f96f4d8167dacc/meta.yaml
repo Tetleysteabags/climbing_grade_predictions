@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/c60506a0a3f6414c97f96f4d8167dacc/artifacts
+deleted_time: 1698214921266
+end_time: 1698141253250
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: c60506a0a3f6414c97f96f4d8167dacc
+run_name: ambitious-lark-258
+run_uuid: c60506a0a3f6414c97f96f4d8167dacc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141252824
+status: 3
+tags: []
+user_id: thomasgeorgiou

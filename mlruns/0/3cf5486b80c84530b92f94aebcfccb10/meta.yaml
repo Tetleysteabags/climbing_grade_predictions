@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/3cf5486b80c84530b92f94aebcfccb10/artifacts
+deleted_time: 1698168490847
+end_time: 1698141180338
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 3cf5486b80c84530b92f94aebcfccb10
+run_name: sedate-roo-896
+run_uuid: 3cf5486b80c84530b92f94aebcfccb10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141179758
+status: 3
+tags: []
+user_id: thomasgeorgiou

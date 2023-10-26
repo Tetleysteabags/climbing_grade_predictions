@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/fb9db3a68c6b4addb6ca3badbcf4a9d4/artifacts
+deleted_time: 1698168490794
+end_time: 1698141196256
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: fb9db3a68c6b4addb6ca3badbcf4a9d4
+run_name: wistful-squid-716
+run_uuid: fb9db3a68c6b4addb6ca3badbcf4a9d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141195488
+status: 3
+tags: []
+user_id: thomasgeorgiou

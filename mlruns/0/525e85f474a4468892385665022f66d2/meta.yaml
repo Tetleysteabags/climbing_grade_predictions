@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/525e85f474a4468892385665022f66d2/artifacts
+deleted_time: 1698168490818
+end_time: 1698141189324
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 525e85f474a4468892385665022f66d2
+run_name: zealous-swan-142
+run_uuid: 525e85f474a4468892385665022f66d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141189039
+status: 3
+tags: []
+user_id: thomasgeorgiou

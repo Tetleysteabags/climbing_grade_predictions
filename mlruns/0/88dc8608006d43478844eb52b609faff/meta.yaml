@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/88dc8608006d43478844eb52b609faff/artifacts
+deleted_time: 1698214921424
 end_time: 1698079554602
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 88dc8608006d43478844eb52b609faff
 run_name: thundering-ant-10
 run_uuid: 88dc8608006d43478844eb52b609faff

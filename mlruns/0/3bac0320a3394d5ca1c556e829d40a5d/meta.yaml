@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/3bac0320a3394d5ca1c556e829d40a5d/artifacts
+deleted_time: 1698167429154
+end_time: 1698141434228
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 3bac0320a3394d5ca1c556e829d40a5d
+run_name: overjoyed-shad-109
+run_uuid: 3bac0320a3394d5ca1c556e829d40a5d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141433654
+status: 3
+tags: []
+user_id: thomasgeorgiou

@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/6639371433e84da8a602bfbdd5f95212/artifacts
+deleted_time: 1698168726727
 end_time: 1697886218235
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 6639371433e84da8a602bfbdd5f95212
 run_name: peaceful-fish-850
 run_uuid: 6639371433e84da8a602bfbdd5f95212

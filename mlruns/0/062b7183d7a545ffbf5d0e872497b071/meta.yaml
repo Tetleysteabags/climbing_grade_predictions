@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/062b7183d7a545ffbf5d0e872497b071/artifacts
+deleted_time: 1698214921520
 end_time: 1698002037533
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 062b7183d7a545ffbf5d0e872497b071
 run_name: crawling-koi-664
 run_uuid: 062b7183d7a545ffbf5d0e872497b071

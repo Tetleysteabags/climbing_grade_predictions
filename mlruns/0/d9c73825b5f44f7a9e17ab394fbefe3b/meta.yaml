@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/d9c73825b5f44f7a9e17ab394fbefe3b/artifacts
+deleted_time: 1698167429086
+end_time: 1698141449070
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: d9c73825b5f44f7a9e17ab394fbefe3b
+run_name: amusing-fish-841
+run_uuid: d9c73825b5f44f7a9e17ab394fbefe3b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141448651
+status: 3
+tags: []
+user_id: thomasgeorgiou

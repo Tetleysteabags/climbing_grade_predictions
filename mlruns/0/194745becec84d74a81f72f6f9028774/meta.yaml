@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/194745becec84d74a81f72f6f9028774/artifacts
+deleted_time: 1698168450479
+end_time: 1698141272907
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 194745becec84d74a81f72f6f9028774
+run_name: traveling-mink-819
+run_uuid: 194745becec84d74a81f72f6f9028774
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141272237
+status: 3
+tags: []
+user_id: thomasgeorgiou

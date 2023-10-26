@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/ced09753773841e5b9d9ffc35f4ca71d/artifacts
+deleted_time: 1698168619375
+end_time: 1698141329117
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: ced09753773841e5b9d9ffc35f4ca71d
+run_name: masked-stork-427
+run_uuid: ced09753773841e5b9d9ffc35f4ca71d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141328461
+status: 3
+tags: []
+user_id: thomasgeorgiou

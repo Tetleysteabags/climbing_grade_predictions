@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/0cb059a10df64349ab1c5c237ec281a6/artifacts
+deleted_time: 1698168619203
+end_time: 1698141377310
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 0cb059a10df64349ab1c5c237ec281a6
+run_name: carefree-snipe-493
+run_uuid: 0cb059a10df64349ab1c5c237ec281a6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141376892
+status: 3
+tags: []
+user_id: thomasgeorgiou

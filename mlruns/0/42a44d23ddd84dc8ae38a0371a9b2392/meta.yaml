@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/42a44d23ddd84dc8ae38a0371a9b2392/artifacts
+deleted_time: 1698214921250
+end_time: 1698141257875
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 42a44d23ddd84dc8ae38a0371a9b2392
+run_name: illustrious-loon-806
+run_uuid: 42a44d23ddd84dc8ae38a0371a9b2392
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141257250
+status: 3
+tags: []
+user_id: thomasgeorgiou

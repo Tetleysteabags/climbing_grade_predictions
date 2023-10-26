@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/9c565d625ce04a1fa2f94be37e46d270/artifacts
+deleted_time: 1698167428860
+end_time: 1698141490023
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 9c565d625ce04a1fa2f94be37e46d270
+run_name: burly-grouse-864
+run_uuid: 9c565d625ce04a1fa2f94be37e46d270
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141489405
+status: 3
+tags: []
+user_id: thomasgeorgiou

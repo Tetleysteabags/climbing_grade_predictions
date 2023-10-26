@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/cdf14f786825445bbbf52b82020e7032/artifacts
+deleted_time: 1698168619299
+end_time: 1698141355238
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: cdf14f786825445bbbf52b82020e7032
+run_name: nimble-donkey-473
+run_uuid: cdf14f786825445bbbf52b82020e7032
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141354685
+status: 3
+tags: []
+user_id: thomasgeorgiou

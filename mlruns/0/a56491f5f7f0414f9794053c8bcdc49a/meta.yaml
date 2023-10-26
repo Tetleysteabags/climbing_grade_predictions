@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/a56491f5f7f0414f9794053c8bcdc49a/artifacts
+deleted_time: 1698168415397
+end_time: 1698141427221
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: a56491f5f7f0414f9794053c8bcdc49a
+run_name: wistful-midge-758
+run_uuid: a56491f5f7f0414f9794053c8bcdc49a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141426700
+status: 3
+tags: []
+user_id: thomasgeorgiou

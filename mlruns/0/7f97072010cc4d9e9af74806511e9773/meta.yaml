@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/7f97072010cc4d9e9af74806511e9773/artifacts
+deleted_time: 1698218509548
 end_time: 1698002976034
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 7f97072010cc4d9e9af74806511e9773
 run_name: resilient-rook-199
 run_uuid: 7f97072010cc4d9e9af74806511e9773

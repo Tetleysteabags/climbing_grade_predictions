@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/aaeb048d9ea5457baebf447a830c4b54/artifacts
+deleted_time: 1698168490898
+end_time: 1698141162579
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: aaeb048d9ea5457baebf447a830c4b54
+run_name: upbeat-doe-353
+run_uuid: aaeb048d9ea5457baebf447a830c4b54
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141161966
+status: 3
+tags: []
+user_id: thomasgeorgiou

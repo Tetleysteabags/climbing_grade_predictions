@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/ff229028f26f479bb8d46892c6cc44c5/artifacts
+end_time: 1698240565117
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ff229028f26f479bb8d46892c6cc44c5
+run_name: valuable-croc-879
+run_uuid: ff229028f26f479bb8d46892c6cc44c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698240546724
+status: 3
+tags: []
+user_id: thomasgeorgiou

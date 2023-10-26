@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/088435c86d9c44a684001aa22349856d/artifacts
+deleted_time: 1698168415455
+end_time: 1698141415726
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 088435c86d9c44a684001aa22349856d
+run_name: likeable-boar-587
+run_uuid: 088435c86d9c44a684001aa22349856d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141415105
+status: 3
+tags: []
+user_id: thomasgeorgiou

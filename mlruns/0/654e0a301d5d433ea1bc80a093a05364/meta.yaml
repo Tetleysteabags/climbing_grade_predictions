@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/654e0a301d5d433ea1bc80a093a05364/artifacts
+deleted_time: 1698168524426
 end_time: 1698133459105
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 654e0a301d5d433ea1bc80a093a05364
 run_name: sincere-bug-879
 run_uuid: 654e0a301d5d433ea1bc80a093a05364

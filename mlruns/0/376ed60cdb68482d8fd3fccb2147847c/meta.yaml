@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/376ed60cdb68482d8fd3fccb2147847c/artifacts
+deleted_time: 1698168619350
+end_time: 1698141337808
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 376ed60cdb68482d8fd3fccb2147847c
+run_name: chill-crab-694
+run_uuid: 376ed60cdb68482d8fd3fccb2147847c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141337188
+status: 3
+tags: []
+user_id: thomasgeorgiou

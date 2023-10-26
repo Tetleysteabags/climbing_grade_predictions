@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/edc489b2835d446ea5e1db0e9dc8423c/artifacts
+deleted_time: 1698168619332
+end_time: 1698141343447
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: edc489b2835d446ea5e1db0e9dc8423c
+run_name: inquisitive-frog-496
+run_uuid: edc489b2835d446ea5e1db0e9dc8423c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141342818
+status: 3
+tags: []
+user_id: thomasgeorgiou

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/1ce3d318ee1c4b82a7e39fbcecb29d5e/artifacts
+deleted_time: 1698168450377
+end_time: 1698141299306
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 1ce3d318ee1c4b82a7e39fbcecb29d5e
+run_name: smiling-swan-828
+run_uuid: 1ce3d318ee1c4b82a7e39fbcecb29d5e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141299044
+status: 3
+tags: []
+user_id: thomasgeorgiou

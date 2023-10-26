@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/316e88d1c18c4459897f3199a73c3ef6/artifacts
+deleted_time: 1698168490814
+end_time: 1698141190086
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 316e88d1c18c4459897f3199a73c3ef6
+run_name: bright-snake-488
+run_uuid: 316e88d1c18c4459897f3199a73c3ef6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141189815
+status: 3
+tags: []
+user_id: thomasgeorgiou

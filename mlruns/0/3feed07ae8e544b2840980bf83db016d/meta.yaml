@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/3feed07ae8e544b2840980bf83db016d/artifacts
+deleted_time: 1698168680272
+end_time: 1698141129263
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 3feed07ae8e544b2840980bf83db016d
+run_name: learned-stag-394
+run_uuid: 3feed07ae8e544b2840980bf83db016d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141128598
+status: 3
+tags: []
+user_id: thomasgeorgiou

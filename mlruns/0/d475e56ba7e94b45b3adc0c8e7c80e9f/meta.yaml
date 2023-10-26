@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/d475e56ba7e94b45b3adc0c8e7c80e9f/artifacts
+deleted_time: 1698168680339
+end_time: 1698141107342
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: d475e56ba7e94b45b3adc0c8e7c80e9f
+run_name: tasteful-loon-188
+run_uuid: d475e56ba7e94b45b3adc0c8e7c80e9f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141106920
+status: 3
+tags: []
+user_id: thomasgeorgiou

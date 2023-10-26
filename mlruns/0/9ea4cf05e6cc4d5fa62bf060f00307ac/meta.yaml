@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/9ea4cf05e6cc4d5fa62bf060f00307ac/artifacts
+deleted_time: 1698168450332
+end_time: 1698141311320
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 9ea4cf05e6cc4d5fa62bf060f00307ac
+run_name: whimsical-kite-772
+run_uuid: 9ea4cf05e6cc4d5fa62bf060f00307ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141310842
+status: 3
+tags: []
+user_id: thomasgeorgiou

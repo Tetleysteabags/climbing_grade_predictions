@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/49f21d694de04b1182fd2afbfbbc9614/artifacts
+deleted_time: 1698168450355
+end_time: 1698141305248
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 49f21d694de04b1182fd2afbfbbc9614
+run_name: whimsical-steed-641
+run_uuid: 49f21d694de04b1182fd2afbfbbc9614
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141304730
+status: 3
+tags: []
+user_id: thomasgeorgiou

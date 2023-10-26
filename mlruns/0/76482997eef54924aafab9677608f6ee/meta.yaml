@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/76482997eef54924aafab9677608f6ee/artifacts
+deleted_time: 1698168524392
+end_time: 1698141094163
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 76482997eef54924aafab9677608f6ee
+run_name: gregarious-hound-86
+run_uuid: 76482997eef54924aafab9677608f6ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141093669
+status: 3
+tags: []
+user_id: thomasgeorgiou

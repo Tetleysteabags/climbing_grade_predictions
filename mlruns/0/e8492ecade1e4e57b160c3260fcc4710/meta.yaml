@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/e8492ecade1e4e57b160c3260fcc4710/artifacts
+deleted_time: 1698168619250
+end_time: 1698141368491
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: e8492ecade1e4e57b160c3260fcc4710
+run_name: grandiose-shrike-538
+run_uuid: e8492ecade1e4e57b160c3260fcc4710
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141368079
+status: 3
+tags: []
+user_id: thomasgeorgiou

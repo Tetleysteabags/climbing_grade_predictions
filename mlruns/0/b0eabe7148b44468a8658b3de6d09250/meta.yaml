@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/b0eabe7148b44468a8658b3de6d09250/artifacts
+deleted_time: 1698168450354
+end_time: 1698141305886
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: b0eabe7148b44468a8658b3de6d09250
+run_name: carefree-shoat-979
+run_uuid: b0eabe7148b44468a8658b3de6d09250
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141305263
+status: 3
+tags: []
+user_id: thomasgeorgiou

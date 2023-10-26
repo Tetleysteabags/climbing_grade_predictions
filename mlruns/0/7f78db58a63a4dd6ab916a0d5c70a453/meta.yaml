@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/7f78db58a63a4dd6ab916a0d5c70a453/artifacts
+deleted_time: 1698168619321
+end_time: 1698141348264
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 7f78db58a63a4dd6ab916a0d5c70a453
+run_name: mysterious-mare-798
+run_uuid: 7f78db58a63a4dd6ab916a0d5c70a453
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141347706
+status: 3
+tags: []
+user_id: thomasgeorgiou

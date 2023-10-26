@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/cc1ed3fdd8734dec8e9b5843cbdd1399/artifacts
+deleted_time: 1698168726726
 end_time: 1697886430179
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: cc1ed3fdd8734dec8e9b5843cbdd1399
 run_name: resilient-sponge-331
 run_uuid: cc1ed3fdd8734dec8e9b5843cbdd1399

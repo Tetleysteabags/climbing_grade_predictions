@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/f45ba9297f3b4fa0b10807c79fb47fb1/artifacts
+deleted_time: 1698167428919
+end_time: 1698141479915
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: f45ba9297f3b4fa0b10807c79fb47fb1
+run_name: adaptable-bug-546
+run_uuid: f45ba9297f3b4fa0b10807c79fb47fb1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141479320
+status: 3
+tags: []
+user_id: thomasgeorgiou

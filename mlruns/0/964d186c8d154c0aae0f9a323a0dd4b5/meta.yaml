@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/964d186c8d154c0aae0f9a323a0dd4b5/artifacts
+deleted_time: 1698167429119
+end_time: 1698141440030
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 964d186c8d154c0aae0f9a323a0dd4b5
+run_name: unique-midge-638
+run_uuid: 964d186c8d154c0aae0f9a323a0dd4b5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141439410
+status: 3
+tags: []
+user_id: thomasgeorgiou

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/1d068ca26a94471ea8e9726fe3f31280/artifacts
+deleted_time: 1698214921372
+end_time: 1698141227701
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 1d068ca26a94471ea8e9726fe3f31280
+run_name: dapper-gnat-533
+run_uuid: 1d068ca26a94471ea8e9726fe3f31280
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141227315
+status: 3
+tags: []
+user_id: thomasgeorgiou

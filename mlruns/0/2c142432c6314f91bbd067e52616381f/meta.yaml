@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/2c142432c6314f91bbd067e52616381f/artifacts
+deleted_time: 1698168524399
+end_time: 1698141092117
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 2c142432c6314f91bbd067e52616381f
+run_name: exultant-hog-330
+run_uuid: 2c142432c6314f91bbd067e52616381f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141091447
+status: 3
+tags: []
+user_id: thomasgeorgiou

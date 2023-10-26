@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/1f9f21a52e364c879d2135dd68b8488d/artifacts
+deleted_time: 1698168619216
+end_time: 1698141375130
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 1f9f21a52e364c879d2135dd68b8488d
+run_name: unequaled-rook-714
+run_uuid: 1f9f21a52e364c879d2135dd68b8488d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141374664
+status: 3
+tags: []
+user_id: thomasgeorgiou

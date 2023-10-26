@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/9484b0dd255943109772ed1fb71e995b/artifacts
+deleted_time: 1698168415387
+end_time: 1698141429026
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 9484b0dd255943109772ed1fb71e995b
+run_name: sedate-swan-921
+run_uuid: 9484b0dd255943109772ed1fb71e995b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141428285
+status: 3
+tags: []
+user_id: thomasgeorgiou

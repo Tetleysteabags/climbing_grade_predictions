@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/5582f227db724a93bce71ed457baa536/artifacts
+deleted_time: 1698214921304
+end_time: 1698141242024
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 5582f227db724a93bce71ed457baa536
+run_name: polite-hog-708
+run_uuid: 5582f227db724a93bce71ed457baa536
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141241319
+status: 3
+tags: []
+user_id: thomasgeorgiou

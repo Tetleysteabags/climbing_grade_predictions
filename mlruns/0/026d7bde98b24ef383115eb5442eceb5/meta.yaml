@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/026d7bde98b24ef383115eb5442eceb5/artifacts
+deleted_time: 1698168726744
 end_time: 1697885941778
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 026d7bde98b24ef383115eb5442eceb5
 run_name: silent-bat-632
 run_uuid: 026d7bde98b24ef383115eb5442eceb5

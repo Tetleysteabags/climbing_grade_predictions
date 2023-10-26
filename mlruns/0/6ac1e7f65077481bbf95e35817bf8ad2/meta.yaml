@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/6ac1e7f65077481bbf95e35817bf8ad2/artifacts
+deleted_time: 1698168680346
+end_time: 1698141105240
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 6ac1e7f65077481bbf95e35817bf8ad2
+run_name: carefree-foal-594
+run_uuid: 6ac1e7f65077481bbf95e35817bf8ad2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141104644
+status: 3
+tags: []
+user_id: thomasgeorgiou

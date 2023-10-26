@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/98c18e1914fc40f09507e7cb557c1675/artifacts
+deleted_time: 1698167428902
+end_time: 1698141483225
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 98c18e1914fc40f09507e7cb557c1675
+run_name: fun-bee-499
+run_uuid: 98c18e1914fc40f09507e7cb557c1675
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141482689
+status: 3
+tags: []
+user_id: thomasgeorgiou

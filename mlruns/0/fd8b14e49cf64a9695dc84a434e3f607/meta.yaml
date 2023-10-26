@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/fd8b14e49cf64a9695dc84a434e3f607/artifacts
+deleted_time: 1698168450285
+end_time: 1698141324606
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: fd8b14e49cf64a9695dc84a434e3f607
+run_name: nimble-croc-796
+run_uuid: fd8b14e49cf64a9695dc84a434e3f607
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141324236
+status: 3
+tags: []
+user_id: thomasgeorgiou

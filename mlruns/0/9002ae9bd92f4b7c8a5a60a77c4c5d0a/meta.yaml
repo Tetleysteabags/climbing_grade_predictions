@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/9002ae9bd92f4b7c8a5a60a77c4c5d0a/artifacts
+deleted_time: 1698214921386
+end_time: 1698141223108
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 9002ae9bd92f4b7c8a5a60a77c4c5d0a
+run_name: treasured-vole-529
+run_uuid: 9002ae9bd92f4b7c8a5a60a77c4c5d0a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141222489
+status: 3
+tags: []
+user_id: thomasgeorgiou

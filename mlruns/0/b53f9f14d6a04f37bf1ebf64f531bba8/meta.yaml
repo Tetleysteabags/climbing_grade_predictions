@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/b53f9f14d6a04f37bf1ebf64f531bba8/artifacts
+deleted_time: 1698168680286
+end_time: 1698141123722
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: b53f9f14d6a04f37bf1ebf64f531bba8
+run_name: defiant-stoat-445
+run_uuid: b53f9f14d6a04f37bf1ebf64f531bba8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141123141
+status: 3
+tags: []
+user_id: thomasgeorgiou

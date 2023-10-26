@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/2553ecc2b9614f8d8e5b23189b6cc0df/artifacts
+deleted_time: 1698167429066
+end_time: 1698141457164
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 2553ecc2b9614f8d8e5b23189b6cc0df
+run_name: gentle-wren-77
+run_uuid: 2553ecc2b9614f8d8e5b23189b6cc0df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141456615
+status: 3
+tags: []
+user_id: thomasgeorgiou

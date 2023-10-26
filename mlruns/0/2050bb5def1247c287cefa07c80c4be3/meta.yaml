@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/2050bb5def1247c287cefa07c80c4be3/artifacts
+deleted_time: 1698168450373
+end_time: 1698141300729
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 2050bb5def1247c287cefa07c80c4be3
+run_name: ambitious-ox-541
+run_uuid: 2050bb5def1247c287cefa07c80c4be3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141300154
+status: 3
+tags: []
+user_id: thomasgeorgiou

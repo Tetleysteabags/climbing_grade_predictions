@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/ca5da3832706430b80f164a4d5041822/artifacts
+deleted_time: 1698168680224
+end_time: 1698141142299
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: ca5da3832706430b80f164a4d5041822
+run_name: brawny-finch-261
+run_uuid: ca5da3832706430b80f164a4d5041822
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141141988
+status: 3
+tags: []
+user_id: thomasgeorgiou

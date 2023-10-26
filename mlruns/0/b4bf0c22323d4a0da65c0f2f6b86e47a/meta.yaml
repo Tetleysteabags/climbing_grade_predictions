@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/b4bf0c22323d4a0da65c0f2f6b86e47a/artifacts
+deleted_time: 1698168450475
+end_time: 1698141273516
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: b4bf0c22323d4a0da65c0f2f6b86e47a
+run_name: luxuriant-cat-666
+run_uuid: b4bf0c22323d4a0da65c0f2f6b86e47a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141272940
+status: 3
+tags: []
+user_id: thomasgeorgiou

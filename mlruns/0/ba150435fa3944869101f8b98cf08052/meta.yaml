@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/ba150435fa3944869101f8b98cf08052/artifacts
+deleted_time: 1698167428986
+end_time: 1698141465491
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: ba150435fa3944869101f8b98cf08052
+run_name: serious-moose-131
+run_uuid: ba150435fa3944869101f8b98cf08052
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141464950
+status: 3
+tags: []
+user_id: thomasgeorgiou

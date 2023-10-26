@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/0326b5e6c5804addace483298aa65f1c/artifacts
+deleted_time: 1698168450458
+end_time: 1698141279760
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 0326b5e6c5804addace483298aa65f1c
+run_name: bittersweet-fowl-127
+run_uuid: 0326b5e6c5804addace483298aa65f1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141279104
+status: 3
+tags: []
+user_id: thomasgeorgiou

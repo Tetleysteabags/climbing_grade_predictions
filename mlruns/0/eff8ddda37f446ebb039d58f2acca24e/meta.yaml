@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/eff8ddda37f446ebb039d58f2acca24e/artifacts
+deleted_time: 1698167428873
+end_time: 1698141487999
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: eff8ddda37f446ebb039d58f2acca24e
+run_name: invincible-bee-112
+run_uuid: eff8ddda37f446ebb039d58f2acca24e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141487415
+status: 3
+tags: []
+user_id: thomasgeorgiou

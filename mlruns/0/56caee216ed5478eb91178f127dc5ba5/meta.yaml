@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/56caee216ed5478eb91178f127dc5ba5/artifacts
+deleted_time: 1698168524477
 end_time: 1698130671696
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 56caee216ed5478eb91178f127dc5ba5
 run_name: industrious-moth-767
 run_uuid: 56caee216ed5478eb91178f127dc5ba5

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/c94df041b1fa489080709c01eb4238fd/artifacts
+deleted_time: 1698214921324
+end_time: 1698141238617
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: c94df041b1fa489080709c01eb4238fd
+run_name: aged-ram-879
+run_uuid: c94df041b1fa489080709c01eb4238fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141238173
+status: 3
+tags: []
+user_id: thomasgeorgiou

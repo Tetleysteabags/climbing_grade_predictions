@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/89548506b90e4e549f5c0aa23f1c2d99/artifacts
+deleted_time: 1698168415411
+end_time: 1698141425577
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 89548506b90e4e549f5c0aa23f1c2d99
+run_name: receptive-midge-934
+run_uuid: 89548506b90e4e549f5c0aa23f1c2d99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141425093
+status: 3
+tags: []
+user_id: thomasgeorgiou

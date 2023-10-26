@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/a82d57e8283942b29fdc5e56c6d48d6c/artifacts
+deleted_time: 1698168415485
+end_time: 1698141406316
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: a82d57e8283942b29fdc5e56c6d48d6c
+run_name: mercurial-gnat-516
+run_uuid: a82d57e8283942b29fdc5e56c6d48d6c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141405725
+status: 3
+tags: []
+user_id: thomasgeorgiou

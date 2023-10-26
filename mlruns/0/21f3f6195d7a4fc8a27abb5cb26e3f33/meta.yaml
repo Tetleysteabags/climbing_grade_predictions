@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/21f3f6195d7a4fc8a27abb5cb26e3f33/artifacts
+deleted_time: 1698167429064
+end_time: 1698141454886
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 21f3f6195d7a4fc8a27abb5cb26e3f33
+run_name: chill-lynx-545
+run_uuid: 21f3f6195d7a4fc8a27abb5cb26e3f33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141454377
+status: 3
+tags: []
+user_id: thomasgeorgiou

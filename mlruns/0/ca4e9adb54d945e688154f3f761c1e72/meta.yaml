@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/ca4e9adb54d945e688154f3f761c1e72/artifacts
+deleted_time: 1698214921531
 end_time: 1698002036740
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: ca4e9adb54d945e688154f3f761c1e72
 run_name: adorable-shark-309
 run_uuid: ca4e9adb54d945e688154f3f761c1e72

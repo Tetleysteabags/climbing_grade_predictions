@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/69baf506bbb849dfa308f6493bdf323d/artifacts
+deleted_time: 1698168490733
+end_time: 1698141214292
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 69baf506bbb849dfa308f6493bdf323d
+run_name: thoughtful-goat-170
+run_uuid: 69baf506bbb849dfa308f6493bdf323d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141212473
+status: 3
+tags: []
+user_id: thomasgeorgiou

@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/8a9476d6b37e49418e777dfe4b9fb54b/artifacts
+deleted_time: 1698168524487
 end_time: 1698130636749
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 8a9476d6b37e49418e777dfe4b9fb54b
 run_name: lyrical-bear-225
 run_uuid: 8a9476d6b37e49418e777dfe4b9fb54b

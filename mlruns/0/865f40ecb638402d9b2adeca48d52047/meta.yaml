@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/865f40ecb638402d9b2adeca48d52047/artifacts
+deleted_time: 1698168490761
+end_time: 1698141206960
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 865f40ecb638402d9b2adeca48d52047
+run_name: serious-skunk-367
+run_uuid: 865f40ecb638402d9b2adeca48d52047
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141206395
+status: 3
+tags: []
+user_id: thomasgeorgiou

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/440dc200a1cc42399191bcb2f3c1b23d/artifacts
+deleted_time: 1698168490910
+end_time: 1698141157964
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 440dc200a1cc42399191bcb2f3c1b23d
+run_name: learned-ray-7
+run_uuid: 440dc200a1cc42399191bcb2f3c1b23d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141157431
+status: 3
+tags: []
+user_id: thomasgeorgiou

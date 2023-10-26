@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/83b230e8600c469ea710f9b5f51ff331/artifacts
+deleted_time: 1698214921394
+end_time: 1698141222454
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 83b230e8600c469ea710f9b5f51ff331
+run_name: rogue-shrike-883
+run_uuid: 83b230e8600c469ea710f9b5f51ff331
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141221886
+status: 3
+tags: []
+user_id: thomasgeorgiou

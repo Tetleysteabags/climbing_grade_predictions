@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/940b0802226d4fe9b8c77b88c9e2aed9/artifacts
+deleted_time: 1698168619283
+end_time: 1698141361340
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 940b0802226d4fe9b8c77b88c9e2aed9
+run_name: upset-eel-996
+run_uuid: 940b0802226d4fe9b8c77b88c9e2aed9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141360805
+status: 3
+tags: []
+user_id: thomasgeorgiou

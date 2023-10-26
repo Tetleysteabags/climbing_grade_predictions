@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/ef4c748179d445a7a2de401e662563d3/artifacts
+deleted_time: 1698214921267
+end_time: 1698141252800
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: ef4c748179d445a7a2de401e662563d3
+run_name: ambitious-hawk-37
+run_uuid: ef4c748179d445a7a2de401e662563d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141252128
+status: 3
+tags: []
+user_id: thomasgeorgiou

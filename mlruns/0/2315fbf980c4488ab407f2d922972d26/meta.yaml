@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/2315fbf980c4488ab407f2d922972d26/artifacts
+deleted_time: 1698167428845
+end_time: 1698141491787
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 2315fbf980c4488ab407f2d922972d26
+run_name: mysterious-grub-832
+run_uuid: 2315fbf980c4488ab407f2d922972d26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141491269
+status: 3
+tags: []
+user_id: thomasgeorgiou

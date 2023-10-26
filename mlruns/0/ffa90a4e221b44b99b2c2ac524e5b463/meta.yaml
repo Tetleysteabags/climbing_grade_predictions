@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/ffa90a4e221b44b99b2c2ac524e5b463/artifacts
+deleted_time: 1698168450382
+end_time: 1698141299029
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: ffa90a4e221b44b99b2c2ac524e5b463
+run_name: placid-wolf-6
+run_uuid: ffa90a4e221b44b99b2c2ac524e5b463
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141298309
+status: 3
+tags: []
+user_id: thomasgeorgiou

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/00a4ed90513a4051811ed7a93617ff7c/artifacts
+deleted_time: 1698168490889
+end_time: 1698141166228
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 00a4ed90513a4051811ed7a93617ff7c
+run_name: victorious-crow-244
+run_uuid: 00a4ed90513a4051811ed7a93617ff7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141165824
+status: 3
+tags: []
+user_id: thomasgeorgiou

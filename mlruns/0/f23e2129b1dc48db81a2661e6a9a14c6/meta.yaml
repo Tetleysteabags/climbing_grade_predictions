@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/f23e2129b1dc48db81a2661e6a9a14c6/artifacts
+deleted_time: 1698214921540
 end_time: 1698002036378
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: f23e2129b1dc48db81a2661e6a9a14c6
 run_name: shivering-shoat-663
 run_uuid: f23e2129b1dc48db81a2661e6a9a14c6

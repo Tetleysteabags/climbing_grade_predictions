@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/fee144692e194dd0b8a03f36ce044a3e/artifacts
+deleted_time: 1698168524412
+end_time: 1698141085815
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: fee144692e194dd0b8a03f36ce044a3e
+run_name: nervous-vole-50
+run_uuid: fee144692e194dd0b8a03f36ce044a3e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141084674
+status: 3
+tags: []
+user_id: thomasgeorgiou

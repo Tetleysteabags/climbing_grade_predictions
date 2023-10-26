@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/76886dc37c7849028a83d1738e9e7112/artifacts
+deleted_time: 1698168619338
+end_time: 1698141342228
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 76886dc37c7849028a83d1738e9e7112
+run_name: bouncy-gnu-426
+run_uuid: 76886dc37c7849028a83d1738e9e7112
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141341503
+status: 3
+tags: []
+user_id: thomasgeorgiou

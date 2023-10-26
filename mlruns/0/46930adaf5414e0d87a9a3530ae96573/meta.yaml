@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/46930adaf5414e0d87a9a3530ae96573/artifacts
+deleted_time: 1698168450335
+end_time: 1698141310816
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 46930adaf5414e0d87a9a3530ae96573
+run_name: salty-quail-540
+run_uuid: 46930adaf5414e0d87a9a3530ae96573
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141310321
+status: 3
+tags: []
+user_id: thomasgeorgiou

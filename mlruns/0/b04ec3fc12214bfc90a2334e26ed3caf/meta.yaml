@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/b04ec3fc12214bfc90a2334e26ed3caf/artifacts
+deleted_time: 1698168450386
+end_time: 1698141296954
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: b04ec3fc12214bfc90a2334e26ed3caf
+run_name: skillful-wolf-832
+run_uuid: b04ec3fc12214bfc90a2334e26ed3caf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141296306
+status: 3
+tags: []
+user_id: thomasgeorgiou

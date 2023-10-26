@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/4294323bf30a47f2b428a793f8fcad0e/artifacts
+deleted_time: 1698168680364
+end_time: 1698141100639
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 4294323bf30a47f2b428a793f8fcad0e
+run_name: smiling-gull-92
+run_uuid: 4294323bf30a47f2b428a793f8fcad0e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141100368
+status: 3
+tags: []
+user_id: thomasgeorgiou

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/ed7450e85051448e964cf5bd7f6ee278/artifacts
+deleted_time: 1698168450410
+end_time: 1698141289870
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: ed7450e85051448e964cf5bd7f6ee278
+run_name: sincere-sponge-540
+run_uuid: ed7450e85051448e964cf5bd7f6ee278
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141289261
+status: 3
+tags: []
+user_id: thomasgeorgiou

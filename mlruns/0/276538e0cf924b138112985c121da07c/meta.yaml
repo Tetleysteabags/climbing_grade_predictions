@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/276538e0cf924b138112985c121da07c/artifacts
+deleted_time: 1698168619276
+end_time: 1698141363543
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 276538e0cf924b138112985c121da07c
+run_name: loud-shrew-909
+run_uuid: 276538e0cf924b138112985c121da07c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141363194
+status: 3
+tags: []
+user_id: thomasgeorgiou

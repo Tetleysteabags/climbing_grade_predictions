@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/14942d6939044fc5948b4f65d17ca216/artifacts
+deleted_time: 1698168450459
+end_time: 1698141279071
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 14942d6939044fc5948b4f65d17ca216
+run_name: sassy-bat-580
+run_uuid: 14942d6939044fc5948b4f65d17ca216
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141278676
+status: 3
+tags: []
+user_id: thomasgeorgiou

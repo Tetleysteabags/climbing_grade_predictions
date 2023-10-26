@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/67de407f5f44466ea4e6dd050e93e8e3/artifacts
+deleted_time: 1698168680244
+end_time: 1698141136082
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 67de407f5f44466ea4e6dd050e93e8e3
+run_name: capable-eel-349
+run_uuid: 67de407f5f44466ea4e6dd050e93e8e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141135563
+status: 3
+tags: []
+user_id: thomasgeorgiou

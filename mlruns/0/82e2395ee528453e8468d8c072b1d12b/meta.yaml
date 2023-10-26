@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/82e2395ee528453e8468d8c072b1d12b/artifacts
+deleted_time: 1698167428911
+end_time: 1698141481483
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 82e2395ee528453e8468d8c072b1d12b
+run_name: traveling-kit-417
+run_uuid: 82e2395ee528453e8468d8c072b1d12b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141480971
+status: 3
+tags: []
+user_id: thomasgeorgiou

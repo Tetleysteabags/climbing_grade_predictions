@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/f6741873b49f43daa72db8f236479b25/artifacts
+end_time: 1698251828190
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f6741873b49f43daa72db8f236479b25
+run_name: inquisitive-skunk-35
+run_uuid: f6741873b49f43daa72db8f236479b25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698251822949
+status: 3
+tags: []
+user_id: thomasgeorgiou

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/f866f266b2d340d0ae77c4b5e7bcf313/artifacts
+deleted_time: 1698214921387
+end_time: 1698141223738
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: f866f266b2d340d0ae77c4b5e7bcf313
+run_name: burly-fawn-76
+run_uuid: f866f266b2d340d0ae77c4b5e7bcf313
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141223139
+status: 3
+tags: []
+user_id: thomasgeorgiou

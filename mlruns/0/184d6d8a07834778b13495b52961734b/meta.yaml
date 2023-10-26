@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/184d6d8a07834778b13495b52961734b/artifacts
+deleted_time: 1698214921546
 end_time: 1698002036087
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 184d6d8a07834778b13495b52961734b
 run_name: classy-zebra-897
 run_uuid: 184d6d8a07834778b13495b52961734b

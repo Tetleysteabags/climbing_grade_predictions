@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/51d2453304e84407957ba1319e8b796f/artifacts
+deleted_time: 1698168680236
+end_time: 1698141138813
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 51d2453304e84407957ba1319e8b796f
+run_name: stylish-squirrel-527
+run_uuid: 51d2453304e84407957ba1319e8b796f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141138285
+status: 3
+tags: []
+user_id: thomasgeorgiou

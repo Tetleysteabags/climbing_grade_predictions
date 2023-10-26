@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/de212a14c6c8433bb94f04bf3d2e91a1/artifacts
+deleted_time: 1698168415585
+end_time: 1698141379206
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: de212a14c6c8433bb94f04bf3d2e91a1
+run_name: painted-chimp-117
+run_uuid: de212a14c6c8433bb94f04bf3d2e91a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141378801
+status: 3
+tags: []
+user_id: thomasgeorgiou

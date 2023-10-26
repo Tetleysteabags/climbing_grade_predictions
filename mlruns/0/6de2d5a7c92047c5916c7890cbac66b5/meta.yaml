@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/6de2d5a7c92047c5916c7890cbac66b5/artifacts
+deleted_time: 1698168490780
+end_time: 1698141201919
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 6de2d5a7c92047c5916c7890cbac66b5
+run_name: carefree-cow-824
+run_uuid: 6de2d5a7c92047c5916c7890cbac66b5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141201473
+status: 3
+tags: []
+user_id: thomasgeorgiou

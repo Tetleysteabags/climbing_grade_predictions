@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/1bedccf3404f4a2ba2142e2af1a24d06/artifacts
+deleted_time: 1698230928764
+end_time: 1698221193831
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 1bedccf3404f4a2ba2142e2af1a24d06
+run_name: nosy-bear-718
+run_uuid: 1bedccf3404f4a2ba2142e2af1a24d06
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698221192467
+status: 3
+tags: []
+user_id: thomasgeorgiou

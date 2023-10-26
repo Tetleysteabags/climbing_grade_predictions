@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/050dbb7843824a5ab49c6eb7311a352e/artifacts
+deleted_time: 1698168524408
+end_time: 1698141087366
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 050dbb7843824a5ab49c6eb7311a352e
+run_name: orderly-shrew-57
+run_uuid: 050dbb7843824a5ab49c6eb7311a352e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141085879
+status: 3
+tags: []
+user_id: thomasgeorgiou

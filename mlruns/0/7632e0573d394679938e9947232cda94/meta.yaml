@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/7632e0573d394679938e9947232cda94/artifacts
+deleted_time: 1698167428950
+end_time: 1698141472020
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 7632e0573d394679938e9947232cda94
+run_name: dazzling-kit-172
+run_uuid: 7632e0573d394679938e9947232cda94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141471518
+status: 3
+tags: []
+user_id: thomasgeorgiou

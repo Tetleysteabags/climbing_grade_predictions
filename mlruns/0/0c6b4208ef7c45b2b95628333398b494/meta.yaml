@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/0c6b4208ef7c45b2b95628333398b494/artifacts
+deleted_time: 1698214921514
 end_time: 1698002038106
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 0c6b4208ef7c45b2b95628333398b494
 run_name: painted-squid-999
 run_uuid: 0c6b4208ef7c45b2b95628333398b494

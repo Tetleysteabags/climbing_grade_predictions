@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/5be47ddaf0f843d9ada9319a17a2e37f/artifacts
+end_time: 1698310439221
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5be47ddaf0f843d9ada9319a17a2e37f
+run_name: calm-fly-543
+run_uuid: 5be47ddaf0f843d9ada9319a17a2e37f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698310435381
+status: 3
+tags: []
+user_id: thomasgeorgiou

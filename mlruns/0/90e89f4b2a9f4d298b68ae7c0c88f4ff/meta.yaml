@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/90e89f4b2a9f4d298b68ae7c0c88f4ff/artifacts
+deleted_time: 1698214921469
 end_time: 1698079152273
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 90e89f4b2a9f4d298b68ae7c0c88f4ff
 run_name: hilarious-stag-720
 run_uuid: 90e89f4b2a9f4d298b68ae7c0c88f4ff

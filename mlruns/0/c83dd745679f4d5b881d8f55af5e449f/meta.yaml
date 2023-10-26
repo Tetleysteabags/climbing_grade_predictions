@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/c83dd745679f4d5b881d8f55af5e449f/artifacts
+deleted_time: 1698168490777
+end_time: 1698141202401
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: c83dd745679f4d5b881d8f55af5e449f
+run_name: efficient-ant-281
+run_uuid: c83dd745679f4d5b881d8f55af5e449f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141201957
+status: 3
+tags: []
+user_id: thomasgeorgiou

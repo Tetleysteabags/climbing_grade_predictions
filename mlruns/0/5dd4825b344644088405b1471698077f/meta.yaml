@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/5dd4825b344644088405b1471698077f/artifacts
+deleted_time: 1698214921451
 end_time: 1698079153038
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 5dd4825b344644088405b1471698077f
 run_name: adorable-gnat-671
 run_uuid: 5dd4825b344644088405b1471698077f

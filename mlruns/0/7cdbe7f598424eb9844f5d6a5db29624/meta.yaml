@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/7cdbe7f598424eb9844f5d6a5db29624/artifacts
+deleted_time: 1698168450361
+end_time: 1698141304100
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 7cdbe7f598424eb9844f5d6a5db29624
+run_name: thundering-cod-307
+run_uuid: 7cdbe7f598424eb9844f5d6a5db29624
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141303493
+status: 3
+tags: []
+user_id: thomasgeorgiou

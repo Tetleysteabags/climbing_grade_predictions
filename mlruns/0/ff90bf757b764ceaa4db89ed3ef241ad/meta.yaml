@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/ff90bf757b764ceaa4db89ed3ef241ad/artifacts
+deleted_time: 1698168619316
+end_time: 1698141351114
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: ff90bf757b764ceaa4db89ed3ef241ad
+run_name: stylish-fish-215
+run_uuid: ff90bf757b764ceaa4db89ed3ef241ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141350573
+status: 3
+tags: []
+user_id: thomasgeorgiou

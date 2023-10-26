@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/4c9eba611f8a4f2f8a0c1000c34e9615/artifacts
+deleted_time: 1698168524501
 end_time: 1698079557403
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 4c9eba611f8a4f2f8a0c1000c34e9615
 run_name: victorious-dog-858
 run_uuid: 4c9eba611f8a4f2f8a0c1000c34e9615

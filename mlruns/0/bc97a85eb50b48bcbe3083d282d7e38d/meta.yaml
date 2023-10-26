@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/bc97a85eb50b48bcbe3083d282d7e38d/artifacts
+deleted_time: 1698167428933
+end_time: 1698141476795
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: bc97a85eb50b48bcbe3083d282d7e38d
+run_name: aged-robin-357
+run_uuid: bc97a85eb50b48bcbe3083d282d7e38d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141476348
+status: 3
+tags: []
+user_id: thomasgeorgiou

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/62e82b61c4624531b9c5b8a365b546ca/artifacts
+deleted_time: 1698168415561
+end_time: 1698141386286
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 62e82b61c4624531b9c5b8a365b546ca
+run_name: spiffy-squirrel-863
+run_uuid: 62e82b61c4624531b9c5b8a365b546ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141385756
+status: 3
+tags: []
+user_id: thomasgeorgiou

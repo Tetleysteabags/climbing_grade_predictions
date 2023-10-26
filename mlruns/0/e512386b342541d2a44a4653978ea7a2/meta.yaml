@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/e512386b342541d2a44a4653978ea7a2/artifacts
+deleted_time: 1698168450366
+end_time: 1698141301801
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: e512386b342541d2a44a4653978ea7a2
+run_name: painted-roo-47
+run_uuid: e512386b342541d2a44a4653978ea7a2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698141301166
+status: 3
+tags: []
+user_id: thomasgeorgiou

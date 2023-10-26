@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/0f85f2efd0354f93bc9bd8dd0fbc9113/artifacts
+deleted_time: 1698214921456
 end_time: 1698079152842
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 0f85f2efd0354f93bc9bd8dd0fbc9113
 run_name: mercurial-sloth-87
 run_uuid: 0f85f2efd0354f93bc9bd8dd0fbc9113
