@@ -6,6 +6,7 @@ import pandas as pd
 import requests
 import os
 import pymongo
+from pymongo.mongo_client import MongoClient
 
 # Access the information from secrets.toml
 db_info = st.secrets["mongo"]
