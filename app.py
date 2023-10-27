@@ -3,7 +3,7 @@ import pickle
 import numpy as np
 from sklearn.preprocessing import StandardScaler
 import pandas as pd
-import requests  # Import the requests library
+import requests
 import os
 import pymongo
 
