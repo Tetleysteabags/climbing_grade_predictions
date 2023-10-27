@@ -7,12 +7,12 @@ import requests
 import os
 import pymongo
 from pymongo.mongo_client import MongoClient
+import secrets
+
 
 # Initialize connection to MongoDB
-def init_connection():
-    return pymongo.MongoClient(**st.secrets["mongo"])
-
-client = init_connection()
+conn_str = secrets["mongo"]["conn_str"]
+client = pymongo.MongoClient(conn_str)
 
 # Access the specific database and collection
 db = client.ClimbingGradeFeedback
