@@ -5,7 +5,18 @@ from sklearn.preprocessing import StandardScaler
 import pandas as pd
 import requests  # Import the requests library
 import os
+import pymongo
 
+# Access the information from secrets.toml
+db_info = st.secrets["mongo"]
+host = db_info["host"]
+port = db_info["port"]
+username = db_info["username"]
+password = db_info["password"]
+
+client = pymongo.MongoClient(f"mongodb://{username}:{password}@{host}:{port}/")
+db = client["ClimbingUserFeedback"]  # Replace with your database name
+collection = db["feedback"]  # Replace with your collection name
 
 # Function to load a pickle file from a URL
 def load_pickle_from_url(url):
@@ -26,7 +37,7 @@ sport_model = load_pickle_from_url(sport_model_url)
 sport_scaler = load_pickle_from_url(sport_scaler_url)
 
 # Create a sidebar for user input
-st.sidebar.header('User Input Parameters')
+st.sidebar.header('Your climbing stats')
 
 def user_input_features():
     bmi_score = st.sidebar.number_input('BMI score', min_value=0.0, max_value=50.0, value=25.0)
@@ -154,3 +165,20 @@ sport_predicted_grade = convert_numeric_to_f_grade(float(sport_prediction[0]))
 st.header(f'Predicted Max Boulder Grade: {bouldering_predicted_grade}')
 # Display the prediction for sport
 st.header(f'Predicted Max Sport Grade: {sport_predicted_grade}')
+
+
+# Collect user feedback
+actual_bouldering_grade = st.text_input("Your actual max bouldering grade:")
+actual_sport_grade = st.text_input("Your actual max sport grade:")
+
+# Send feedback to MongoDB
+if st.button("Submit Feedback"):
+    feedback_data = {
+        "features": input_df_bouldering.to_dict(),  # Replace with the features you want to store
+        "predicted_bouldering_grade": bouldering_predicted_grade,
+        "actual_bouldering_grade": actual_bouldering_grade,
+        "predicted_sport_grade": sport_predicted_grade,
+        "actual_sport_grade": actual_sport_grade
+    }
+    collection.insert_one(feedback_data)
+    st.success("Thank you for your feedback! This will be used to improve the model and future results")

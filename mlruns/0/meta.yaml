@@ -1,6 +1,7 @@
 artifact_location: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0
 creation_time: 1697885734785
 experiment_id: '0'
-last_update_time: 1697885734785
+last_update_time: 1698403616492
 lifecycle_stage: active
-name: Default
+name: Climbing performance
+tags: {}
