@@ -9,14 +9,15 @@ import pymongo
 from pymongo.mongo_client import MongoClient
 import secrets
 
-
-# Initialize connection to MongoDB
-conn_str = secrets["mongo"]["conn_str"]
-client = pymongo.MongoClient(conn_str)
-
 # Access the specific database and collection
-db = client.ClimbingGradeFeedback
-collection = db.ClimbingFeedbackStreamlit
+# use connect to mongo function to connect to the database
+def connect_to_mongodb():
+    secrets = st.secrets["mongo"]
+    conn_str = secrets["conn_str"]
+    client = pymongo.MongoClient(conn_str)
+    db = client.ClimbingGradeFeedback
+    collection = db.ClimbingFeedbackStreamlit
+    return collection
 
 # Function to load a pickle file from a URL
 def load_pickle_from_url(url):
@@ -180,5 +181,8 @@ if st.button("Submit Feedback"):
         "predicted_sport_grade": sport_predicted_grade,
         "actual_sport_grade": actual_sport_grade
     }
+    # call the function to connect to mongodb and upload the feedback data
+    collection = connect_to_mongodb()
     collection.insert_one(feedback_data)
     st.success("Thank you for your feedback! This will be used to improve the model and future results")
+    
