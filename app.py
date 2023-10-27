@@ -8,16 +8,16 @@ import os
 import pymongo
 from pymongo.mongo_client import MongoClient
 
-# Access the information from secrets.toml
-db_info = st.secrets["mongo"]
-host = db_info["host"]
-port = db_info["port"]
-username = db_info["username"]
-password = db_info["password"]
+# Initialize connection to MongoDB
+@st.cache(allow_output_mutation=True)
+def init_connection():
+    return pymongo.MongoClient(**st.secrets["mongo"])
 
-client = pymongo.MongoClient(f"mongodb://{username}:{password}@{host}:{port}/")
-db = client["ClimbingUserFeedback"]  # Replace with your database name
-collection = db["feedback"]  # Replace with your collection name
+client = init_connection()
+
+# Access the specific database and collection
+db = client.ClimbingGradeFeedback
+collection = db.ClimbingFeedbackStreamlit
 
 # Function to load a pickle file from a URL
 def load_pickle_from_url(url):
