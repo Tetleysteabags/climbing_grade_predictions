@@ -169,17 +169,17 @@ st.header(f"Predicted Max Sport Grade: {sport_predicted_grade}")
 
 
 # Collect user feedback
-actual_bouldering_grade = st.text_input("Your actual max bouldering grade:")
-actual_sport_grade = st.text_input("Your actual max sport grade:")
+actual_bouldering_grade = st.text_input("Your actual max bouldering grade:"))
+actual_sport_grade = st.text_input("Your actual max sport grade:"))
 
 # Send feedback to MongoDB
 if st.button("Submit Feedback"):
     feedback_data = {
-        "features": input_df_bouldering.to_dict(),  # Replace with the features you want to store
-        "predicted_bouldering_grade": bouldering_predicted_grade,
-        "actual_bouldering_grade": actual_bouldering_grade,
-        "predicted_sport_grade": sport_predicted_grade,
-        "actual_sport_grade": actual_sport_grade
+        "features": str(input_df_bouldering.to_dict()),  # Replace with the features you want to store
+        "predicted_bouldering_grade": str(bouldering_predicted_grade),
+        "actual_bouldering_grade": str(actual_bouldering_grade),
+        "predicted_sport_grade": str(sport_predicted_grade),
+        "actual_sport_grade": str(actual_sport_grade)
     }
     # call the function to connect to mongodb and upload the feedback data
     collection = connect_to_mongodb()
