@@ -9,7 +9,6 @@ import pymongo
 from pymongo.mongo_client import MongoClient
 
 # Initialize connection to MongoDB
-@st.cache(allow_output_mutation=True)
 def init_connection():
     return pymongo.MongoClient(**st.secrets["mongo"])
 
