@@ -169,9 +169,9 @@ st.subheader(f"Max Sport Grade: {sport_predicted_grade}")
 
 
 # Collect user feedback on the sidebar
-st.sidebar.header("Feedback")
-actual_bouldering_grade = st.sidebar.text_input("Enter your actual max bouldering grade:")
-actual_sport_grade = st.sidebar.text_input("Enter your actual max sport grade:")
+st.header("Feedback")
+actual_bouldering_grade = st.text_input("Enter your actual max bouldering grade:")
+actual_sport_grade = st.text_input("Enter your actual max sport grade:")
 
 # Send feedback to MongoDB
 if st.button("Submit Feedback"):
