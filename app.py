@@ -175,8 +175,17 @@ actual_sport_grade = st.text_input("Enter your actual max sport grade:")
 
 # Send feedback to MongoDB
 if st.button("Submit Feedback"):
+    strength_to_weight_pullup, strength_to_weight_maxhang, strength_to_weight_weightpull, continuous, repeaters, exp, trainexp, days = user_input_features()
+    
     feedback_data = {
-        "features": str(input_df_bouldering.to_dict()),  # Replace with the features you want to store
+        "strength_to_weight_pullup": strength_to_weight_pullup,
+        "strength_to_weight_maxhang": strength_to_weight_maxhang,
+        "strength_to_weight_weightpull": strength_to_weight_weightpull,
+        "continuous": continuous,
+        "repeaters1": repeaters,
+        "exp": exp,
+        "trainexp": trainexp,
+        "days": days,
         "predicted_bouldering_grade": str(bouldering_predicted_grade),
         "actual_bouldering_grade": str(actual_bouldering_grade),
         "predicted_sport_grade": str(sport_predicted_grade),
