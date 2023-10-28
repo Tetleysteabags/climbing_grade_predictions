@@ -194,5 +194,5 @@ if st.button("Submit Feedback"):
     # call the function to connect to mongodb and upload the feedback data
     collection = connect_to_mongodb()
     collection.insert_one(feedback_data)
-    st.success("Thank you for your feedback! This will be used to improve the model and future results")
+    st.success("Thank you for your feedback! This will be used to improve the model and future predictions")
     
