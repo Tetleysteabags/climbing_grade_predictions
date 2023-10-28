@@ -38,7 +38,7 @@ sport_model = load_pickle_from_url(sport_model_url)
 sport_scaler = load_pickle_from_url(sport_scaler_url)
 
 # Create a sidebar for user input
-st.sidebar.header("Your climbing stats")
+st.sidebar.header("Enter your climbing stats")
 
 def user_input_features():
     bmi_score = st.sidebar.number_input("BMI score", min_value=0.0, max_value=50.0, value=25.0)
@@ -163,14 +163,15 @@ sport_prediction = sport_model.predict(scaled_features_sport)
 sport_predicted_grade = convert_numeric_to_f_grade(float(sport_prediction[0]))
 
 # Display the prediction for bouldering
-st.header(f"Predicted Max Boulder Grade: {bouldering_predicted_grade}")
-# Display the prediction for sport
-st.header(f"Predicted Max Sport Grade: {sport_predicted_grade}")
+st.header("Predicted Grades")
+st.subheader(f"Max Boulder Grade: {bouldering_predicted_grade}")
+st.subheader(f"Max Sport Grade: {sport_predicted_grade}")
 
 
-# Collect user feedback
-actual_bouldering_grade = st.text_input("Your actual max bouldering grade:")
-actual_sport_grade = st.text_input("Your actual max sport grade:")
+# Collect user feedback on the sidebar
+st.sidebar.header("Feedback")
+actual_bouldering_grade = st.sidebar.text_input("Enter your actual max bouldering grade:")
+actual_sport_grade = st.sidebar.text_input("Enter your actual max sport grade:")
 
 # Send feedback to MongoDB
 if st.button("Submit Feedback"):
