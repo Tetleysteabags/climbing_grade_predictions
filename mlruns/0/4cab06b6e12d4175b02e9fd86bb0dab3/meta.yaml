@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/4cab06b6e12d4175b02e9fd86bb0dab3/artifacts
+deleted_time: 1698581238613
 end_time: 1698567049947
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 4cab06b6e12d4175b02e9fd86bb0dab3
 run_name: funny-mink-133
 run_uuid: 4cab06b6e12d4175b02e9fd86bb0dab3

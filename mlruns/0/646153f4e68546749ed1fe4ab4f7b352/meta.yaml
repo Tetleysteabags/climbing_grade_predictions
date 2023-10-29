@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/646153f4e68546749ed1fe4ab4f7b352/artifacts
+deleted_time: 1698581238833
 end_time: 1698237143401
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 646153f4e68546749ed1fe4ab4f7b352
 run_name: bold-foal-295
 run_uuid: 646153f4e68546749ed1fe4ab4f7b352

@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/954a26dce65f4e2e83290195e3634ca8/artifacts
+deleted_time: 1698581238605
 end_time: null
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 954a26dce65f4e2e83290195e3634ca8
 run_name: skittish-rook-589
 run_uuid: 954a26dce65f4e2e83290195e3634ca8

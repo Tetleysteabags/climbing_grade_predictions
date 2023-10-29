@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/e46d3ea0b2464948879ab4175e7d2ae5/artifacts
+deleted_time: 1698581238699
 end_time: 1698243315214
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: e46d3ea0b2464948879ab4175e7d2ae5
 run_name: Sport Grade Forecasting - Gradient Boosting
 run_uuid: e46d3ea0b2464948879ab4175e7d2ae5

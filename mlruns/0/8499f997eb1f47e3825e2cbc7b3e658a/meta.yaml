@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/8499f997eb1f47e3825e2cbc7b3e658a/artifacts
+deleted_time: 1698581238715
 end_time: 1698242470640
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 8499f997eb1f47e3825e2cbc7b3e658a
 run_name: agreeable-crow-102
 run_uuid: 8499f997eb1f47e3825e2cbc7b3e658a

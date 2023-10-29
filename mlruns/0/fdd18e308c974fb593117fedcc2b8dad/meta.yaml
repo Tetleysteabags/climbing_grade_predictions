@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/fdd18e308c974fb593117fedcc2b8dad/artifacts
+deleted_time: 1698581238831
 end_time: 1698237447275
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: fdd18e308c974fb593117fedcc2b8dad
 run_name: defiant-dove-765
 run_uuid: fdd18e308c974fb593117fedcc2b8dad

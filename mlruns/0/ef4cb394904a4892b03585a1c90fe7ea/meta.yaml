@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/ef4cb394904a4892b03585a1c90fe7ea/artifacts
+deleted_time: 1698581238701
 end_time: 1698243315185
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: ef4cb394904a4892b03585a1c90fe7ea
 run_name: aged-seal-293
 run_uuid: ef4cb394904a4892b03585a1c90fe7ea

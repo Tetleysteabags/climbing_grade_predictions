@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/d3436821ae354d62a8e183d89968cc42/artifacts
+deleted_time: 1698581238727
 end_time: 1698241621990
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: d3436821ae354d62a8e183d89968cc42
 run_name: awesome-auk-97
 run_uuid: d3436821ae354d62a8e183d89968cc42

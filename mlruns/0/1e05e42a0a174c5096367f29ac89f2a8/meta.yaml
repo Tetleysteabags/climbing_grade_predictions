@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/1e05e42a0a174c5096367f29ac89f2a8/artifacts
+deleted_time: 1698581238720
 end_time: 1698242465888
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 1e05e42a0a174c5096367f29ac89f2a8
 run_name: shivering-gull-310
 run_uuid: 1e05e42a0a174c5096367f29ac89f2a8

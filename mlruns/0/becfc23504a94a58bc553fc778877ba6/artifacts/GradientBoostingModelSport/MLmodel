@@ -1,0 +1,19 @@
+artifact_path: GradientBoostingModelSport
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.13
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.3.1
+mlflow_version: 2.6.0
+model_uuid: 1903ec238ec0427b97a32cfb2f65f7a4
+run_id: becfc23504a94a58bc553fc778877ba6
+utc_time_created: '2023-10-29 15:57:43.090614'

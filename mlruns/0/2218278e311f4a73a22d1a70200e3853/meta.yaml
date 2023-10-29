@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/2218278e311f4a73a22d1a70200e3853/artifacts
+deleted_time: 1698581238824
 end_time: 1698239015093
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 2218278e311f4a73a22d1a70200e3853
 run_name: thundering-cat-729
 run_uuid: 2218278e311f4a73a22d1a70200e3853

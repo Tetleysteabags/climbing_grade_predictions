@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/265ac4872f374d88ab890cfb140d3d09/artifacts
+deleted_time: 1698581238631
 end_time: 1698566866424
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 265ac4872f374d88ab890cfb140d3d09
 run_name: Sport Grade Forecasting - Linear Regression
 run_uuid: 265ac4872f374d88ab890cfb140d3d09

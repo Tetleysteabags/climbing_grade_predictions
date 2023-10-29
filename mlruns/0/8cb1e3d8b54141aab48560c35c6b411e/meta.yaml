@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/8cb1e3d8b54141aab48560c35c6b411e/artifacts
+deleted_time: 1698581238638
 end_time: 1698566377515
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 8cb1e3d8b54141aab48560c35c6b411e
 run_name: nosy-goose-77
 run_uuid: 8cb1e3d8b54141aab48560c35c6b411e

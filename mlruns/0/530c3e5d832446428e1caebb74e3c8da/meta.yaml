@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/530c3e5d832446428e1caebb74e3c8da/artifacts
+deleted_time: 1698581238798
 end_time: 1698239668425
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 530c3e5d832446428e1caebb74e3c8da
 run_name: trusting-shrike-736
 run_uuid: 530c3e5d832446428e1caebb74e3c8da

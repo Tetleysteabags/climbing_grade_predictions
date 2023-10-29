@@ -1,0 +1,13 @@
+aliases: []
+creation_timestamp: 1698588284832
+current_stage: None
+description: ''
+last_updated_timestamp: 1698588284832
+name: LinearR Sport
+run_id: 5307af5fa16441b7aa2216f9296238b3
+run_link: ''
+source: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/5307af5fa16441b7aa2216f9296238b3/artifacts/LinearRegressionModelSport
+status: READY
+status_message: null
+user_id: null
+version: 2

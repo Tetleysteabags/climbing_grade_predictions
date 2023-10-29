@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/0d1dfb4dd9224c2199e664d1f34c7fa0/artifacts
+deleted_time: 1698581238658
 end_time: 1698309925830
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 0d1dfb4dd9224c2199e664d1f34c7fa0
 run_name: bold-cub-284
 run_uuid: 0d1dfb4dd9224c2199e664d1f34c7fa0

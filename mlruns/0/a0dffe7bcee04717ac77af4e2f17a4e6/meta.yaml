@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/a0dffe7bcee04717ac77af4e2f17a4e6/artifacts
+deleted_time: 1698581238841
 end_time: 1698234427372
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: a0dffe7bcee04717ac77af4e2f17a4e6
 run_name: nervous-shad-531
 run_uuid: a0dffe7bcee04717ac77af4e2f17a4e6

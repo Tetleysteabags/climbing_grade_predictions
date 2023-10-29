@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/bb8dcc8278ea4868a860d9fb243334be/artifacts
+deleted_time: 1698581238796
 end_time: 1698239938940
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: bb8dcc8278ea4868a860d9fb243334be
 run_name: enthused-snake-575
 run_uuid: bb8dcc8278ea4868a860d9fb243334be

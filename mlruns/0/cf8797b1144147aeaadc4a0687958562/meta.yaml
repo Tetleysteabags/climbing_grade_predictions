@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/cf8797b1144147aeaadc4a0687958562/artifacts
+deleted_time: 1698581238679
 end_time: 1698251832065
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: cf8797b1144147aeaadc4a0687958562
 run_name: secretive-fox-309
 run_uuid: cf8797b1144147aeaadc4a0687958562

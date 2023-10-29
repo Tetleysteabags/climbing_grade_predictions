@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/0e89b092be8c4bd7843edf807c31c115/artifacts
+deleted_time: 1698581238691
 end_time: 1698251087221
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 0e89b092be8c4bd7843edf807c31c115
 run_name: mysterious-squid-655
 run_uuid: 0e89b092be8c4bd7843edf807c31c115

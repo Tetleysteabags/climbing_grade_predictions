@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/05cb75e483ac4a79a1cc770050480bc5/artifacts
+deleted_time: 1698581238665
 end_time: 1698309688316
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 05cb75e483ac4a79a1cc770050480bc5
 run_name: crawling-deer-409
 run_uuid: 05cb75e483ac4a79a1cc770050480bc5

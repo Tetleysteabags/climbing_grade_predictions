@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/c65a1d0794514f8b8b5a87ebd4408b02/artifacts
+deleted_time: 1698581238633
 end_time: 1698566866377
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: c65a1d0794514f8b8b5a87ebd4408b02
 run_name: polite-fish-631
 run_uuid: c65a1d0794514f8b8b5a87ebd4408b02

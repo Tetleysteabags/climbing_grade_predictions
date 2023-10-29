@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/ccda57f760e74933b225eeceaef68d56/artifacts
+deleted_time: 1698581238838
 end_time: 1698234779273
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: ccda57f760e74933b225eeceaef68d56
 run_name: omniscient-horse-965
 run_uuid: ccda57f760e74933b225eeceaef68d56

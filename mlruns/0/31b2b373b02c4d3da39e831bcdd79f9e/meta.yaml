@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/31b2b373b02c4d3da39e831bcdd79f9e/artifacts
+deleted_time: 1698581238610
 end_time: 1698566870736
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 31b2b373b02c4d3da39e831bcdd79f9e
 run_name: Sport Grade Forecasting - Random Forest
 run_uuid: 31b2b373b02c4d3da39e831bcdd79f9e

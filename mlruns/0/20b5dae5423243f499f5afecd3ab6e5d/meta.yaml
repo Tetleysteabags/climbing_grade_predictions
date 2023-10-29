@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/20b5dae5423243f499f5afecd3ab6e5d/artifacts
+deleted_time: 1698581238809
 end_time: 1698239637935
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 20b5dae5423243f499f5afecd3ab6e5d
 run_name: adorable-snake-964
 run_uuid: 20b5dae5423243f499f5afecd3ab6e5d

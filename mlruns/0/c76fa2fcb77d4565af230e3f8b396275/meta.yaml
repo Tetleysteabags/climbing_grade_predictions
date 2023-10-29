@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/c76fa2fcb77d4565af230e3f8b396275/artifacts
+deleted_time: 1698581238646
 end_time: null
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: c76fa2fcb77d4565af230e3f8b396275
 run_name: nebulous-carp-610
 run_uuid: c76fa2fcb77d4565af230e3f8b396275

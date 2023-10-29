@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/5c7fab5800e8474592918b08fe94484b/artifacts
+deleted_time: 1698581238714
 end_time: 1698242675607
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 5c7fab5800e8474592918b08fe94484b
 run_name: skittish-owl-9
 run_uuid: 5c7fab5800e8474592918b08fe94484b

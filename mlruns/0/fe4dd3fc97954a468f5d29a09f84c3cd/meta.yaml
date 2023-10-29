@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/fe4dd3fc97954a468f5d29a09f84c3cd/artifacts
+deleted_time: 1698581238658
 end_time: 1698310435304
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: fe4dd3fc97954a468f5d29a09f84c3cd
 run_name: thoughtful-chimp-370
 run_uuid: fe4dd3fc97954a468f5d29a09f84c3cd

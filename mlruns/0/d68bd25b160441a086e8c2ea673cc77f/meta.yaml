@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/d68bd25b160441a086e8c2ea673cc77f/artifacts
+deleted_time: 1698581238728
 end_time: 1698241209564
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: d68bd25b160441a086e8c2ea673cc77f
 run_name: upbeat-dog-173
 run_uuid: d68bd25b160441a086e8c2ea673cc77f

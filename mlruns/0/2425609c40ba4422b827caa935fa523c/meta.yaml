@@ -1,8 +1,9 @@
 artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/2425609c40ba4422b827caa935fa523c/artifacts
+deleted_time: 1698581238640
 end_time: 1698566158366
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 2425609c40ba4422b827caa935fa523c
 run_name: masked-goose-483
 run_uuid: 2425609c40ba4422b827caa935fa523c
