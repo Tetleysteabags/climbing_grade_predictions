@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/265ac4872f374d88ab890cfb140d3d09/artifacts
+end_time: 1698566866424
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 265ac4872f374d88ab890cfb140d3d09
+run_name: Sport Grade Forecasting - Linear Regression
+run_uuid: 265ac4872f374d88ab890cfb140d3d09
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698566866384
+status: 3
+tags: []
+user_id: thomasgeorgiou

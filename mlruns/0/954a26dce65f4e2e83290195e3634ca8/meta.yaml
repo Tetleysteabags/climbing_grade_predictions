@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/954a26dce65f4e2e83290195e3634ca8/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 954a26dce65f4e2e83290195e3634ca8
+run_name: skittish-rook-589
+run_uuid: 954a26dce65f4e2e83290195e3634ca8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698567566059
+status: 1
+tags: []
+user_id: thomasgeorgiou
