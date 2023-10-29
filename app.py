@@ -42,6 +42,7 @@ st.sidebar.header("Enter your climbing stats")
 
 def user_input_features():
     bmi_score = st.sidebar.number_input("BMI score", min_value=0.0, max_value=50.0, value=25.0, step=0.1, key="bmi")
+    weight = st.sidebar.number_input("Weight (kg)", min_value=0.0, max_value=120.0, value=70.0, step=0.5, key="weight")    
     max_pullups = st.sidebar.number_input("Max pullups in single go", min_value=0.0, max_value=50.0, value=10.0, step=1.0, key="max_pullups")
     max_hang_weight = st.sidebar.number_input("Max weight added to hang for 10 seconds from a 20mm edge (kg)", min_value=0.0, max_value=100.0, value=10.0,step=0.1, key="max_hang_weight")
     max_pullup_weight = st.sidebar.number_input("Max weight added to a single pullup (kg)", min_value=0.0, max_value=100.0, value=10.0, step=0.1, key="max_pullup_weight")
@@ -52,9 +53,9 @@ def user_input_features():
     days = st.sidebar.number_input("Number of days spent climbing outside per month", min_value=0.0, max_value=31.0, value=8.0,step=1.0, key="days")
     
     # Calculate strength-to-weight ratios
-    strength_to_weight_pullup = (max_pullups + bmi_score) / bmi_score
-    strength_to_weight_maxhang = (max_hang_weight + bmi_score) / bmi_score
-    strength_to_weight_weightpull = (max_pullup_weight + bmi_score) / bmi_score
+    strength_to_weight_pullup =  max_pullups / weight
+    strength_to_weight_maxhang = max_hang_weight / weight
+    strength_to_weight_weightpull = max_pullup_weight / weight
 
     data = {
         "strength_to_weight_pullup": strength_to_weight_pullup,
