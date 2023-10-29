@@ -41,15 +41,15 @@ sport_scaler = load_pickle_from_url(sport_scaler_url)
 st.sidebar.header("Enter your climbing stats")
 
 def user_input_features():
-    bmi_score = st.sidebar.number_input("BMI score", min_value=0.0, max_value=50.0, value=25.0)
-    max_pullups = st.sidebar.number_input("Max pullups in single go", min_value=0.0, max_value=50.0, value=10.0)
-    max_hang_weight = st.sidebar.number_input("Max weight added to hang for 10 seconds from a 20mm edge (kg)", min_value=0.0, max_value=100.0, value=10.0)
-    max_pullup_weight = st.sidebar.number_input("Max weight added to a single pullup (kg)", min_value=0.0, max_value=100.0, value=10.0)
-    continuous = st.sidebar.number_input("Continuous hang from 20mm edge (seconds)", min_value=1.0, max_value=1000.0, value=30.0)
-    repeaters = st.sidebar.number_input("7:3 hangs on a 20mm edge (total time in seconds)", min_value=1.0, max_value=1000.0, value=120.0)
-    trainexp = st.sidebar.number_input("Years of specific training for climbing", min_value=1.0, max_value=50.0, value=3.0)
-    exp = st.sidebar.number_input("Years of climbing experience", min_value=0.0, max_value=50.0, value=5.0)
-    days = st.sidebar.number_input("Number of days spent climbing outside per month", min_value=0.0, max_value=31.0, value=8.0)
+    bmi_score = st.sidebar.number_input("BMI score", min_value=0.0, max_value=50.0, value=25.0, step=0.1, key="bmi")
+    max_pullups = st.sidebar.number_input("Max pullups in single go", min_value=0.0, max_value=50.0, value=10.0, step=1, key="max_pullups")
+    max_hang_weight = st.sidebar.number_input("Max weight added to hang for 10 seconds from a 20mm edge (kg)", min_value=0.0, max_value=100.0, value=10.0,step=0.1, key="max_hang_weight")
+    max_pullup_weight = st.sidebar.number_input("Max weight added to a single pullup (kg)", min_value=0.0, max_value=100.0, value=10.0, step=0.1, key="max_pullup_weight")
+    continuous = st.sidebar.number_input("Continuous hang from 20mm edge (seconds)", min_value=1.0, max_value=1000.0, value=30.0,step=1.0, key="continuous")
+    repeaters = st.sidebar.number_input("7:3 hangs on a 20mm edge (total time in seconds)", min_value=1.0, max_value=1000.0, value=120.0,step=1.0, key="repeaters")
+    trainexp = st.sidebar.number_input("Years of specific training for climbing", min_value=1.0, max_value=50.0, value=3.0,step=0.5, key="trainexp")
+    exp = st.sidebar.number_input("Years of climbing experience", min_value=0.0, max_value=50, value=5,step=0.5, key="exp")
+    days = st.sidebar.number_input("Number of days spent climbing outside per month", min_value=0, max_value=31, value=8,step=1, key="days")
     
     # Calculate strength-to-weight ratios
     strength_to_weight_pullup = (max_pullups + bmi_score) / bmi_score
