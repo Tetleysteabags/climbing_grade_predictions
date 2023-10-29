@@ -175,24 +175,22 @@ actual_sport_grade = st.text_input("Enter your actual max sport grade:")
 
 # Send feedback to MongoDB
 if st.button("Submit Feedback"):
-    strength_to_weight_pullup, strength_to_weight_maxhang, strength_to_weight_weightpull, continuous, repeaters, exp, trainexp, days = user_input_features()
-    
     feedback_data = {
-        "strength_to_weight_pullup": strength_to_weight_pullup,
-        "strength_to_weight_maxhang": strength_to_weight_maxhang,
-        "strength_to_weight_weightpull": strength_to_weight_weightpull,
-        "continuous": continuous,
-        "repeaters1": repeaters,
-        "exp": exp,
-        "trainexp": trainexp,
-        "days": days,
+        "strength_to_weight_pullup": str(strength_to_weight_pullup),
+        "strength_to_weight_maxhang": str(strength_to_weight_maxhang),
+        "strength_to_weight_weightpull": str(strength_to_weight_weightpull),
+        "continuous": str(continuous),
+        "repeaters1": str(repeaters),
+        "exp": str(exp),
+        "trainexp": str(trainexp),
+        "days": str(days),
         "predicted_bouldering_grade": str(bouldering_predicted_grade),
         "actual_bouldering_grade": str(actual_bouldering_grade),
         "predicted_sport_grade": str(sport_predicted_grade),
         "actual_sport_grade": str(actual_sport_grade)
     }
-    # call the function to connect to mongodb and upload the feedback data
+
+    # Call the function to connect to MongoDB and upload the feedback data
     collection = connect_to_mongodb()
     collection.insert_one(feedback_data)
-    st.success("Thank you for your feedback! This will be used to improve the model and future predictions")
-    
+    st.success("Thank you for your feedback! This will be used to improve the model and future predictions.")
