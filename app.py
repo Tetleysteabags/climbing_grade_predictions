@@ -167,9 +167,13 @@ st.header("Predicted Grades")
 st.subheader(f"Max Boulder Grade: {bouldering_predicted_grade}")
 st.subheader(f"Max Sport Grade: {sport_predicted_grade}")
 
+# Insert another break if needed
+st.write('<br>', unsafe_allow_html=True)
+st.markdown('---')
 
 # Collect user feedback on the sidebar
 st.header("Feedback")
+st.subheader("Enter your actual max grades below. This will be used to improve the model and future predictions.")
 actual_bouldering_grade = st.text_input("Enter your actual max bouldering grade:")
 actual_sport_grade = st.text_input("Enter your actual max sport grade:")
 
