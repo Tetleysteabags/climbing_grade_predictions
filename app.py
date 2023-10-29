@@ -41,7 +41,7 @@ sport_scaler = load_pickle_from_url(sport_scaler_url)
 st.sidebar.header("Enter your climbing stats")
 
 def user_input_features():
-    bmi_score = st.sidebar.number_input("BMI score", min_value=0.0, max_value=50.0, value=25.0, step=0.1, key="bmi")
+    height = st.sidebar.number_input("Height (cm)", min_value=0.0, max_value=300.0, value=175.0, step=1.0, key="height")
     weight = st.sidebar.number_input("Weight (kg)", min_value=0.0, max_value=120.0, value=70.0, step=0.5, key="weight")    
     max_pullups = st.sidebar.number_input("Max pullups in single go", min_value=0.0, max_value=50.0, value=10.0, step=1.0, key="max_pullups")
     max_hang_weight = st.sidebar.number_input("Max weight added to hang for 10 seconds from a 20mm edge (kg)", min_value=0.0, max_value=100.0, value=10.0,step=0.1, key="max_hang_weight")
@@ -66,6 +66,8 @@ def user_input_features():
         "exp": exp,
         "trainexp": trainexp,
         "days": days
+        "height": height,
+        "weight": weight,
     }
 
     features = pd.DataFrame(data, index=[0])
@@ -189,6 +191,8 @@ if st.button("Submit Feedback"):
         "exp": str(exp),
         "trainexp": str(trainexp),
         "days": str(days),
+        "height": str(height),
+        "weight": str(weight),
         "predicted_bouldering_grade": str(bouldering_predicted_grade),
         "actual_bouldering_grade": str(actual_bouldering_grade),
         "predicted_sport_grade": str(sport_predicted_grade),
