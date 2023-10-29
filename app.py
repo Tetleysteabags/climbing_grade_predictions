@@ -71,7 +71,7 @@ def user_input_features():
     }
 
     features = pd.DataFrame(data, index=[0])
-    return strength_to_weight_pullup, strength_to_weight_maxhang, strength_to_weight_weightpull, continuous, repeaters, exp, trainexp, days
+    return strength_to_weight_pullup, strength_to_weight_maxhang, strength_to_weight_weightpull, continuous, repeaters, exp, trainexp, days, height, weight
 
 # Create separate functions for bouldering and sport features
 # Collect bouldering-specific features here
@@ -101,7 +101,7 @@ def sport_input_features(strength_to_weight_pullup, strength_to_weight_maxhang, 
     return pd.DataFrame(data_sport, index=[0])
 
 # Get the calculated variables from user_input_features
-strength_to_weight_pullup, strength_to_weight_maxhang, strength_to_weight_weightpull, continuous, repeaters, exp, trainexp, days = user_input_features()
+strength_to_weight_pullup, strength_to_weight_maxhang, strength_to_weight_weightpull, continuous, repeaters, exp, trainexp, days, height, weight = user_input_features()
 
 # Pass them to bouldering_input_features and sport_input_features
 input_df_bouldering = bouldering_input_features(strength_to_weight_pullup, strength_to_weight_maxhang, strength_to_weight_weightpull, repeaters, trainexp, days)
