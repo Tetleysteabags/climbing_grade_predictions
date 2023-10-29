@@ -48,8 +48,8 @@ def user_input_features():
     continuous = st.sidebar.number_input("Continuous hang from 20mm edge (seconds)", min_value=1.0, max_value=1000.0, value=30.0,step=1.0, key="continuous")
     repeaters = st.sidebar.number_input("7:3 hangs on a 20mm edge (total time in seconds)", min_value=1.0, max_value=1000.0, value=120.0,step=1.0, key="repeaters")
     trainexp = st.sidebar.number_input("Years of specific training for climbing", min_value=1.0, max_value=50.0, value=3.0,step=0.5, key="trainexp")
-    exp = st.sidebar.number_input("Years of climbing experience", min_value=0.0, max_value=50, value=5,step=0.5, key="exp")
-    days = st.sidebar.number_input("Number of days spent climbing outside per month", min_value=0, max_value=31, value=8,step=1.0, key="days")
+    exp = st.sidebar.number_input("Years of climbing experience", min_value=0.0, max_value=50.0, value=5.0,step=0.5, key="exp")
+    days = st.sidebar.number_input("Number of days spent climbing outside per month", min_value=0.0, max_value=31.0, value=8.0,step=1.0, key="days")
     
     # Calculate strength-to-weight ratios
     strength_to_weight_pullup = (max_pullups + bmi_score) / bmi_score
