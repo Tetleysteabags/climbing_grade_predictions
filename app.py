@@ -65,7 +65,7 @@ def user_input_features():
         "repeaters1": repeaters,
         "exp": exp,
         "trainexp": trainexp,
-        "days": days
+        "days": days,
         "height": height,
         "weight": weight,
     }
