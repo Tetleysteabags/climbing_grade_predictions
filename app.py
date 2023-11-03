@@ -167,7 +167,7 @@ sport_predicted_grade = convert_numeric_to_f_grade(float(sport_prediction[0]))
 
 # Display the prediction for bouldering
 # Add a message to the main section of the page to inform users where to input their data
-st.markdown.header("Please open the sidebar to enter your climbing metrics.")
+st.header("Please open the sidebar to enter your climbing metrics.")
 # add a break
 st.write('<br>', unsafe_allow_html=True)
 st.markdown('---')
