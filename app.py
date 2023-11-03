@@ -25,14 +25,14 @@ def load_pickle_from_url(url):
     return pickle.loads(response.content)
 
 # Load the saved models and scaler from GitHub
-bouldering_model_url = "https://github.com/Tetleysteabags/climbing_ml_project/raw/main/best_model_rf_bouldering.pkl"
-bouldering_scaler_url = "https://github.com/Tetleysteabags/climbing_ml_project/raw/main/scaler_rf_bouldering.pkl"
+bouldering_model_url = "https://github.com/Tetleysteabags/climbing_ml_project/raw/main/best_model_gb_bouldering.pkl"
+bouldering_scaler_url = "https://github.com/Tetleysteabags/climbing_ml_project/raw/main/scaler_gb_bouldering.pkl"
 
 bouldering_model = load_pickle_from_url(bouldering_model_url)
 bouldering_scaler = load_pickle_from_url(bouldering_scaler_url)
 
 sport_model_url = "https://github.com/Tetleysteabags/climbing_ml_project/raw/main/best_model_rf_sport.pkl"
-sport_scaler_url = "https://github.com/Tetleysteabags/climbing_ml_project/raw/main/scaler_rf.pkl"
+sport_scaler_url = "https://github.com/Tetleysteabags/climbing_ml_project/raw/main/scaler_rf_sport.pkl"
 
 sport_model = load_pickle_from_url(sport_model_url)
 sport_scaler = load_pickle_from_url(sport_scaler_url)
