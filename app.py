@@ -37,8 +37,6 @@ sport_scaler_url = "https://github.com/Tetleysteabags/climbing_ml_project/raw/ma
 sport_model = load_pickle_from_url(sport_model_url)
 sport_scaler = load_pickle_from_url(sport_scaler_url)
 
-# Add a message to the main section of the page to inform users where to input their data
-st.markdown.header("Please open the sidebar to enter your climbing metrics.")
 
 # Create a sidebar for user input
 st.sidebar.header("Enter your climbing stats")
@@ -168,6 +166,12 @@ sport_prediction = sport_model.predict(scaled_features_sport)
 sport_predicted_grade = convert_numeric_to_f_grade(float(sport_prediction[0]))
 
 # Display the prediction for bouldering
+# Add a message to the main section of the page to inform users where to input their data
+st.markdown.header("Please open the sidebar to enter your climbing metrics.")
+# add a break
+st.write('<br>', unsafe_allow_html=True)
+st.markdown('---')
+
 st.header("Predicted Grades")
 st.subheader(f"Max Boulder Grade: {bouldering_predicted_grade}")
 st.subheader(f"Max Sport Grade: {sport_predicted_grade}")
