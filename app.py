@@ -31,11 +31,14 @@ bouldering_scaler_url = "https://github.com/Tetleysteabags/climbing_ml_project/r
 bouldering_model = load_pickle_from_url(bouldering_model_url)
 bouldering_scaler = load_pickle_from_url(bouldering_scaler_url)
 
-sport_model_url = "https://github.com/Tetleysteabags/climbing_ml_project/raw/main/best_model_gb_sport.pkl"
-sport_scaler_url = "https://github.com/Tetleysteabags/climbing_ml_project/raw/main/scaler_gb.pkl"
+sport_model_url = "https://github.com/Tetleysteabags/climbing_ml_project/raw/main/best_model_rf_sport.pkl"
+sport_scaler_url = "https://github.com/Tetleysteabags/climbing_ml_project/raw/main/scaler_rf.pkl"
 
 sport_model = load_pickle_from_url(sport_model_url)
 sport_scaler = load_pickle_from_url(sport_scaler_url)
+
+# Add a message to the main section of the page to inform users where to input their data
+st.markdown.header("Please open the sidebar to enter your climbing metrics.")
 
 # Create a sidebar for user input
 st.sidebar.header("Enter your climbing stats")
@@ -80,7 +83,7 @@ def bouldering_input_features(strength_to_weight_pullup, strength_to_weight_maxh
         "strength_to_weight_pullup": strength_to_weight_pullup,
         "strength_to_weight_maxhang": strength_to_weight_maxhang,
         "strength_to_weight_weightpull": strength_to_weight_weightpull,
-        "repeaters1": repeaters,
+        "continuous": continuous,
         "trainexp": trainexp,
         "days": days
     }
@@ -95,7 +98,6 @@ def sport_input_features(strength_to_weight_pullup, strength_to_weight_maxhang, 
         "continuous": continuous,
         "repeaters1": repeaters,
         "exp": exp,
-        "trainexp": trainexp,
         "days": days
     }
     return pd.DataFrame(data_sport, index=[0])
