@@ -37,6 +37,9 @@ sport_scaler_url = "https://github.com/Tetleysteabags/climbing_ml_project/raw/ma
 sport_model = load_pickle_from_url(sport_model_url)
 sport_scaler = load_pickle_from_url(sport_scaler_url)
 
+# define initial values for predicted grades
+bouldering_predicted_grade = "Unknown"
+sport_predicted_grade = "Unknown"
 
 # Create a sidebar for user input
 st.sidebar.header("Enter your climbing stats")
