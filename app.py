@@ -56,10 +56,8 @@ with st.sidebar.form(key='my_form'):
     exp = st.sidebar.number_input("Years of climbing experience", min_value=0.0, max_value=50.0, value=5.0,step=0.5, key="exp")
     days = st.sidebar.number_input("Number of days spent climbing each month", min_value=0, max_value=31, value=8,step=1, key="days")
     
-    # Create a break to separate input values from the submit button
-    st.sidebar.write('<br>', unsafe_allow_html=True)
 
-    submit_button = st.sidebar.form_submit_button(label='Submit')
+    submit_button = st.sidebar.form_submit_button(label='Submit metrics')
         
 if submit_button:
     # Calculate strength-to-weight ratios
