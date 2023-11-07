@@ -77,19 +77,19 @@ def user_input_features():
 
 # Create separate functions for bouldering and sport features
 # Collect bouldering-specific features here
-def bouldering_input_features(strength_to_weight_pullup, strength_to_weight_maxhang, strength_to_weight_weightpull,repeaters, trainexp, days):
+def bouldering_input_features(strength_to_weight_pullup, strength_to_weight_maxhang, strength_to_weight_weightpull,continuous, exp, days):
     data_bouldering = {
         "strength_to_weight_pullup": strength_to_weight_pullup,
         "strength_to_weight_maxhang": strength_to_weight_maxhang,
         "strength_to_weight_weightpull": strength_to_weight_weightpull,
         "continuous": continuous,
-        "trainexp": trainexp,
+        "exp": exp,
         "days": days
     }
     return pd.DataFrame(data_bouldering, index=[0])
 
 # Collect sport-specific features here                       
-def sport_input_features(strength_to_weight_pullup, strength_to_weight_maxhang, strength_to_weight_weightpull, continuous, repeaters, exp, trainexp, days):
+def sport_input_features(strength_to_weight_pullup, strength_to_weight_maxhang, strength_to_weight_weightpull, continuous, repeaters, exp, days):
     data_sport = {
         "strength_to_weight_pullup": strength_to_weight_pullup,
         "strength_to_weight_maxhang": strength_to_weight_maxhang,
@@ -105,8 +105,8 @@ def sport_input_features(strength_to_weight_pullup, strength_to_weight_maxhang, 
 strength_to_weight_pullup, strength_to_weight_maxhang, strength_to_weight_weightpull, continuous, repeaters, exp, trainexp, days, height, weight = user_input_features()
 
 # Pass them to bouldering_input_features and sport_input_features
-input_df_bouldering = bouldering_input_features(strength_to_weight_pullup, strength_to_weight_maxhang, strength_to_weight_weightpull, repeaters, trainexp, days)
-input_df_sport = sport_input_features(strength_to_weight_pullup, strength_to_weight_maxhang, strength_to_weight_weightpull, continuous, repeaters, exp, trainexp, days)
+input_df_bouldering = bouldering_input_features(strength_to_weight_pullup, strength_to_weight_maxhang, strength_to_weight_weightpull, repeaters, exp, days)
+input_df_sport = sport_input_features(strength_to_weight_pullup, strength_to_weight_maxhang, strength_to_weight_weightpull, continuous, repeaters, exp, days)
 
 # Apply the same preprocessing used during model training
 scaled_features_bouldering = bouldering_scaler.transform(input_df_bouldering)
