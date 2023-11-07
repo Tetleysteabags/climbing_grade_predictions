@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/a8d077127be8473f8acc850378852cc0/artifacts
+end_time: 1699351385472
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a8d077127be8473f8acc850378852cc0
+run_name: Bouldering Grade Forecasting - Linear Regression
+run_uuid: a8d077127be8473f8acc850378852cc0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699351381137
+status: 3
+tags: []
+user_id: thomasgeorgiou
