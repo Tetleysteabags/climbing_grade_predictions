@@ -1,0 +1,19 @@
+artifact_path: GradientBoostingModelBouldering
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.13
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.3.1
+mlflow_version: 2.6.0
+model_uuid: 396aff250ea84e0da80f77aa33c5fe6d
+run_id: 1ddf34a60bdd40f8bceff2eee65eee44
+utc_time_created: '2023-11-14 13:33:56.359971'
