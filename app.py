@@ -105,8 +105,8 @@ def sport_input_features(strength_to_weight_pullup, strength_to_weight_maxhang, 
 strength_to_weight_pullup, strength_to_weight_maxhang, strength_to_weight_weightpull, continuous, exp, days, height, weight = user_input_features()
 
 # Pass them to bouldering_input_features and sport_input_features
-input_df_bouldering = bouldering_input_features(strength_to_weight_pullup, strength_to_weight_maxhang, strength_to_weight_weightpull,  exp, days)
-input_df_sport = sport_input_features(strength_to_weight_pullup, strength_to_weight_maxhang, strength_to_weight_weightpull, continuous, exp, days)
+input_df_bouldering = bouldering_input_features(strength_to_weight_pullup, strength_to_weight_maxhang, strength_to_weight_weightpull, exp, days, continuous)
+input_df_sport = sport_input_features(strength_to_weight_pullup, strength_to_weight_maxhang, strength_to_weight_weightpull, continuous, exp, days,continuous)
 
 # Apply the same preprocessing used during model training
 scaled_features_bouldering = bouldering_scaler.transform(input_df_bouldering)
