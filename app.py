@@ -48,8 +48,8 @@ def user_input_features():
     max_hang_weight = st.sidebar.number_input("Max weight added to hang for 10 seconds from a 20mm edge (kg)", min_value=0.0, max_value=100.0, value=10.0,step=0.1, key="max_hang_weight")
     max_pullup_weight = st.sidebar.number_input("Max weight added to a single pullup (kg)", min_value=0.0, max_value=100.0, value=10.0, step=0.5, key="max_pullup_weight")
     continuous = st.sidebar.number_input("Continuous hang from 20mm edge (seconds)", min_value=1, max_value=1000, value=30,step=1, key="continuous")
-    repeaters = st.sidebar.number_input("7:3 hangs on a 20mm edge (total time in seconds)", min_value=1, max_value=1000, value=120,step=1, key="repeaters")
-    trainexp = st.sidebar.number_input("Years of specific training for climbing", min_value=1.0, max_value=50.0, value=3.0,step=0.5, key="trainexp")
+    # repeaters = st.sidebar.number_input("7:3 hangs on a 20mm edge (total time in seconds)", min_value=1, max_value=1000, value=120,step=1, key="repeaters")
+    # trainexp = st.sidebar.number_input("Years of specific training for climbing", min_value=1.0, max_value=50.0, value=3.0,step=0.5, key="trainexp")
     exp = st.sidebar.number_input("Years of climbing experience", min_value=0.0, max_value=50.0, value=5.0,step=0.5, key="exp")
     days = st.sidebar.number_input("Number of days spent climbing each month", min_value=0, max_value=31, value=8,step=1, key="days")
     
@@ -64,16 +64,16 @@ def user_input_features():
         "strength_to_weight_maxhang": strength_to_weight_maxhang,
         "strength_to_weight_weightpull": strength_to_weight_weightpull,
         "continuous": continuous,
-        "repeaters1": repeaters,
+        # "repeaters1": repeaters,
         "exp": exp,
-        "trainexp": trainexp,
+        # "trainexp": trainexp,
         "days": days,
         "height": height,
         "weight": weight,
     }
 
     features = pd.DataFrame(data, index=[0])
-    return strength_to_weight_pullup, strength_to_weight_maxhang, strength_to_weight_weightpull, continuous, repeaters, exp, trainexp, days, height, weight
+    return strength_to_weight_pullup, strength_to_weight_maxhang, strength_to_weight_weightpull, continuous, exp, days, height, weight
 
 # Create separate functions for bouldering and sport features
 # Collect bouldering-specific features here
@@ -82,9 +82,9 @@ def bouldering_input_features(strength_to_weight_pullup, strength_to_weight_maxh
         "strength_to_weight_pullup": strength_to_weight_pullup,
         "strength_to_weight_maxhang": strength_to_weight_maxhang,
         "strength_to_weight_weightpull": strength_to_weight_weightpull,
-        "continuous": continuous,
         "exp": exp,
-        "days": days
+        "days": days,
+        "continuous": continuous
     }
     return pd.DataFrame(data_bouldering, index=[0])
 
@@ -94,19 +94,19 @@ def sport_input_features(strength_to_weight_pullup, strength_to_weight_maxhang, 
         "strength_to_weight_pullup": strength_to_weight_pullup,
         "strength_to_weight_maxhang": strength_to_weight_maxhang,
         "strength_to_weight_weightpull": strength_to_weight_weightpull,
-        "continuous": continuous,
-        "repeaters1": repeaters,
+        # "repeaters1": repeaters,
         "exp": exp,
-        "days": days
+        "days": days,
+        "continuous": continuous
     }
     return pd.DataFrame(data_sport, index=[0])
 
 # Get the calculated variables from user_input_features
-strength_to_weight_pullup, strength_to_weight_maxhang, strength_to_weight_weightpull, continuous, repeaters, exp, trainexp, days, height, weight = user_input_features()
+strength_to_weight_pullup, strength_to_weight_maxhang, strength_to_weight_weightpull, continuous, exp, days, height, weight = user_input_features()
 
 # Pass them to bouldering_input_features and sport_input_features
-input_df_bouldering = bouldering_input_features(strength_to_weight_pullup, strength_to_weight_maxhang, strength_to_weight_weightpull, repeaters, exp, days)
-input_df_sport = sport_input_features(strength_to_weight_pullup, strength_to_weight_maxhang, strength_to_weight_weightpull, continuous, repeaters, exp, days)
+input_df_bouldering = bouldering_input_features(strength_to_weight_pullup, strength_to_weight_maxhang, strength_to_weight_weightpull,  exp, days)
+input_df_sport = sport_input_features(strength_to_weight_pullup, strength_to_weight_maxhang, strength_to_weight_weightpull, continuous, exp, days)
 
 # Apply the same preprocessing used during model training
 scaled_features_bouldering = bouldering_scaler.transform(input_df_bouldering)
@@ -194,9 +194,9 @@ if st.button("Submit Feedback"):
         "strength_to_weight_maxhang": str(strength_to_weight_maxhang),
         "strength_to_weight_weightpull": str(strength_to_weight_weightpull),
         "continuous": str(continuous),
-        "repeaters1": str(repeaters),
+        # "repeaters1": str(repeaters),
         "exp": str(exp),
-        "trainexp": str(trainexp),
+        # "trainexp": str(trainexp),
         "days": str(days),
         "height": str(height),
         "weight": str(weight),
