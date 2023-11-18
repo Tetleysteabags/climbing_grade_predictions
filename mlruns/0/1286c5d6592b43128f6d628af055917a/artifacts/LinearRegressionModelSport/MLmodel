@@ -1,0 +1,19 @@
+artifact_path: LinearRegressionModelSport
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.13
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.3.1
+mlflow_version: 2.6.0
+model_uuid: e5a48862cbe443639399ecdba1e2ea78
+run_id: 1286c5d6592b43128f6d628af055917a
+utc_time_created: '2023-11-18 11:21:04.436614'
