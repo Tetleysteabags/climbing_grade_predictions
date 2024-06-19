@@ -1,0 +1,19 @@
+artifact_path: RandomForestModelBouldering
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.9.6
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.3.1
+mlflow_version: 2.6.0
+model_uuid: dc903fd010434299ae08b85508a56821
+run_id: c7c1166f107848b0bd57c425f386c9eb
+utc_time_created: '2024-06-19 13:12:03.960700'

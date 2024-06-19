@@ -1,2 +1,21 @@
-.streamlit/secrets.toml
-PowerCompanyAssessmentData.csv
+# .gitignore
+
+# Python
+__pycache__/
+*.pyc
+
+# Streamlit
+.streamlit/
+
+# Ignore any virtual environments
+venv/
+env/
+.venv/
+
+# Ignore data files and sensitive information
+original_data_files/
+secrets.toml
+
+# Ignore compiled Python files
+*.pyc
+*.pyo
