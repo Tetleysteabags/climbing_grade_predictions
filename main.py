@@ -5,10 +5,10 @@ from models import get_predictions, prepare_input_features
 from grade_conversions import convert_numeric_to_v_grade, convert_numeric_to_f_grade
 
 # Load models and scalers
-bouldering_model_url = "pkl_files/best_model_rf_bouldering_newdata.pkl"
-bouldering_scaler_url = "pkl_files/scaler_rf_bouldering_newdata.pkl"
-sport_model_url = "pkl_files/best_model_rf_sport_newdata.pkl"
-sport_scaler_url = "pkl_files/scaler_rf_sport_newdata.pkl"
+bouldering_model_url = "https://github.com/Tetleysteabags/climbing_grade_predictions/blob/main/pkl_files/best_model_rf_bouldering_newdata.pkl"
+bouldering_scaler_url = "https://github.com/Tetleysteabags/climbing_grade_predictions/blob/main/pkl_files/scaler_rf_bouldering_newdata.pkl"
+sport_model_url = "https://github.com/Tetleysteabags/climbing_grade_predictions/blob/main/pkl_files/best_model_rf_sport_newdata.pkl"
+sport_scaler_url = "https://github.com/Tetleysteabags/climbing_grade_predictions/blob/main/pkl_files/scaler_rf_sport_newdata.pkl"
 
 bouldering_model = load_pickle_from_url(bouldering_model_url)
 bouldering_scaler = load_pickle_from_url(bouldering_scaler_url)
