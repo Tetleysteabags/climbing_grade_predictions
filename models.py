@@ -9,7 +9,7 @@ def prepare_input_features(sidebar):
     continuous = sidebar.number_input("Continuous hang from 20mm edge (seconds)", min_value=1, max_value=1000, value=30, step=1, key="continuous")
     repeaters = sidebar.number_input("Continuous time hanging from 20mm edge, 7 seconds on, 3 seconds rest (seconds)", min_value=0.0, max_value=100.0, value=10.0, step=0.1, key="repeaters1")
     exp = sidebar.number_input("Years of climbing experience", min_value=0.0, max_value=50.0, value=5.0, step=0.5, key="exp")
-    days = sidebar.number_input("Number of days spent climbing each month", min_value=0, max_value=31, value=8, step=1, key="days")
+    # days = sidebar.number_input("Number of days spent climbing each month", min_value=0, max_value=31, value=8, step=1, key="days")
 
     strength_to_weight_pullup = max_pullups / weight
     strength_to_weight_maxhang = (max_hang_weight + weight) / weight
@@ -19,10 +19,10 @@ def prepare_input_features(sidebar):
         "strength_to_weight_pullup": strength_to_weight_pullup,
         "strength_to_weight_maxhang": strength_to_weight_maxhang,
         "strength_to_weight_weightpull": strength_to_weight_weightpull,
-        "continuous": continuous,
-        "repeaters1": repeaters,
         "exp": exp,
-        "days": days
+        # "days": days,
+        "continuous": continuous,
+        "repeaters1": repeaters
         # "height": height,
         # "weight": weight,
     }

@@ -1,0 +1,19 @@
+artifact_path: RandomForestModelSport
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.9.6
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.3.1
+mlflow_version: 2.6.0
+model_uuid: 831c3a3b41e1459db0985ca98d59e191
+run_id: a882a92d1fe24e2e90616303adc21265
+utc_time_created: '2024-06-20 08:39:45.336712'
