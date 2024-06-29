@@ -26,6 +26,8 @@ jobs:
       - name: Fetch new feedback data
         run: |
           python mongodb.py
+        env:
+          MONGO_CONN_STR: ${{ secrets.MONGO_CONN_STR }}
 
       - name: Retrain model
         run: |
