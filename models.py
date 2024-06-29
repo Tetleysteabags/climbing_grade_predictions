@@ -1,6 +1,16 @@
 import pandas as pd
 
 def prepare_input_features(sidebar):
+    """
+    Prepare input features for climbing ML project.
+
+    Args:
+        sidebar: The sidebar object used for user input.
+
+    Returns:
+        A pandas DataFrame containing the input features.
+
+    """
     height = sidebar.number_input("Height (cm)", min_value=0, max_value=300, value=175, step=1, key="height")
     weight = sidebar.number_input("Weight (kg)", min_value=0.0, max_value=120.0, value=70.0, step=0.5, key="weight")
     max_pullups = sidebar.number_input("Max pullups in single go", min_value=0, max_value=100, value=10, step=1, key="max_pullups")
