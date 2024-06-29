@@ -14,13 +14,14 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: '20' # Specify the Node.js version here since we need to use the GitHub CLI and Node.js 16 is deprecated
+          node-version: '20' 
+          # Specify the Node.js version here since we need to use the GitHub CLI and Node.js 16 is deprecated
 
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
 
       - name: Set up Python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v4
         with:
           python-version: 3.8
 
