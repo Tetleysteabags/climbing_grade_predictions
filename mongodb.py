@@ -2,20 +2,12 @@ import pymongo
 import pandas as pd
 import streamlit as st
 import subprocess
-
+import os
 import pymongo
 import streamlit as st
 
 def connect_to_mongodb():
-    """
-    Connects to MongoDB and returns the collection and client objects.
-
-    Returns:
-        collection (pymongo.collection.Collection): The MongoDB collection object.
-        client (pymongo.MongoClient): The MongoDB client object.
-    """
-    secrets = st.secrets["mongo"]
-    conn_str = secrets["conn_str"]
+    conn_str = os.getenv("MONGO_CONN_STR")
     client = pymongo.MongoClient(conn_str)
     db = client.ClimbingGradeFeedback
     collection = db.ClimbingFeedbackStreamlit

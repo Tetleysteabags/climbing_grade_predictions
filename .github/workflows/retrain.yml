@@ -10,6 +10,12 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '20' # Specify the Node.js version here since we need to use the GitHub CLI and Node.js 16 is deprecated
+
       - name: Checkout repository
         uses: actions/checkout@v2
 
