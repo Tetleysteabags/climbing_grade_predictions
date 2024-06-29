@@ -7,6 +7,15 @@ conversion_map_boulder = {
 inverse_conversion_map_v = {v: k for k, v in conversion_map_boulder.items()}
 
 def convert_numeric_to_v_grade(numeric_grade):
+    """
+    Converts a numeric grade to a V-grade in climbing.
+
+    Parameters:
+    numeric_grade (int): The numeric grade to be converted.
+
+    Returns:
+    str: The corresponding V-grade in climbing. If the numeric grade is not found in the conversion map, "Unknown grade" is returned.
+    """
     numeric_grade = round(numeric_grade)
     return inverse_conversion_map_v.get(numeric_grade, "Unknown grade")
 
@@ -20,5 +29,14 @@ conversion_map_french = {
 inverse_conversion_map_f = {v: k for k, v in conversion_map_french.items()}
 
 def convert_numeric_to_f_grade(numeric_grade):
+    """
+    Converts a numeric grade to an F grade.
+
+    Parameters:
+    numeric_grade (float): The numeric grade to be converted.
+
+    Returns:
+    str: The corresponding F grade or "Unknown grade" if the conversion is not found.
+    """
     numeric_grade = round(numeric_grade)
     return inverse_conversion_map_f.get(numeric_grade, "Unknown grade")
