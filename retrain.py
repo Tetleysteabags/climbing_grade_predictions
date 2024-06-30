@@ -6,11 +6,22 @@ def check_columns(df, required_columns):
     missing_columns = [col for col in required_columns if col not in df.columns]
     if missing_columns:
         raise KeyError(f"Missing columns in DataFrame: {missing_columns}")
+    
+def rename_columns(df, old_columns, new_columns):
+    for old_col, new_col in zip(old_columns, new_columns):
+        if old_col in df.columns:
+            df.rename(columns={old_col: new_col}, inplace=True)
 
 def retrain_model(model_path, existing_data_path, new_data_path, grade_column):
     model = joblib.load(model_path)
     existing_data = pd.read_csv(existing_data_path)
     new_feedback_data = pd.read_csv(new_data_path)
+    
+    # Rename columns if needed
+    rename_columns(existing_data, ['actual_bouldering_grade'], ['max_boulder_numeric'])
+    rename_columns(new_feedback_data, ['actual_bouldering_grade'], ['max_boulder_numeric'])
+    rename_columns(existing_data, ['actual_sport_grade'], ['max_sport_numeric'])
+    rename_columns(new_feedback_data, ['actual_sport_grade'], ['max_sport_numeric'])
     
     # Required columns
     required_columns = ['strength_to_weight_pullup', 'strength_to_weight_maxhang', 'strength_to_weight_weightpull', 
