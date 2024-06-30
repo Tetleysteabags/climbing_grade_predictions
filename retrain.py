@@ -31,7 +31,6 @@ def retrain_model(model_path, existing_data_path, new_data_path, grade_column):
     rename_columns(new_feedback_data, ['actual_sport_grade'], ['max_sport_numeric'])
     
     # Apply grade conversions
-    apply_grade_conversions(existing_data)
     apply_grade_conversions(new_feedback_data)
     
     # Required columns
