@@ -50,7 +50,7 @@ def retrain_model(model_path, existing_data_path, new_data_path, grade_column):
 bouldering_model_path = "pkl_files/best_model_rf_bouldering_newdata.pkl"
 bouldering_existing_data_path = "training_data/data_filtered_bouldering_new.csv"
 bouldering_new_data_path = "training_data/new_feedback.csv"
-bouldering_grade_column = 'actual_bouldering_grade'
+bouldering_grade_column = 'max_boulder_numeric'
 
 # Fetch new feedback data from MongoDB and save to CSV
 fetch_feedback_data(save_to_csv=True, csv_path=bouldering_new_data_path)
@@ -62,7 +62,7 @@ retrain_model(bouldering_model_path, bouldering_existing_data_path, bouldering_n
 sport_model_path = "pkl_files/best_model_rf_sport_newdata.pkl"
 sport_existing_data_path = "training_data/data_filtered_sport_new.csv"
 sport_new_data_path = "training_data/new_feedback.csv"
-sport_grade_column = 'actual_sport_grade'
+sport_grade_column = 'max_sport_numeric'
 
 # Fetch new feedback data from MongoDB and save to CSV
 fetch_feedback_data(save_to_csv=True, csv_path=sport_new_data_path)
