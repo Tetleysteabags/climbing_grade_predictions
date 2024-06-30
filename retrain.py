@@ -12,12 +12,18 @@ def retrain_model(model_path, existing_data_path, new_data_path, grade_column):
     existing_data = pd.read_csv(existing_data_path)
     new_feedback_data = pd.read_csv(new_data_path)
     
+    # Required columns
+    required_columns = ['strength_to_weight_pullup', 'strength_to_weight_maxhang', 'strength_to_weight_weightpull', 
+                        'exp', 'continuous', 'repeaters1', grade_column]
+    
+    # Include only the required columns
+    existing_data = existing_data[required_columns]
+    new_feedback_data = new_feedback_data[required_columns]
+    
     # Concatenate existing data with new feedback data
     all_data = pd.concat([existing_data, new_feedback_data], ignore_index=True)
     
     # Check if required columns exist
-    required_columns = ['strength_to_weight_pullup', 'strength_to_weight_maxhang', 'strength_to_weight_weightpull', 
-                        'exp', 'continuous', 'repeaters1', grade_column]
     check_columns(all_data, required_columns)
     
     # Separate features and target
