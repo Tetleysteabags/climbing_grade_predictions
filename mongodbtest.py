@@ -27,7 +27,24 @@ def connect_to_mongodb():
         print(f"Unexpected error: {e}")
         raise
 
+def fetch_feedback_data():
+    try:
+        collection, client = connect_to_mongodb()
+        cursor = collection.find()
+        df = pd.DataFrame(list(cursor))
+        client.close()
+        print("Data fetched successfully")
+        return df
+    except Exception as e:
+        print("Error fetching data from MongoDB:", e)
+        return pd.DataFrame()
+
 if __name__ == "__main__":
     load_secrets()  # Load secrets from the toml file
     collection, client = connect_to_mongodb()
     print("Connected to MongoDB successfully")
+    
+    # Fetch data and print DataFrame
+    feedback_df = fetch_feedback_data()
+    print("Fetched DataFrame:")
+    print(feedback_df)
