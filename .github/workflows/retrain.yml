@@ -10,12 +10,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '20' 
-          # Specify the Node.js version here since we need to use the GitHub CLI and Node.js 16 is deprecated
+          node-version: '20'
 
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -39,13 +37,12 @@ jobs:
       - name: Retrain model
         run: |
           python retrain.py
+        env:
+          MONGO_CONN_STR: ${{ secrets.MONGO_CONN_STR }}
 
       - name: Commit and push changes
         run: |
           git config --global user.name 'github-actions'
           git config --global user.email 'github-actions@github.com'
           git add pkl_files/*.pkl
-          git commit -m 'Retrain model with new feedback'
-          git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          git commit -m 'Retrain model with ne
