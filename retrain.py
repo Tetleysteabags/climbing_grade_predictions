@@ -1,6 +1,7 @@
 import pandas as pd
 import joblib
 from mongodb import fetch_feedback_data
+from grade_conversions import convert_numeric_to_f_grade, convert_numeric_to_v_grade
 
 def check_columns(df, required_columns):
     missing_columns = [col for col in required_columns if col not in df.columns]
@@ -11,6 +12,12 @@ def rename_columns(df, old_columns, new_columns):
     for old_col, new_col in zip(old_columns, new_columns):
         if old_col in df.columns:
             df.rename(columns={old_col: new_col}, inplace=True)
+            
+def apply_grade_conversions(df):
+    if 'max_sport_numeric' in df.columns:
+        df['max_sport_french'] = df['max_sport_numeric'].apply(convert_numeric_to_f_grade)
+    if 'max_boulder_numeric' in df.columns:
+        df['max_boulder_french'] = df['max_boulder_numeric'].apply(convert_numeric_to_v_grade)
 
 def retrain_model(model_path, existing_data_path, new_data_path, grade_column):
     model = joblib.load(model_path)
@@ -22,6 +29,10 @@ def retrain_model(model_path, existing_data_path, new_data_path, grade_column):
     rename_columns(new_feedback_data, ['actual_bouldering_grade'], ['max_boulder_numeric'])
     rename_columns(existing_data, ['actual_sport_grade'], ['max_sport_numeric'])
     rename_columns(new_feedback_data, ['actual_sport_grade'], ['max_sport_numeric'])
+    
+    # Apply grade conversions
+    apply_grade_conversions(existing_data)
+    apply_grade_conversions(new_feedback_data)
     
     # Required columns
     required_columns = ['strength_to_weight_pullup', 'strength_to_weight_maxhang', 'strength_to_weight_weightpull', 
