@@ -25,22 +25,15 @@ def fetch_feedback_data(save_to_csv=False, csv_path=None):
         cursor = collection.find()
         df = pd.DataFrame(list(cursor))
         client.close()
-        
-        if df.empty:
-            print("Fetched data is empty.")
-        else:
-            print("Data fetched successfully")
+        print("Data fetched successfully")
         
         if save_to_csv and csv_path:
             df.to_csv(csv_path, index=False)
             print(f"Data saved to {csv_path}")
         
         return df
-    except pymongo.errors.PyMongoError as e:
-        print(f"Error fetching data from MongoDB: {e}")
-        return pd.DataFrame()
     except Exception as e:
-        print(f"Unexpected error: {e}")
+        print("Error fetching data from MongoDB:", e)
         return pd.DataFrame()
 
 if __name__ == "__main__":
