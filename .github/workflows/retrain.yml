@@ -46,3 +46,4 @@ jobs:
           git config --global user.email 'github-actions@github.com'
           git add pkl_files/*.pkl
           git commit -m 'Retrain model with new data'
+          git push orgin main
