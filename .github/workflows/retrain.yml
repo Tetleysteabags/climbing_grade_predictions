@@ -40,6 +40,12 @@ jobs:
         env:
           MONGO_CONN_STR: ${{ secrets.MONGO_CONN_STR }}
 
+      - name: Debug file existence
+        run: |
+          echo "Checking if files exist after retraining..."
+          ls -l training_data/
+          ls -l pkl_files/
+
       - name: Commit and push changes
         uses: EndBug/add-and-commit@v9
         with:
@@ -47,5 +53,6 @@ jobs:
           author_email: 'github-actions@github.com'
           message: 'Retrain model with new data and update all data'
           add: 'pkl_files/*.pkl, training_data/all_data_bouldering.csv, training_data/all_data_sport.csv'
+          push: true
         env:
           GITHUB_TOKEN: ${{ secrets.GH_PAT }}
