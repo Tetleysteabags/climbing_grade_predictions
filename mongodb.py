@@ -1,7 +1,6 @@
 import os
 import pymongo
 import pandas as pd
-import streamlit as st
 
 def connect_to_mongodb():
     try:
