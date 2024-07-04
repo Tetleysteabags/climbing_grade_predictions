@@ -41,11 +41,11 @@ jobs:
           MONGO_CONN_STR: ${{ secrets.MONGO_CONN_STR }}
 
       - name: Commit and push changes
-        run: |
-          git config --global user.name 'github-actions'
-          git config --global user.email 'github-actions@github.com'
-          git add pkl_files/*.pkl
-          git add training_data/all_data_bouldering.csv
-          git add training_data/all_data_sport.csv
-          git commit -m 'Retrain model with new data and update all data'
-          git push https://github-actions:${{ secrets.GH_PAT }}@github.com/Tetleysteabags/climbing_grade_predictions.git HEAD:main
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: 'github-actions'
+          author_email: 'github-actions@github.com'
+          message: 'Retrain model with new data and update all data'
+          add: 'pkl_files/*.pkl, training_data/all_data_bouldering.csv, training_data/all_data_sport.csv'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
