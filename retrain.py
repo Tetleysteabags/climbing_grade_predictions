@@ -15,9 +15,9 @@ def rename_columns(df, old_columns, new_columns):
             
 def apply_grade_conversions(df):
     if 'max_sport_numeric' in df.columns:
-        df['max_sport_french'] = df['max_sport_numeric'].apply(convert_f_grade_to_numeric)
+        df['max_sport_numeric'] = df['max_sport_numeric'].apply(convert_f_grade_to_numeric)
     if 'max_boulder_numeric' in df.columns:
-        df['max_boulder_french'] = df['max_boulder_numeric'].apply(convert_v_grade_to_numeric)
+        df['max_boulder_numeric'] = df['max_boulder_numeric'].apply(convert_v_grade_to_numeric)
 
 def retrain_model(model_path, existing_data_path, new_data_path, grade_column):
     model = joblib.load(model_path)
