@@ -26,7 +26,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install -r requirements.txt
+          pip install pymongo pandas joblib
 
       - name: Fetch new feedback data
         run: |
@@ -47,5 +47,5 @@ jobs:
           git add pkl_files/*.pkl
           git add training_data/all_data_bouldering.csv
           git add training_data/all_data_sport.csv
-          git commit -m 'Retrain model with new data and upload new feedback data'
+          git commit -m 'Retrain model with new data and update all data'
           git push https://github-actions:${{ secrets.GH_PAT }}@github.com/Tetleysteabags/climbing_grade_predictions.git HEAD:main
