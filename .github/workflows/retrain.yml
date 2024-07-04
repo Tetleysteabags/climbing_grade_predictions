@@ -48,4 +48,4 @@ jobs:
           git add training_data/all_data_bouldering.csv
           git add training_data/all_data_sport.csv
           git commit -m 'Retrain model with new data and upload new feedback data'
-          git push orgin main
+          git push origin main
