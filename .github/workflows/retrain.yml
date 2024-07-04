@@ -48,4 +48,4 @@ jobs:
           git add training_data/all_data_bouldering.csv
           git add training_data/all_data_sport.csv
           git commit -m 'Retrain model with new data and upload new feedback data'
-          git push origin main
+          git push https://github-actions:${{ secrets.GH_PAT }}@github.com/Tetleysteabags/climbing_grade_predictions.git HEAD:main
