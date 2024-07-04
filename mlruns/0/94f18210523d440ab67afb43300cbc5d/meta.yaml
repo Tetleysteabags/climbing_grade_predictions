@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/94f18210523d440ab67afb43300cbc5d/artifacts
+end_time: 1720092082968
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 94f18210523d440ab67afb43300cbc5d
+run_name: Bouldering Grade Forecasting New Data - Stacked Model
+run_uuid: 94f18210523d440ab67afb43300cbc5d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720092046831
+status: 4
+tags: []
+user_id: thomasgeorgiou

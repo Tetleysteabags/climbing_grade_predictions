@@ -45,5 +45,7 @@ jobs:
           git config --global user.name 'github-actions'
           git config --global user.email 'github-actions@github.com'
           git add pkl_files/*.pkl
-          git commit -m 'Retrain model with new data'
+          git add training_data/all_data_bouldering.csv
+          git add training_data/all_data_sport.csv
+          git commit -m 'Retrain model with new data and upload new feedback data'
           git push orgin main

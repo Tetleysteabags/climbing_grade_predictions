@@ -19,7 +19,7 @@ def apply_grade_conversions(df):
     if 'max_boulder_numeric' in df.columns:
         df['max_boulder_numeric'] = df['max_boulder_numeric'].apply(convert_v_grade_to_numeric)
 
-def retrain_model(model_path, existing_data_path, new_data_path, grade_column):
+def retrain_model(model_path, existing_data_path, new_data_path, grade_column, all_data_path):
     model = joblib.load(model_path)
     existing_data = pd.read_csv(existing_data_path)
     new_feedback_data = pd.read_csv(new_data_path)
@@ -44,6 +44,10 @@ def retrain_model(model_path, existing_data_path, new_data_path, grade_column):
     # Concatenate existing data with new feedback data
     all_data = pd.concat([existing_data, new_feedback_data], ignore_index=True)
     
+    # Save the concatenated data to a CSV file in the GitHub training_data folder
+    all_data.to_csv(all_data_path, index=False)
+    print(f"Concatenated data saved to: {all_data_path}")
+    
     # Check if required columns exist
     check_columns(all_data, required_columns)
     
@@ -60,22 +64,24 @@ def retrain_model(model_path, existing_data_path, new_data_path, grade_column):
 bouldering_model_path = "pkl_files/best_model_rf_bouldering_newdata.pkl"
 bouldering_existing_data_path = "training_data/data_filtered_bouldering_new.csv"
 bouldering_new_data_path = "training_data/new_feedback.csv"
+bouldering_all_data_path = "training_data/all_data_bouldering.csv"
 bouldering_grade_column = 'max_boulder_numeric'
 
 # Fetch new feedback data from MongoDB and save to CSV
 fetch_feedback_data(save_to_csv=True, csv_path=bouldering_new_data_path)
 
 # Retrain the bouldering model
-retrain_model(bouldering_model_path, bouldering_existing_data_path, bouldering_new_data_path, bouldering_grade_column)
+retrain_model(bouldering_model_path, bouldering_existing_data_path, bouldering_new_data_path, bouldering_grade_column, bouldering_all_data_path)
 
 # Similarly, you can retrain the sport model
 sport_model_path = "pkl_files/best_model_rf_sport_newdata.pkl"
 sport_existing_data_path = "training_data/data_filtered_sport_new.csv"
 sport_new_data_path = "training_data/new_feedback.csv"
+sport_all_data_path = "training_data/all_data_sport.csv"
 sport_grade_column = 'max_sport_numeric'
 
 # Fetch new feedback data from MongoDB and save to CSV
 fetch_feedback_data(save_to_csv=True, csv_path=sport_new_data_path)
 
 # Retrain the sport model
-retrain_model(sport_model_path, sport_existing_data_path, sport_new_data_path, sport_grade_column)
+retrain_model(sport_model_path, sport_existing_data_path, sport_new_data_path, sport_grade_column, sport_all_data_path)
