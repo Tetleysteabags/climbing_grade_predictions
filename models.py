@@ -12,13 +12,13 @@ def prepare_input_features(sidebar):
 
     """
     height = sidebar.number_input("Height (cm)", min_value=0, max_value=300, value=175, step=1, key="height")
-    weight = sidebar.number_input("Weight (kg)", min_value=0.0, max_value=120.0, value=70.0, step=0.5, key="weight")
-    max_pullups = sidebar.number_input("Max pullups in single go", min_value=0, max_value=100, value=10, step=1, key="max_pullups")
-    max_hang_weight = sidebar.number_input("Max weight added to hang for 10 seconds from a 20mm edge (kg)", min_value=0.0, max_value=100.0, value=10.0, step=0.1, key="max_hang_weight")
-    max_pullup_weight = sidebar.number_input("Max weight added to a single pullup (kg)", min_value=0.0, max_value=100.0, value=10.0, step=0.5, key="max_pullup_weight")
+    weight = sidebar.number_input("Weight (kg)", min_value=0.0, max_value=200.0, value=70.0, step=0.5, key="weight")
+    max_pullups = sidebar.number_input("Max pullups in single go", min_value=0, max_value=200, value=10, step=1, key="max_pullups")
+    max_hang_weight = sidebar.number_input("Max weight added to hang for 10 seconds from a 20mm edge (kg)", min_value=0.0, max_value=200.0, value=10.0, step=0.1, key="max_hang_weight")
+    max_pullup_weight = sidebar.number_input("Max weight added to a single pullup (kg)", min_value=0.0, max_value=200.0, value=10.0, step=0.5, key="max_pullup_weight")
     continuous = sidebar.number_input("Continuous hang from 20mm edge (seconds)", min_value=1, max_value=1000, value=30, step=1, key="continuous")
-    repeaters = sidebar.number_input("Continuous time hanging from 20mm edge, 7 seconds on, 3 seconds rest (seconds)", min_value=0.0, max_value=100.0, value=10.0, step=0.1, key="repeaters1")
-    exp = sidebar.number_input("Years of climbing experience", min_value=0.0, max_value=50.0, value=5.0, step=0.5, key="exp")
+    repeaters = sidebar.number_input("Continuous time hanging from 20mm edge, 7 seconds on, 3 seconds rest (seconds)", min_value=0.0, max_value=1000.0, value=10.0, step=0.1, key="repeaters1")
+    exp = sidebar.number_input("Years of climbing experience", min_value=0.0, max_value=70.0, value=5.0, step=0.5, key="exp")
     # days = sidebar.number_input("Number of days spent climbing each month", min_value=0, max_value=31, value=8, step=1, key="days")
 
     strength_to_weight_pullup = max_pullups / weight

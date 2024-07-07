@@ -50,7 +50,10 @@ def retrain_model(model_path, existing_data_path, new_data_path, grade_column, a
     
     # Check if required columns exist
     check_columns(all_data, required_columns)
-    
+
+    model = load_pickle_from_url(model_url)
+    scaler = load_pickle_from_url(scaler_url)
+
     # Separate features and target
     X = all_data.drop(grade_column, axis=1)
     y = all_data[grade_column]
@@ -61,7 +64,8 @@ def retrain_model(model_path, existing_data_path, new_data_path, grade_column, a
     print(f"Model retrained and saved to {model_path}")
 
 # Paths to your model and data files
-bouldering_model_path = "pkl_files/best_model_rf_bouldering_newdata.pkl"
+bouldering_model_path = "https://raw.githubusercontent.com/Tetleysteabags/climbing_grade_predictions/main/pkl_files/best_model_gb_bouldering_newdata.pkl"
+bouldering_scaler_url = "https://raw.githubusercontent.com/Tetleysteabags/climbing_grade_predictions/main/pkl_files/scaler_gb_bouldering_newdata.pkl"
 bouldering_existing_data_path = "training_data/data_filtered_bouldering_new.csv"
 bouldering_new_data_path = "training_data/new_feedback.csv"
 bouldering_all_data_path = "training_data/all_data_bouldering.csv"
@@ -74,7 +78,8 @@ fetch_feedback_data(save_to_csv=True, csv_path=bouldering_new_data_path)
 retrain_model(bouldering_model_path, bouldering_existing_data_path, bouldering_new_data_path, bouldering_grade_column, bouldering_all_data_path)
 
 # Similarly, you can retrain the sport model
-sport_model_path = "pkl_files/best_model_rf_sport_newdata.pkl"
+sport_model_path = "https://raw.githubusercontent.com/Tetleysteabags/climbing_grade_predictions/main/pkl_files/best_model_rf_sport_newdata.pkl"
+sport_scaler_url = "https://raw.githubusercontent.com/Tetleysteabags/climbing_grade_predictions/main/pkl_files/scaler_rf_sport_newdata.pkl"
 sport_existing_data_path = "training_data/data_filtered_sport_new.csv"
 sport_new_data_path = "training_data/new_feedback.csv"
 sport_all_data_path = "training_data/all_data_sport.csv"

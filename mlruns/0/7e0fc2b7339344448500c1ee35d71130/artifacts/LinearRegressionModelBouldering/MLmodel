@@ -1,0 +1,19 @@
+artifact_path: LinearRegressionModelBouldering
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.9.6
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.3.1
+mlflow_version: 2.6.0
+model_uuid: adff24c2f1464efca36bde1385ef0f1e
+run_id: 7e0fc2b7339344448500c1ee35d71130
+utc_time_created: '2024-07-05 08:45:26.806172'
