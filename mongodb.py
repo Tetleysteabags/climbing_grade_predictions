@@ -1,5 +1,6 @@
 import os
 import pymongo
+import pymongo.errors
 import pandas as pd
 
 def connect_to_mongodb():
@@ -12,7 +13,7 @@ def connect_to_mongodb():
         db = client.ClimbingGradeFeedback
         collection = db.ClimbingFeedbackStreamlit
         return collection, client
-    except pymongo.errors.ConnectionError as ce:
+    except pymongo.errors.ConnectionFailure as ce:
         print(f"Connection error: {ce}")
         raise
     except Exception as e:
