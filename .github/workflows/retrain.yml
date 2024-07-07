@@ -52,7 +52,10 @@ jobs:
           author_name: 'github-actions'
           author_email: 'github-actions@github.com'
           message: 'Retrain model with new data and update all data'
-          add: 'pkl_files/*.pkl, training_data/all_data_bouldering.csv, training_data/all_data_sport.csv'
+          add: |
+            pkl_files/*.pkl
+            training_data/all_data_bouldering.csv
+            training_data/all_data_sport.csv
           push: true
         env:
           GITHUB_TOKEN: ${{ secrets.GH_PAT }}
