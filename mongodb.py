@@ -7,6 +7,7 @@ def connect_to_mongodb():
         conn_str = os.getenv("MONGO_CONN_STR")
         if not conn_str:
             raise ValueError("MongoDB connection string not found in environment variables")
+        print(f"Connecting to MongoDB with connection string: {conn_str}")
         client = pymongo.MongoClient(conn_str)
         db = client.ClimbingGradeFeedback
         collection = db.ClimbingFeedbackStreamlit
@@ -21,6 +22,7 @@ def connect_to_mongodb():
 def fetch_feedback_data(save_to_csv=False, csv_path=None):
     try:
         collection, client = connect_to_mongodb()
+        print("Fetching data from MongoDB collection...")
         cursor = collection.find()
         df = pd.DataFrame(list(cursor))
         client.close()
@@ -40,3 +42,7 @@ if __name__ == "__main__":
     # Path to save the feedback data
     feedback_data_path = "training_data/new_feedback.csv"
     fetch_feedback_data(save_to_csv=True, csv_path=feedback_data_path)
+    if os.path.exists(feedback_data_path):
+        print(f"File {feedback_data_path} exists.")
+    else:
+        print(f"File {feedback_data_path} does NOT exist.")
