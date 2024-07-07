@@ -1,35 +1,32 @@
 import pandas as pd
 import joblib
+import os
 from mongodb import fetch_feedback_data
 from grade_conversions import convert_f_grade_to_numeric, convert_v_grade_to_numeric
-from utils import load_pickle_from_url  # Make sure this function is defined
 
 def check_columns(df, required_columns):
     missing_columns = [col for col in required_columns if col not in df.columns]
     if missing_columns:
         raise KeyError(f"Missing columns in DataFrame: {missing_columns}")
-
+    
 def rename_columns(df, old_columns, new_columns):
     for old_col, new_col in zip(old_columns, new_columns):
         if old_col in df.columns:
             df.rename(columns={old_col: new_col}, inplace=True)
-
+            
 def apply_grade_conversions(df):
     if 'max_sport_numeric' in df.columns:
         df['max_sport_numeric'] = df['max_sport_numeric'].apply(convert_f_grade_to_numeric)
     if 'max_boulder_numeric' in df.columns:
         df['max_boulder_numeric'] = df['max_boulder_numeric'].apply(convert_v_grade_to_numeric)
 
-def retrain_model(model_url, scaler_url, existing_data_path, new_data_path, grade_column, all_data_path, local_model_path):
-    print(f"Loading model from {model_url}")
-    model = load_pickle_from_url(model_url)
-    
-    print(f"Loading scaler from {scaler_url}")
-    scaler = load_pickle_from_url(scaler_url)
+def retrain_model(model_path, existing_data_path, new_data_path, grade_column, all_data_path):
+    print(f"Loading model from {model_path}")
+    model = joblib.load(model_path)
 
     print(f"Loading existing data from {existing_data_path}")
     existing_data = pd.read_csv(existing_data_path)
-    
+
     print(f"Loading new feedback data from {new_data_path}")
     new_feedback_data = pd.read_csv(new_data_path)
     
@@ -54,52 +51,58 @@ def retrain_model(model_url, scaler_url, existing_data_path, new_data_path, grad
     all_data = pd.concat([existing_data, new_feedback_data], ignore_index=True)
     
     # Save the concatenated data to a CSV file in the GitHub training_data folder
+    os.makedirs(os.path.dirname(all_data_path), exist_ok=True)
     all_data.to_csv(all_data_path, index=False)
     print(f"Concatenated data saved to: {all_data_path}")
     
     # Check if required columns exist
     check_columns(all_data, required_columns)
 
-    # Scale features using loaded scaler
-    X = all_data.drop(grade_column, axis=1)
-    X_scaled = scaler.transform(X)
-    
     # Separate features and target
+    X = all_data.drop(grade_column, axis=1)
     y = all_data[grade_column]
     
     # Retrain the model
-    model.fit(X_scaled, y)
-    
-    # Save the model back to a local path
-    joblib.dump(model, local_model_path)
-    print(f"Model retrained and saved to {local_model_path}")
+    model.fit(X, y)
+    joblib.dump(model, model_path)
+    print(f"Model retrained and saved to {model_path}")
 
-# Example paths and URLs
-bouldering_model_url = "https://raw.githubusercontent.com/Tetleysteabags/climbing_grade_predictions/main/pkl_files/best_model_gb_bouldering_newdata.pkl"
-bouldering_scaler_url = "https://raw.githubusercontent.com/Tetleysteabags/climbing_grade_predictions/main/pkl_files/scaler_gb_bouldering_newdata.pkl"
+# Paths to your model and data files
+bouldering_model_path = "pkl_files/best_model_gb_bouldering_newdata.pkl"
 bouldering_existing_data_path = "training_data/data_filtered_bouldering_new.csv"
 bouldering_new_data_path = "training_data/new_feedback.csv"
 bouldering_all_data_path = "training_data/all_data_bouldering.csv"
-bouldering_local_model_path = "pkl_files/best_model_gb_bouldering_newdata.pkl"
 bouldering_grade_column = 'max_boulder_numeric'
 
 # Fetch new feedback data from MongoDB and save to CSV
+print("Fetching new feedback data...")
 fetch_feedback_data(save_to_csv=True, csv_path=bouldering_new_data_path)
 
+# Check if new feedback data file exists
+if os.path.exists(bouldering_new_data_path):
+    print(f"New feedback data file exists: {bouldering_new_data_path}")
+else:
+    print(f"New feedback data file does NOT exist: {bouldering_new_data_path}")
+
 # Retrain the bouldering model
-retrain_model(bouldering_model_url, bouldering_scaler_url, bouldering_existing_data_path, bouldering_new_data_path, bouldering_grade_column, bouldering_all_data_path, bouldering_local_model_path)
+retrain_model(bouldering_model_path, bouldering_existing_data_path, bouldering_new_data_path, bouldering_grade_column, bouldering_all_data_path)
 
 # Similarly, you can retrain the sport model
-sport_model_url = "https://raw.githubusercontent.com/Tetleysteabags/climbing_grade_predictions/main/pkl_files/best_model_rf_sport_newdata.pkl"
-sport_scaler_url = "https://raw.githubusercontent.com/Tetleysteabags/climbing_grade_predictions/main/pkl_files/scaler_rf_sport_newdata.pkl"
+sport_model_path = "pkl_files/best_model_rf_sport_newdata.pkl"
 sport_existing_data_path = "training_data/data_filtered_sport_new.csv"
 sport_new_data_path = "training_data/new_feedback.csv"
 sport_all_data_path = "training_data/all_data_sport.csv"
-sport_local_model_path = "pkl_files/best_model_rf_sport_newdata.pkl"
 sport_grade_column = 'max_sport_numeric'
 
 # Fetch new feedback data from MongoDB and save to CSV
+print("Fetching new feedback data for sport model...")
 fetch_feedback_data(save_to_csv=True, csv_path=sport_new_data_path)
 
+# Check if new feedback data file exists
+if os.path.exists(sport_new_data_path):
+    print(f"New feedback data file exists: {sport_new_data_path}")
+else:
+    print(f"New feedback data file does NOT exist: {sport_new_data_path}")
+
 # Retrain the sport model
-retrain_model(sport_model_url, sport_scaler_url, sport_existing_data_path, sport_new_data_path, sport_grade_column, sport_all_data_path, sport_local_model_path)
+retrain_model(sport_model_path, sport_existing_data_path, sport_new_data_path, sport_grade_column, sport_all_data_path)

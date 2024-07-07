@@ -27,6 +27,7 @@ def fetch_feedback_data(save_to_csv=False, csv_path=None):
         print("Data fetched successfully")
         
         if save_to_csv and csv_path:
+            os.makedirs(os.path.dirname(csv_path), exist_ok=True)
             df.to_csv(csv_path, index=False)
             print(f"Data saved to {csv_path}")
         

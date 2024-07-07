@@ -34,6 +34,15 @@ jobs:
         env:
           MONGO_CONN_STR: ${{ secrets.MONGO_CONN_STR }}
 
+      - name: Check if feedback data exists
+        run: |
+          if [ -f training_data/new_feedback.csv ]; then
+            echo "New feedback data file exists."
+          else
+            echo "New feedback data file does NOT exist."
+            exit 1
+          fi
+
       - name: Retrain model
         run: |
           python retrain.py
