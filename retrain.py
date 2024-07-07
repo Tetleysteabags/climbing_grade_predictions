@@ -2,7 +2,7 @@ import pandas as pd
 import joblib
 from mongodb import fetch_feedback_data
 from grade_conversions import convert_f_grade_to_numeric, convert_v_grade_to_numeric
-from helpers import load_pickle_from_url  # Make sure this function is defined
+from utils import load_pickle_from_url  # Make sure this function is defined
 
 def check_columns(df, required_columns):
     missing_columns = [col for col in required_columns if col not in df.columns]
