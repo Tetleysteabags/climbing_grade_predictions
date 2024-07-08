@@ -23,7 +23,8 @@ def apply_grade_conversions(df):
 
 def retrain_model(model_path, existing_data_path, new_data_path, grade_column, all_data_path):
     print(f"Loading model from {model_path}")
-    model = pickle.load(model_path)
+    with open(model_path, 'rb') as model_file:
+        model = pickle.load(model_file)
 
     print(f"Loading existing data from {existing_data_path}")
     existing_data = pd.read_csv(existing_data_path)
@@ -65,7 +66,8 @@ def retrain_model(model_path, existing_data_path, new_data_path, grade_column, a
     
     # Retrain the model
     model.fit(X, y)
-    pickle.dump(model, model_path)
+    with open(model_path, 'wb') as model_file:
+        pickle.dump(model, model_file)
     print(f"Model retrained and saved to {model_path}")
 
 # Paths to your model and data files
