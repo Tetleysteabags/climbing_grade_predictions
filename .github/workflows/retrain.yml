@@ -70,4 +70,4 @@ jobs:
             training_data/all_data_sport.csv
           push: true
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
+          GITHUB_TOKEN: ${{ secrets.PAT_GH }}
