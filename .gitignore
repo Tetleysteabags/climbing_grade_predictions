@@ -4,8 +4,8 @@
 __pycache__/
 *.pyc
 
-# Streamlit
-.streamlit/
+# # Streamlit
+# .streamlit/secrets.toml
 
 # Ignore any virtual environments
 venv/
