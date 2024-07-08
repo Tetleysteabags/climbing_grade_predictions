@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/11a25d01060b4849867ea1640ba92a91/artifacts
+end_time: 1720467008358
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 11a25d01060b4849867ea1640ba92a91
+run_name: Sport Grade Forecasting New Data - Gradient Boosting
+run_uuid: 11a25d01060b4849867ea1640ba92a91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720466701921
+status: 3
+tags: []
+user_id: thomasgeorgiou
