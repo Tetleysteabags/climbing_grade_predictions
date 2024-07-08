@@ -1,5 +1,6 @@
 import pandas as pd
 import joblib
+import pickle
 import os
 from mongodb import fetch_feedback_data
 from grade_conversions import convert_f_grade_to_numeric, convert_v_grade_to_numeric
@@ -22,7 +23,7 @@ def apply_grade_conversions(df):
 
 def retrain_model(model_path, existing_data_path, new_data_path, grade_column, all_data_path):
     print(f"Loading model from {model_path}")
-    model = joblib.load(model_path)
+    model = pickle.load(model_path)
 
     print(f"Loading existing data from {existing_data_path}")
     existing_data = pd.read_csv(existing_data_path)
@@ -64,7 +65,7 @@ def retrain_model(model_path, existing_data_path, new_data_path, grade_column, a
     
     # Retrain the model
     model.fit(X, y)
-    joblib.dump(model, model_path)
+    pickle.dump(model, model_path)
     print(f"Model retrained and saved to {model_path}")
 
 # Paths to your model and data files
