@@ -19,10 +19,10 @@ def main():
     """
 
     # Load models and scalers
-    bouldering_model_url = "https://raw.githubusercontent.com/Tetleysteabags/climbing_grade_predictions/main/pkl_files/best_model_gb_bouldering_newdata.pkl"
-    bouldering_scaler_url = "https://raw.githubusercontent.com/Tetleysteabags/climbing_grade_predictions/main/pkl_files/scaler_gb_bouldering_newdata.pkl"
-    sport_model_url = "https://raw.githubusercontent.com/Tetleysteabags/climbing_grade_predictions/main/pkl_files/best_model_rf_sport_newdata.pkl"
-    sport_scaler_url = "https://raw.githubusercontent.com/Tetleysteabags/climbing_grade_predictions/main/pkl_files/scaler_rf_sport_newdata.pkl"
+    bouldering_model_url = "https://raw.githubusercontent.com/Tetleysteabags/climbing_grade_predictions/main/pkl_files/best_model_xgboost_bouldering_newdata.pkl"
+    bouldering_scaler_url = "https://raw.githubusercontent.com/Tetleysteabags/climbing_grade_predictions/main/pkl_files/scaler_xgboost_bouldering_newdata.pkl"
+    sport_model_url = "https://raw.githubusercontent.com/Tetleysteabags/climbing_grade_predictions/main/pkl_files/best_model_xgboost_sport_newdata.pkl"
+    sport_scaler_url = "https://raw.githubusercontent.com/Tetleysteabags/climbing_grade_predictions/main/pkl_files/scaler_xgboost_sport_newdata.pkl"
 
     bouldering_model = load_pickle_from_url(bouldering_model_url)
     bouldering_scaler = load_pickle_from_url(bouldering_scaler_url)
