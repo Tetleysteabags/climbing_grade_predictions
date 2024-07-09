@@ -1,4 +1,5 @@
 import pandas as pd
+import numpy as np
 
 def prepare_input_features(sidebar):
     """
@@ -37,7 +38,8 @@ def prepare_input_features(sidebar):
         # "weight": weight,
     }
 
-    return pd.DataFrame(data, index=[0])
+    # return pd.DataFrame(data, index=[0])
+    return np.array(list(data.values())).reshape(1, -1)
 
 def get_predictions(input_df, bouldering_model, bouldering_scaler, sport_model, sport_scaler):
     scaled_features_bouldering = bouldering_scaler.transform(input_df)
