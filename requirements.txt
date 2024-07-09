@@ -13,3 +13,4 @@ pymongo==3.12.0
 imbalanced-learn==0.12.3
 pymongo[srv]==3.12.0
 inotify==0.2.10
+xgboost==2.1.0
