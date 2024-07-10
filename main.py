@@ -36,13 +36,13 @@ def main():
 
     # Sidebar for user input
     st.sidebar.header("Enter your climbing stats")
-    user_input = prepare_input_features(st.sidebar)
+    input_df = prepare_input_features(st.sidebar)
 
     # # Get predictions
-    # bouldering_prediction, sport_prediction = get_predictions(user_input, bouldering_model, bouldering_scaler, sport_model, sport_scaler)
+    # bouldering_prediction, sport_prediction = get_predictions(input_df, bouldering_model, bouldering_scaler, sport_model, sport_scaler)
     
     # Get predictions (xgboost pipeline)
-    bouldering_prediction, sport_prediction = get_predictions_xgboost(user_input, bouldering_model_pipeline, sport_model_pipeline)
+    bouldering_prediction, sport_prediction = get_predictions_xgboost(input_df, bouldering_model_pipeline, sport_model_pipeline)
 
 
     # Convert predictions to readable grades
@@ -69,7 +69,7 @@ def main():
 
     if st.button("Submit Feedback"):
         feedback_data = {
-            **user_input.to_dict(orient="records")[0],
+            **input_df.to_dict(orient="records")[0],
             "predicted_bouldering_grade": bouldering_predicted_grade,
             "actual_bouldering_grade": actual_bouldering_grade,
             "predicted_sport_grade": sport_predicted_grade,
