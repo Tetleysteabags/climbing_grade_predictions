@@ -55,10 +55,10 @@ def main():
     st.header("Predicted grades based on your climbing metrics")
 
     # Regular subheader
-    st.markdown("<h5 style='color:blue;'>Open the sidebar on the left to input your strength metrics.</h5>", unsafe_allow_html=True)
-    st.markdown("<h5 style='color:blue;'>Please note that these are just predictions and may not be accurate for everyone.</h5>", unsafe_allow_html=True)
+    st.markdown("<h5 style='color:white;'>Open the sidebar on the left to input your strength metrics.</h5>", unsafe_allow_html=True)
+    st.markdown("<h5 style='color:white;'>Please note that these are just predictions and may not be accurate for everyone.</h5>", unsafe_allow_html=True)
     st.markdown(f"<h3 style='color:green;'>Boulder Grade: {bouldering_predicted_grade}</h3>", unsafe_allow_html=True)
-    st.markdown(f"<h3 style='color:green;'>Sport Grade: {sport_predicted_grade}</h3>", unsafe_allow_html=True)
+    st.markdown(f"<h3 style='color:blue;'>Sport Grade: {sport_predicted_grade}</h3>", unsafe_allow_html=True)
     
     # Insert an image
     st.image("https://gripped.com/wp-content/uploads/2022/02/LT11_Jess-Talley_adidasTerrex_BrookeRaboutou_3-1.jpg", use_column_width=True)
