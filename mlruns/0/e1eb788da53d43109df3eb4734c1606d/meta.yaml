@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/e1eb788da53d43109df3eb4734c1606d/artifacts
+end_time: 1720539667128
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e1eb788da53d43109df3eb4734c1606d
+run_name: Bouldering Grade Forecasting New Data - XGBoost
+run_uuid: e1eb788da53d43109df3eb4734c1606d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720539643803
+status: 4
+tags: []
+user_id: thomasgeorgiou
