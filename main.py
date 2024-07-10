@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 from utils import load_pickle_from_url, connect_to_mongodb
-from models import get_predictions, prepare_input_features
+from models import get_predictions_xgboost, prepare_input_features
 from grade_conversions import convert_numeric_to_v_grade, convert_numeric_to_f_grade
 
 def main():
@@ -42,7 +42,7 @@ def main():
     # bouldering_prediction, sport_prediction = get_predictions(user_input, bouldering_model, bouldering_scaler, sport_model, sport_scaler)
     
     # Get predictions (xgboost pipeline)
-    bouldering_prediction, sport_prediction = get_predictions(user_input, bouldering_model_pipeline, sport_model_pipeline)
+    bouldering_prediction, sport_prediction = get_predictions_xgboost(user_input, bouldering_model_pipeline, sport_model_pipeline)
 
 
     # Convert predictions to readable grades

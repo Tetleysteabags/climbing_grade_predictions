@@ -50,7 +50,7 @@ def prepare_input_features(sidebar):
 
 #     return bouldering_prediction[0], sport_prediction[0]
 
-def get_predictions(input_array, bouldering_model_pipeline, sport_model_pipeline):
+def get_predictions_xgboost(input_array, bouldering_model_pipeline, sport_model_pipeline):
 
     # Predictions for bouldering model
     bouldering_prediction = bouldering_model_pipeline.predict(input_array)
