@@ -55,18 +55,19 @@ def main():
     st.subheader(f"Max Sport Grade: {sport_predicted_grade}")
 
     # Feedback section
-    st.header("Feedback")
+    st.header("Feedback to improve future predictions")
     # Dropdowns for actual grades
-    actual_bouldering_grade = st.selectbox("Enter your actual max bouldering grade:", ["<V3", "V3", "V4", "V5", "V6", "V7", "V8", "V9", "V10", "V11", "V12", "V13", "V14", "V15", "V16", "I have not pursued bouldering outside in the past year"])
-    actual_sport_grade = st.selectbox("Enter your actual max sport grade:", ["4c", "5a", "5b", "5c", "6a", "6a+", "6b", "6b+", "6c", "6c+", "7a", "7a+", "7b", "7b+", "7c", "7c+", "8a", "8a+", "8b", "8b+", "8c", "8c+", "9a", "9a+", "9b", "9b+", "9c", "I have not pursued sport climbing  outside in the past year"])
+    actual_bouldering_grade = st.selectbox("Enter your actual max bouldering grade:", ["<V3", "V3", "V4", "V5", "V6", "V7", "V8", "V9", "V10", "V11", "V12", "V13", "V14", "V15", "V16", "I have not pursued bouldering in the past year"])
+    actual_sport_grade = st.selectbox("Enter your actual max sport grade:", ["4c", "5a", "5b", "5c", "6a", "6a+", "6b", "6b+", "6c", "6c+", "7a", "7a+", "7b", "7b+", "7c", "7c+", "8a", "8a+", "8b", "8b+", "8c", "8c+", "9a", "9a+", "9b", "9b+", "9c", "I have not pursued sport climbing in the past year"])
+
+    # # Submit feedback
+    # if "mongo" in st.secrets:
+    #     st.write("MongoDB secrets found")
+    #     st.write(st.secrets["mongo"]["conn_str"])
+    # else:
+    #     st.write("MongoDB secrets not found")
 
     # Submit feedback
-    if "mongo" in st.secrets:
-        st.write("MongoDB secrets found")
-        st.write(st.secrets["mongo"]["conn_str"])
-    else:
-        st.write("MongoDB secrets not found")
-
     if st.button("Submit Feedback"):
         feedback_data = {
             **input_df.to_dict(orient="records")[0],
