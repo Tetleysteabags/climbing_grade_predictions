@@ -53,10 +53,12 @@ def main():
     # Insert an image
     st.image("https://www.patagonia.com/blog/wp-content/uploads/2020/11/etzel_k_1399_cc_web-1280x720-1.jpg", use_column_width=True)
     st.header("Predicted grades based on your climbing metrics")
-    st.subheader("Open the sidebar on the left to input your strength metrics")
-    st.subheader("Please note that these are just predictions and may not be accurate for everyone.")
-    st.subheader(f"Max Boulder Grade: {bouldering_predicted_grade}")
-    st.subheader(f"Max Sport Grade: {sport_predicted_grade}")
+
+    # Regular subheader
+    st.markdown("<h5 style='color:blue;'>Open the sidebar on the left to input your strength metrics.</h5>", unsafe_allow_html=True)
+    st.markdown("<h5 style='color:blue;'>Please note that these are just predictions and may not be accurate for everyone.</h5>", unsafe_allow_html=True)
+    st.markdown(f"<h3 style='color:green;'>Boulder Grade: {bouldering_predicted_grade}</h3>", unsafe_allow_html=True)
+    st.markdown(f"<h3 style='color:green;'>Sport Grade: {sport_predicted_grade}</h3>", unsafe_allow_html=True)
     
     # Insert an image
     st.image("https://gripped.com/wp-content/uploads/2022/02/LT11_Jess-Talley_adidasTerrex_BrookeRaboutou_3-1.jpg", use_column_width=True)
