@@ -13,7 +13,7 @@ env/
 .venv/
 
 # Ignore data files and sensitive information
-original_data_files/
+# original_data_files/
 secrets.toml
 
 # Ignore compiled Python files
