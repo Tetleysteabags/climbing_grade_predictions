@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 from utils import load_pickle_from_url, connect_to_mongodb
-from models import get_predictions_xgboost, prepare_input_features
+from models import get_predictions, prepare_input_features
 from grade_conversions import convert_numeric_to_v_grade, convert_numeric_to_f_grade
 
 def main():
@@ -19,30 +19,30 @@ def main():
     """
 
     # Load models and scalers
-    bouldering_model_url = "https://raw.githubusercontent.com/Tetleysteabags/climbing_grade_predictions/main/pkl_files/best_model_xgboost_bouldering_newdata.pkl"
-    # bouldering_scaler_url = "https://raw.githubusercontent.com/Tetleysteabags/climbing_grade_predictions/main/pkl_files/scaler_xgboost_bouldering_newdata.pkl"
-    sport_model_url = "https://raw.githubusercontent.com/Tetleysteabags/climbing_grade_predictions/main/pkl_files/best_model_xgboost_sport_newdata.pkl"
-    # sport_scaler_url = "https://raw.githubusercontent.com/Tetleysteabags/climbing_grade_predictions/main/pkl_files/scaler_xgboost_sport_newdata.pkl"
+    bouldering_model_url = "https://raw.githubusercontent.com/Tetleysteabags/climbing_grade_predictions/main/pkl_files/best_model_rf_bouldering_newdata.pkl"
+    bouldering_scaler_url = "https://raw.githubusercontent.com/Tetleysteabags/climbing_grade_predictions/main/pkl_files/scaler_rf_bouldering_newdata.pkl"
+    sport_model_url = "https://raw.githubusercontent.com/Tetleysteabags/climbing_grade_predictions/main/pkl_files/best_model_rf_sport_newdata.pkl"
+    sport_scaler_url = "https://raw.githubusercontent.com/Tetleysteabags/climbing_grade_predictions/main/pkl_files/scaler_rf_sport_newdata.pkl"
 
-    # bouldering_model = load_pickle_from_url(bouldering_model_url)
-    # bouldering_scaler = load_pickle_from_url(bouldering_scaler_url)
-    # sport_model = load_pickle_from_url(sport_model_url)
-    # sport_scaler = load_pickle_from_url(sport_scaler_url)
+    bouldering_model = load_pickle_from_url(bouldering_model_url)
+    bouldering_scaler = load_pickle_from_url(bouldering_scaler_url)
+    sport_model = load_pickle_from_url(sport_model_url)
+    sport_scaler = load_pickle_from_url(sport_scaler_url)
     
-    # XGBoost pipelines
-    bouldering_model_pipeline = load_pickle_from_url(bouldering_model_url)
-    sport_model_pipeline = load_pickle_from_url(sport_model_url)
+    # # XGBoost pipelines
+    # bouldering_model_pipeline = load_pickle_from_url(bouldering_model_url)
+    # sport_model_pipeline = load_pickle_from_url(sport_model_url)
 
 
     # Sidebar for user input
     st.sidebar.header("Enter your climbing stats")
     input_df = prepare_input_features(st.sidebar)
 
-    # # Get predictions
-    # bouldering_prediction, sport_prediction = get_predictions(input_df, bouldering_model, bouldering_scaler, sport_model, sport_scaler)
+    # Get predictions
+    bouldering_prediction, sport_prediction = get_predictions(input_df, bouldering_model, bouldering_scaler, sport_model, sport_scaler)
     
-    # Get predictions (xgboost pipeline)
-    bouldering_prediction, sport_prediction = get_predictions_xgboost(input_df, bouldering_model_pipeline, sport_model_pipeline)
+    # # Get predictions (xgboost pipeline)
+    # bouldering_prediction, sport_prediction = get_predictions_xgboost(input_df, bouldering_model_pipeline, sport_model_pipeline)
 
 
     # Convert predictions to readable grades

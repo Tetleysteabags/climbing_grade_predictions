@@ -74,19 +74,9 @@ def retrain_model(model_path, existing_data_path, new_data_path, grade_column, a
     with open(model_path, 'wb') as model_file:
         pickle.dump(model_pipeline, model_file)
     print(f"Model retrained and saved to {model_path}")
-    
-    # # Retrain the model
-    # # model.fit(X, y)
-    # model_pipeline.fit(X, y)
-    # # with open(model_path, 'wb') as model_file:
-    # #     pickle.dump(model, model_file)
-    # # print(f"Model retrained and saved to {model_path}")
-    # with open(model_path, 'wb') as model_file:
-    #     pickle.dump(model_pipeline, model_file)
-    # print(f"Model retrained and saved to {model_path}")
 
 # Paths to your model and data files
-bouldering_model_path = "pkl_files/best_model_xgboost_bouldering_newdata.pkl"
+bouldering_model_path = "pkl_files/best_model_rf_bouldering_newdata.pkl"
 bouldering_existing_data_path = "training_data/data_filtered_bouldering_new.csv"
 bouldering_new_data_path = "training_data/new_feedback.csv"
 bouldering_all_data_path = "training_data/all_data_bouldering.csv"
@@ -106,7 +96,7 @@ else:
 retrain_model(bouldering_model_path, bouldering_existing_data_path, bouldering_new_data_path, bouldering_grade_column, bouldering_all_data_path)
 
 # Similarly, you can retrain the sport model
-sport_model_path = "pkl_files/best_model_xgboost_sport_newdata.pkl"
+sport_model_path = "pkl_files/best_model_rf_sport_newdata.pkl"
 sport_existing_data_path = "training_data/data_filtered_sport_new.csv"
 sport_new_data_path = "training_data/new_feedback.csv"
 sport_all_data_path = "training_data/all_data_sport.csv"
