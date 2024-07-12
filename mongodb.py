@@ -12,7 +12,7 @@ def connect_to_mongodb_fetch():
         client (pymongo.MongoClient): The MongoDB client object.
     """
     try:
-        conn_str = os.getenv["CONN_STR"]
+        conn_str = os.getenv("CONN_STR")
         if not conn_str:
             raise ValueError("MongoDB connection string not found in Streamlit secrets")
         print(f"Connecting to MongoDB with connection string: {conn_str}")
