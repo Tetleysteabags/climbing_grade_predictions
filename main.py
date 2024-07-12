@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-from utils import load_pickle_from_url, connect_to_mongodb
+from utils import load_pickle_from_url, connect_to_mongodb_st
 from models import get_predictions, prepare_input_features
 from grade_conversions import convert_numeric_to_v_grade, convert_numeric_to_f_grade
 
@@ -79,7 +79,7 @@ def main():
             "predicted_sport_grade": sport_predicted_grade,
             "actual_sport_grade": actual_sport_grade
         }
-        collection, client = connect_to_mongodb()
+        collection, client = connect_to_mongodb_st()
         collection.insert_one(feedback_data)
         client.close()
         st.success("Thank you for your feedback! This will be used to improve the model and future predictions.")

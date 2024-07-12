@@ -10,7 +10,7 @@ def load_pickle_from_url(url):
 
 import pymongo
 
-def connect_to_mongodb():
+def connect_to_mongodb_st():
     """
     Connects to MongoDB and returns the collection and client objects.
 
@@ -19,7 +19,7 @@ def connect_to_mongodb():
         client (pymongo.MongoClient): The MongoDB client object.
     """
     try:
-        conn_str = os.getenv["conn_str"]
+        conn_str = st.secrets["conn_str"]
         if not conn_str:
             raise ValueError("MongoDB connection string not found in Streamlit secrets")
         print(f"Connecting to MongoDB with connection string: {conn_str}")
