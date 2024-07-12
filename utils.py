@@ -18,9 +18,20 @@ def connect_to_mongodb():
         collection (pymongo.collection.Collection): The MongoDB collection object.
         client (pymongo.MongoClient): The MongoDB client object.
     """
-    conn_str = st.secrets["mongo"]["conn_str"]
-    client = pymongo.MongoClient(conn_str)
-    db = client.ClimbingGradeFeedback
-    collection = db.ClimbingFeedbackStreamlit
-    return collection, client
+    try:
+        conn_str = st.secrets["mongo"]["conn_str"]
+        if not conn_str:
+            raise ValueError("MongoDB connection string not found in Streamlit secrets")
+        print(f"Connecting to MongoDB with connection string: {conn_str}")
+        client = pymongo.MongoClient(conn_str)
+        db = client.ClimbingGradeFeedback
+        collection = db.ClimbingFeedbackStreamlit
+        return collection, client
+    except pymongo.errors.ConnectionFailure as ce:
+        print(f"Connection error: {ce}")
+        raise
+    except Exception as e:
+        print(f"Unexpected error: {e}")
+        raise
+
 

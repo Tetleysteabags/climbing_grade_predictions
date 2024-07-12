@@ -66,8 +66,6 @@ def retrain_model(model_path, existing_data_path, new_data_path, grade_column, a
     X = all_data.drop(grade_column, axis=1)
     y = all_data[grade_column]
     
-    # # Convert DataFrame to numpy array
-    # X_array = X.to_numpy()
     
     # Retrain the model
     model_pipeline.fit(X, y)
