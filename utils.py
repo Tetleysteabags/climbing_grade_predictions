@@ -19,7 +19,7 @@ def connect_to_mongodb_st():
         client (pymongo.MongoClient): The MongoDB client object.
     """
     try:
-        conn_str = st.secrets["conn_str"]
+        conn_str = st.secrets["mongo"]["conn_str"]
         if not conn_str:
             raise ValueError("MongoDB connection string not found in Streamlit secrets")
         print(f"Connecting to MongoDB with connection string: {conn_str}")
