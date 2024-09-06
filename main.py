@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 from mongodb import connect_to_mongodb, save_feedback
-from models import get_predictions, prepare_input_features,load_pickle_from_url
+from models import get_predictions_with_pipeline, prepare_input_features,load_pickle_from_url
 from grade_conversions import convert_numeric_to_v_grade, convert_numeric_to_f_grade
 
 def main():
