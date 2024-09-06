@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/887ba92b22b04c59b25f0376568b97cd/artifacts
+end_time: 1725522140324
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 887ba92b22b04c59b25f0376568b97cd
+run_name: loud-worm-908
+run_uuid: 887ba92b22b04c59b25f0376568b97cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725522140143
+status: 3
+tags: []
+user_id: thomasgeorgiou

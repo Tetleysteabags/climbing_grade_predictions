@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/412cf847e4b04f65a49818cfe00f3d8b/artifacts
+end_time: 1725525714251
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 412cf847e4b04f65a49818cfe00f3d8b
+run_name: casual-hawk-318
+run_uuid: 412cf847e4b04f65a49818cfe00f3d8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725525714172
+status: 3
+tags: []
+user_id: thomasgeorgiou

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/bd06c3235baa4901a8e1bf11aa687fd6/artifacts
+end_time: 1725525714477
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bd06c3235baa4901a8e1bf11aa687fd6
+run_name: delicate-rat-936
+run_uuid: bd06c3235baa4901a8e1bf11aa687fd6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725525714430
+status: 3
+tags: []
+user_id: thomasgeorgiou

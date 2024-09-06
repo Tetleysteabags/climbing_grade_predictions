@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/0578894bf8d54b909a2b884f86f3a4e4/artifacts
+end_time: 1725608509127
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0578894bf8d54b909a2b884f86f3a4e4
+run_name: salty-snipe-144
+run_uuid: 0578894bf8d54b909a2b884f86f3a4e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725608509045
+status: 3
+tags: []
+user_id: thomasgeorgiou

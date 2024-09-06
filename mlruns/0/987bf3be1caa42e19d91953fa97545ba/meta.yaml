@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/987bf3be1caa42e19d91953fa97545ba/artifacts
+end_time: 1725520945463
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 987bf3be1caa42e19d91953fa97545ba
+run_name: welcoming-horse-154
+run_uuid: 987bf3be1caa42e19d91953fa97545ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725520945404
+status: 3
+tags: []
+user_id: thomasgeorgiou

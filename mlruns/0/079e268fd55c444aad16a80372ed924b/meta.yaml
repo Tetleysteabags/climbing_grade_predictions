@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/079e268fd55c444aad16a80372ed924b/artifacts
+end_time: 1724608537372
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 079e268fd55c444aad16a80372ed924b
+run_name: respected-colt-254
+run_uuid: 079e268fd55c444aad16a80372ed924b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724608537143
+status: 3
+tags: []
+user_id: thomasgeorgiou

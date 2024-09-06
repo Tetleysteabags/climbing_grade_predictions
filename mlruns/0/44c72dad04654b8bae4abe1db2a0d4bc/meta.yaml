@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/44c72dad04654b8bae4abe1db2a0d4bc/artifacts
+end_time: 1724608167099
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 44c72dad04654b8bae4abe1db2a0d4bc
+run_name: gentle-calf-401
+run_uuid: 44c72dad04654b8bae4abe1db2a0d4bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724608167030
+status: 3
+tags: []
+user_id: thomasgeorgiou

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/8c37f5cf49bf4ab6a1a938492da2d29c/artifacts
+end_time: 1725612532677
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8c37f5cf49bf4ab6a1a938492da2d29c
+run_name: rumbling-sloth-992
+run_uuid: 8c37f5cf49bf4ab6a1a938492da2d29c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725612532614
+status: 3
+tags: []
+user_id: thomasgeorgiou

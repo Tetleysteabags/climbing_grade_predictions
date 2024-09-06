@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/e9c4643472304d3b8745f73ac7d6bfeb/artifacts
+end_time: 1724602307717
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e9c4643472304d3b8745f73ac7d6bfeb
+run_name: Bouldering Grade Forecasting - Random Forest
+run_uuid: e9c4643472304d3b8745f73ac7d6bfeb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724602292094
+status: 4
+tags: []
+user_id: thomasgeorgiou

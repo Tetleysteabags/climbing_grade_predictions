@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/fa929183d75d4853993eb0709171f23f/artifacts
+end_time: 1725608942198
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fa929183d75d4853993eb0709171f23f
+run_name: resilient-rook-884
+run_uuid: fa929183d75d4853993eb0709171f23f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725608941912
+status: 3
+tags: []
+user_id: thomasgeorgiou

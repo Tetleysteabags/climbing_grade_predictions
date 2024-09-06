@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/49af6d7bbf154c7ca7748dba9f3af68c/artifacts
+end_time: 1725523856312
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 49af6d7bbf154c7ca7748dba9f3af68c
+run_name: indecisive-mole-600
+run_uuid: 49af6d7bbf154c7ca7748dba9f3af68c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725523856047
+status: 3
+tags: []
+user_id: thomasgeorgiou

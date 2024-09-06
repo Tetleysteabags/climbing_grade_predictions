@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/ca9e661db16e4875b2324600d3bc4ddc/artifacts
+end_time: 1725522387517
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ca9e661db16e4875b2324600d3bc4ddc
+run_name: nosy-perch-243
+run_uuid: ca9e661db16e4875b2324600d3bc4ddc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725522387461
+status: 3
+tags: []
+user_id: thomasgeorgiou

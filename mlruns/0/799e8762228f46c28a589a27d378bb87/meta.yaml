@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/799e8762228f46c28a589a27d378bb87/artifacts
+end_time: 1725608942373
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 799e8762228f46c28a589a27d378bb87
+run_name: wistful-trout-501
+run_uuid: 799e8762228f46c28a589a27d378bb87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725608942253
+status: 3
+tags: []
+user_id: thomasgeorgiou

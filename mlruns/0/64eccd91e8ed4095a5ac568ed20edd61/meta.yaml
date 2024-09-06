@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/64eccd91e8ed4095a5ac568ed20edd61/artifacts
+end_time: 1725608498651
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 64eccd91e8ed4095a5ac568ed20edd61
+run_name: angry-eel-501
+run_uuid: 64eccd91e8ed4095a5ac568ed20edd61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725608498594
+status: 3
+tags: []
+user_id: thomasgeorgiou

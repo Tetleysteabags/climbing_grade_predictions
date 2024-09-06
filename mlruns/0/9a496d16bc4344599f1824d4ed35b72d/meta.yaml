@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/9a496d16bc4344599f1824d4ed35b72d/artifacts
+end_time: 1725608942514
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9a496d16bc4344599f1824d4ed35b72d
+run_name: serious-bass-132
+run_uuid: 9a496d16bc4344599f1824d4ed35b72d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725608942471
+status: 3
+tags: []
+user_id: thomasgeorgiou

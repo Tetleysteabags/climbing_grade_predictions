@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/c850cea42f5344a5bcf49800d860ef03/artifacts
+end_time: 1725522934694
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c850cea42f5344a5bcf49800d860ef03
+run_name: silent-bird-751
+run_uuid: c850cea42f5344a5bcf49800d860ef03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725520943406
+status: 3
+tags: []
+user_id: thomasgeorgiou

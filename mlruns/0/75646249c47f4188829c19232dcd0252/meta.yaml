@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/75646249c47f4188829c19232dcd0252/artifacts
+end_time: 1725523857179
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 75646249c47f4188829c19232dcd0252
+run_name: popular-doe-849
+run_uuid: 75646249c47f4188829c19232dcd0252
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725523857125
+status: 3
+tags: []
+user_id: thomasgeorgiou

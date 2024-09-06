@@ -1,5 +1,19 @@
 import pandas as pd
 import numpy as np
+import pickle
+import requests
+
+def load_pickle_from_url(url):
+    try:
+        response = requests.get(url)
+        response.raise_for_status()  # Raise an error for bad responses
+        return pickle.loads(response.content)
+    except requests.exceptions.RequestException as e:
+        print(f"Error loading pickle file from URL: {e}")
+        return None 
+    except pickle.UnpicklingError as e:
+        print(f"Error unpickling the file: {e}")
+        return None
 
 def prepare_input_features(sidebar):
     """
@@ -41,22 +55,21 @@ def prepare_input_features(sidebar):
     return pd.DataFrame(data, index=[0])
     # return np.array(list(data.values())).reshape(1, -1)
 
-def get_predictions(input_df, bouldering_model, bouldering_scaler, sport_model, sport_scaler):
-    scaled_features_bouldering = bouldering_scaler.transform(input_df)
-    scaled_features_sport = sport_scaler.transform(input_df)
+def get_predictions_with_pipeline(input_df, bouldering_pipeline, sport_pipeline):
+    """
+    Get predictions for bouldering and sport climbing using the full pipelines.
 
-    bouldering_prediction = bouldering_model.predict(scaled_features_bouldering)
-    sport_prediction = sport_model.predict(scaled_features_sport)
+    Args:
+        input_df (pd.DataFrame): The input features.
+        bouldering_pipeline: The full pipeline for bouldering.
+        sport_pipeline: The full pipeline for sport climbing.
+
+    Returns:
+        Tuple: Predicted bouldering and sport climbing grades.
+    """
+    bouldering_prediction = bouldering_pipeline.predict(input_df)
+    sport_prediction = sport_pipeline.predict(input_df)
 
     return bouldering_prediction[0], sport_prediction[0]
 
-# def get_predictions_xgboost(input_df, bouldering_model_pipeline, sport_model_pipeline):
-
-#     # Predictions for bouldering model
-#     bouldering_prediction = bouldering_model_pipeline.predict(input_df)
-    
-#     # Predictions for sport model
-#     sport_prediction = sport_model_pipeline.predict(input_df)
-    
-#     return bouldering_prediction[0], sport_prediction[0]
 

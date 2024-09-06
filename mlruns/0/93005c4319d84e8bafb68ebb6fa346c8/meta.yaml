@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/93005c4319d84e8bafb68ebb6fa346c8/artifacts
+end_time: 1725612532740
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 93005c4319d84e8bafb68ebb6fa346c8
+run_name: kindly-crab-628
+run_uuid: 93005c4319d84e8bafb68ebb6fa346c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725612532683
+status: 3
+tags: []
+user_id: thomasgeorgiou

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/508ff14338c6438298dfaf8dedb2218e/artifacts
+end_time: 1725525714309
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 508ff14338c6438298dfaf8dedb2218e
+run_name: aged-crow-601
+run_uuid: 508ff14338c6438298dfaf8dedb2218e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725525714256
+status: 3
+tags: []
+user_id: thomasgeorgiou

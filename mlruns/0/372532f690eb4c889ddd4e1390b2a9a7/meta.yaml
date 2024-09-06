@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/372532f690eb4c889ddd4e1390b2a9a7/artifacts
+end_time: 1725523977070
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 372532f690eb4c889ddd4e1390b2a9a7
+run_name: marvelous-jay-308
+run_uuid: 372532f690eb4c889ddd4e1390b2a9a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725523977022
+status: 3
+tags: []
+user_id: thomasgeorgiou

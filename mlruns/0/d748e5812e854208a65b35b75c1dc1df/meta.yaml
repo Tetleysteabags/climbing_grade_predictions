@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/d748e5812e854208a65b35b75c1dc1df/artifacts
+end_time: 1725608498461
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d748e5812e854208a65b35b75c1dc1df
+run_name: bemused-snipe-139
+run_uuid: d748e5812e854208a65b35b75c1dc1df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725608498401
+status: 3
+tags: []
+user_id: thomasgeorgiou

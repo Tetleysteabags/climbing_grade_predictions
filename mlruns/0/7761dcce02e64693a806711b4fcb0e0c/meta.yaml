@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/7761dcce02e64693a806711b4fcb0e0c/artifacts
+end_time: 1725609245466
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7761dcce02e64693a806711b4fcb0e0c
+run_name: hilarious-bear-583
+run_uuid: 7761dcce02e64693a806711b4fcb0e0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725609244611
+status: 3
+tags: []
+user_id: thomasgeorgiou

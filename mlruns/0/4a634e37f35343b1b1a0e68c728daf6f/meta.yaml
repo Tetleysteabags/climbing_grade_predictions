@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/4a634e37f35343b1b1a0e68c728daf6f/artifacts
+end_time: 1725609245527
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4a634e37f35343b1b1a0e68c728daf6f
+run_name: merciful-rook-308
+run_uuid: 4a634e37f35343b1b1a0e68c728daf6f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725609245470
+status: 3
+tags: []
+user_id: thomasgeorgiou

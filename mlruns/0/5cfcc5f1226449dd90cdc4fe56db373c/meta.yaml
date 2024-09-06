@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/5cfcc5f1226449dd90cdc4fe56db373c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5cfcc5f1226449dd90cdc4fe56db373c
+run_name: nosy-lynx-901
+run_uuid: 5cfcc5f1226449dd90cdc4fe56db373c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725523976195
+status: 1
+tags: []
+user_id: thomasgeorgiou

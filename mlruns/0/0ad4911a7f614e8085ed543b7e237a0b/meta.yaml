@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/0ad4911a7f614e8085ed543b7e237a0b/artifacts
+end_time: 1725612511766
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0ad4911a7f614e8085ed543b7e237a0b
+run_name: intelligent-owl-859
+run_uuid: 0ad4911a7f614e8085ed543b7e237a0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725611340183
+status: 3
+tags: []
+user_id: thomasgeorgiou

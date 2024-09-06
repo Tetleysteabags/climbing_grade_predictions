@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/2a57953864ec44c1bc08bdf70d0b12d3/artifacts
+end_time: 1725523977138
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2a57953864ec44c1bc08bdf70d0b12d3
+run_name: burly-zebra-50
+run_uuid: 2a57953864ec44c1bc08bdf70d0b12d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725523977076
+status: 3
+tags: []
+user_id: thomasgeorgiou

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/ef611d13f349499abf87c51410118f3b/artifacts
+end_time: 1725608509274
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ef611d13f349499abf87c51410118f3b
+run_name: fun-crab-992
+run_uuid: ef611d13f349499abf87c51410118f3b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725608509207
+status: 3
+tags: []
+user_id: thomasgeorgiou

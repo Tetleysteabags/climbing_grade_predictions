@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/cf24e4b0e8ed4ce98574d015da53e2d9/artifacts
+end_time: 1725611450555
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cf24e4b0e8ed4ce98574d015da53e2d9
+run_name: defiant-bass-352
+run_uuid: cf24e4b0e8ed4ce98574d015da53e2d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725611450480
+status: 3
+tags: []
+user_id: thomasgeorgiou

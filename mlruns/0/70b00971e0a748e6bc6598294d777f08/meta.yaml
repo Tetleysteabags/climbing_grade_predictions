@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/70b00971e0a748e6bc6598294d777f08/artifacts
+end_time: 1725523857221
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 70b00971e0a748e6bc6598294d777f08
+run_name: polite-kite-284
+run_uuid: 70b00971e0a748e6bc6598294d777f08
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725523857184
+status: 3
+tags: []
+user_id: thomasgeorgiou

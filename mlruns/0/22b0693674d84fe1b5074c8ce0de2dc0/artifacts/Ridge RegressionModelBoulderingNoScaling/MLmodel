@@ -1,0 +1,19 @@
+artifact_path: Ridge RegressionModelBoulderingNoScaling
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.9.6
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.3.1
+mlflow_version: 2.6.0
+model_uuid: a35deda3ba5b438b909713d60b725b44
+run_id: 22b0693674d84fe1b5074c8ce0de2dc0
+utc_time_created: '2024-09-05 07:57:03.254130'

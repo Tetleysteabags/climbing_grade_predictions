@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/edef74bd68774173970e603d10310c6d/artifacts
+end_time: 1725522222834
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: edef74bd68774173970e603d10310c6d
+run_name: dashing-stork-287
+run_uuid: edef74bd68774173970e603d10310c6d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725522222792
+status: 3
+tags: []
+user_id: thomasgeorgiou

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/47f6ee4952e24dd281b3a244c910d228/artifacts
+end_time: 1725522140510
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 47f6ee4952e24dd281b3a244c910d228
+run_name: gregarious-ape-10
+run_uuid: 47f6ee4952e24dd281b3a244c910d228
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725522140459
+status: 3
+tags: []
+user_id: thomasgeorgiou

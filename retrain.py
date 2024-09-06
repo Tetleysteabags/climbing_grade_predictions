@@ -2,12 +2,18 @@ import pandas as pd
 import joblib
 import pickle
 import os
+import mlflow
+import mlflow.sklearn
 from mongodb import fetch_feedback_data
 from grade_conversions import convert_f_grade_to_numeric, convert_v_grade_to_numeric
+import logging
+
+logging.basicConfig(level=logging.INFO)
 
 def check_columns(df, required_columns):
     missing_columns = [col for col in required_columns if col not in df.columns]
     if missing_columns:
+        logging.error(f"Missing columns in DataFrame: {missing_columns}")
         raise KeyError(f"Missing columns in DataFrame: {missing_columns}")
     
 def rename_columns(df, old_columns, new_columns):
@@ -21,11 +27,11 @@ def apply_grade_conversions(df):
     if 'max_boulder_numeric' in df.columns:
         df['max_boulder_numeric'] = df['max_boulder_numeric'].apply(convert_v_grade_to_numeric)
 
-def retrain_model(model_path, existing_data_path, new_data_path, grade_column, all_data_path):
-    print(f"Loading model from {model_path}")
-    # with open(model_path, 'rb') as model_file:
-    #     model = pickle.load(model_file)
-    with open(model_path, 'rb') as model_file:
+
+def retrain_model(pipeline_path, existing_data_path, new_data_path, grade_column, all_data_path, registered_model_name):
+    print(f"Loading model pipeline from {pipeline_path}")
+    
+    with open(pipeline_path, 'rb') as model_file:
         model_pipeline = pickle.load(model_file)
 
     print(f"Loading existing data from {existing_data_path}")
@@ -66,15 +72,32 @@ def retrain_model(model_path, existing_data_path, new_data_path, grade_column, a
     X = all_data.drop(grade_column, axis=1)
     y = all_data[grade_column]
     
-    
-    # Retrain the model
-    model_pipeline.fit(X, y)
-    with open(model_path, 'wb') as model_file:
+    # Start an MLflow run for retraining
+    with mlflow.start_run():
+        # Retrain the model
+        model_pipeline.fit(X, y)
+        
+        # Log the retrained model with a specific name
+        mlflow.sklearn.log_model(
+            model_pipeline,
+            "model",
+            registered_model_name=registered_model_name
+        )
+
+        # Log parameters and metrics
+        mlflow.log_param("model_type", "RandomForest")
+        mlflow.log_metric("training_samples", len(X))
+        mlflow.log_metric("model_score", model_pipeline.score(X, y))  # Example metric
+        
+        print(f"Model retrained and logged to MLflow with name '{registered_model_name}'.")
+
+    # Save the retrained model
+    with open(pipeline_path, 'wb') as model_file:
         pickle.dump(model_pipeline, model_file)
-    print(f"Model retrained and saved to {model_path}")
+    print(f"Model retrained and saved to {pipeline_path}")
 
 # Paths to your model and data files
-bouldering_model_path = "pkl_files/best_model_rf_bouldering_newdata.pkl"
+bouldering_pipeline_path = "pkl_files/full_pipeline_rf_bouldering.pkl"
 bouldering_existing_data_path = "training_data/data_filtered_bouldering_new.csv"
 bouldering_new_data_path = "training_data/new_feedback.csv"
 bouldering_all_data_path = "training_data/all_data_bouldering.csv"
@@ -82,7 +105,7 @@ bouldering_grade_column = 'max_boulder_numeric'
 
 # Fetch new feedback data from MongoDB and save to CSV
 print("Fetching new feedback data...")
-fetch_feedback_data(save_to_csv=True, csv_path=bouldering_new_data_path)
+fetch_feedback_data(save_to_csv=True, csv_path=bouldering_new_data_path, is_streamlit=False)
 
 # Check if new feedback data file exists
 if os.path.exists(bouldering_new_data_path):
@@ -91,24 +114,11 @@ else:
     print(f"New feedback data file does NOT exist: {bouldering_new_data_path}")
 
 # Retrain the bouldering model
-retrain_model(bouldering_model_path, bouldering_existing_data_path, bouldering_new_data_path, bouldering_grade_column, bouldering_all_data_path)
-
-# Similarly, you can retrain the sport model
-sport_model_path = "pkl_files/best_model_rf_sport_newdata.pkl"
-sport_existing_data_path = "training_data/data_filtered_sport_new.csv"
-sport_new_data_path = "training_data/new_feedback.csv"
-sport_all_data_path = "training_data/all_data_sport.csv"
-sport_grade_column = 'max_sport_numeric'
-
-# Fetch new feedback data from MongoDB and save to CSV
-print("Fetching new feedback data for sport model...")
-fetch_feedback_data(save_to_csv=True, csv_path=sport_new_data_path)
-
-# Check if new feedback data file exists
-if os.path.exists(sport_new_data_path):
-    print(f"New feedback data file exists: {sport_new_data_path}")
-else:
-    print(f"New feedback data file does NOT exist: {sport_new_data_path}")
-
-# Retrain the sport model
-retrain_model(sport_model_path, sport_existing_data_path, sport_new_data_path, sport_grade_column, sport_all_data_path)
+retrain_model(
+    bouldering_pipeline_path,
+    bouldering_existing_data_path,
+    bouldering_new_data_path,
+    bouldering_grade_column,
+    bouldering_all_data_path,
+    registered_model_name="BoulderingModel"
+)

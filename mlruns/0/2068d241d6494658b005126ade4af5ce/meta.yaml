@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/2068d241d6494658b005126ade4af5ce/artifacts
+end_time: 1725525714368
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2068d241d6494658b005126ade4af5ce
+run_name: gregarious-shoat-660
+run_uuid: 2068d241d6494658b005126ade4af5ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725525714314
+status: 3
+tags: []
+user_id: thomasgeorgiou

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/2f159d6602ca417f8a1b394385c4fb97/artifacts
+end_time: 1724608790853
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2f159d6602ca417f8a1b394385c4fb97
+run_name: Bouldering Grade Forecasting - Ridge Regression
+run_uuid: 2f159d6602ca417f8a1b394385c4fb97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724608786884
+status: 3
+tags: []
+user_id: thomasgeorgiou

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/a62ca1e7271b490eb6f23ee86e74bc22/artifacts
+end_time: 1725609119146
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a62ca1e7271b490eb6f23ee86e74bc22
+run_name: resilient-lark-690
+run_uuid: a62ca1e7271b490eb6f23ee86e74bc22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725609119088
+status: 3
+tags: []
+user_id: thomasgeorgiou

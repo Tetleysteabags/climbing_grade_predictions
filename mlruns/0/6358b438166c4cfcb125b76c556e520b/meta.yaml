@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/6358b438166c4cfcb125b76c556e520b/artifacts
+end_time: 1725609119002
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6358b438166c4cfcb125b76c556e520b
+run_name: thoughtful-moth-374
+run_uuid: 6358b438166c4cfcb125b76c556e520b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725609118945
+status: 3
+tags: []
+user_id: thomasgeorgiou

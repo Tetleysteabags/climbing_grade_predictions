@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/3e92b011643e47709c01ea0f9592011c/artifacts
+end_time: 1725522222788
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3e92b011643e47709c01ea0f9592011c
+run_name: respected-hare-204
+run_uuid: 3e92b011643e47709c01ea0f9592011c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725522222752
+status: 3
+tags: []
+user_id: thomasgeorgiou

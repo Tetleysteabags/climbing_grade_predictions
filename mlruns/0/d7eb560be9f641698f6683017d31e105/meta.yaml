@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/d7eb560be9f641698f6683017d31e105/artifacts
+end_time: 1725609118864
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d7eb560be9f641698f6683017d31e105
+run_name: skittish-jay-698
+run_uuid: d7eb560be9f641698f6683017d31e105
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725609118772
+status: 3
+tags: []
+user_id: thomasgeorgiou

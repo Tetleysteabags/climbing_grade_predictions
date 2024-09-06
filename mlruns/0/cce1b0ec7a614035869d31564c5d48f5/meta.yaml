@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/cce1b0ec7a614035869d31564c5d48f5/artifacts
+end_time: 1725608509200
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cce1b0ec7a614035869d31564c5d48f5
+run_name: dashing-gull-805
+run_uuid: cce1b0ec7a614035869d31564c5d48f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725608509134
+status: 3
+tags: []
+user_id: thomasgeorgiou

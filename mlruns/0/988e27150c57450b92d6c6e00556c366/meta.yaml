@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/988e27150c57450b92d6c6e00556c366/artifacts
+end_time: 1725523977332
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 988e27150c57450b92d6c6e00556c366
+run_name: aged-carp-239
+run_uuid: 988e27150c57450b92d6c6e00556c366
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725523977276
+status: 3
+tags: []
+user_id: thomasgeorgiou

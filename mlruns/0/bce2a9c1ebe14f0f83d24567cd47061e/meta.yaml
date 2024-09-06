@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/bce2a9c1ebe14f0f83d24567cd47061e/artifacts
+end_time: 1725608690408
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bce2a9c1ebe14f0f83d24567cd47061e
+run_name: colorful-hawk-557
+run_uuid: bce2a9c1ebe14f0f83d24567cd47061e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725608496214
+status: 3
+tags: []
+user_id: thomasgeorgiou

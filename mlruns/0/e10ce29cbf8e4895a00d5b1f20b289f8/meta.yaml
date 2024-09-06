@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/thomasgeorgiou/Documents/Coding/Climbing%20ML%20Project/mlruns/0/e10ce29cbf8e4895a00d5b1f20b289f8/artifacts
+end_time: 1725612532913
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e10ce29cbf8e4895a00d5b1f20b289f8
+run_name: stylish-conch-439
+run_uuid: e10ce29cbf8e4895a00d5b1f20b289f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725612532860
+status: 3
+tags: []
+user_id: thomasgeorgiou
