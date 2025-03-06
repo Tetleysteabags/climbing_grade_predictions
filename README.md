@@ -1,3 +1,4 @@
+# Note Feb 2025: Currently undergoing refinement including optimising and tweaking models, and improving the initial analysis.
 
 # Climbing Grade Predictions
 
